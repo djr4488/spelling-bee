@@ -15,8 +15,11 @@ import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.spellingbee.SpellingBeeGame;
+import com.spellingbee.quiz.LetterDiff;
 import com.spellingbee.ui.Palette;
 import com.spellingbee.ui.UiKit;
+
+import java.util.List;
 
 /** A Stage-based screen with a FitViewport and a root table filling it. */
 public abstract class BaseScreen extends ScreenAdapter {
@@ -78,6 +81,30 @@ public abstract class BaseScreen extends ScreenAdapter {
     }
 
     // ---- small helpers -------------------------------------------------------------------
+
+    /** Markup color for dark text inside "answer"-style labels (which default to white). */
+    protected static final String DARK = "[#2B2B2B]";
+
+    /** Letters that don't match are colored; mismatched spaces show as "_". */
+    protected static String markup(List<LetterDiff.Mark> marks, String badColor) {
+        if (marks.isEmpty()) return "[#9A927F](nothing)[]";
+        StringBuilder sb = new StringBuilder(DARK);
+        for (LetterDiff.Mark m : marks) {
+            char c = m.ch == '[' ? '(' : m.ch;
+            if (m.ok) {
+                sb.append(c);
+            } else {
+                sb.append(badColor).append(c == ' ' ? '_' : c).append("[]");
+            }
+        }
+        return sb.append("[]").toString();
+    }
+
+    protected Label wrapped(String text) {
+        Label l = label(text, "default");
+        l.setWrap(true);
+        return l;
+    }
 
     protected Label label(String text, String style) {
         return new Label(text, skin, style);

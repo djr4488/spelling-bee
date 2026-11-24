@@ -12,11 +12,10 @@ import com.badlogic.gdx.utils.Align;
 import com.spellingbee.SpellingBeeGame;
 import com.spellingbee.data.WordEntry;
 import com.spellingbee.quiz.LetterDiff;
+import com.spellingbee.quiz.Progress;
 import com.spellingbee.quiz.QuizSession;
 import com.spellingbee.ui.OnScreenKeyboard;
 import com.spellingbee.ui.Palette;
-
-import java.util.List;
 
 /**
  * The quiz: the word is spoken, never shown, while the player types. A correct
@@ -25,18 +24,24 @@ import java.util.List;
  */
 public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener {
     private static final int MAX_LENGTH = 40;
-    private static final String DARK = "[#2B2B2B]";
 
     private final QuizSession session;
     private final StringBuilder typed = new StringBuilder();
 
     private final Label progressLabel = label("", "bold");
     private final Label scoreLabel = label("", "bold");
+    private final Label modeLabel;
+    /** Last countdown text shown, so the label is only updated when it changes. */
+    private String shownClock = "";
+    private boolean timedRunSaved;
     private final Label answerLabel = new Label("", skin, "answer");
     private final Table answerBox = new Table();
     private final Container<Table> body = new Container<>();
     private final Table quizArea = new Table();
     private final TextButton altButton;
+    private final TextButton sentenceButton;
+    /** Which example sentence the Sentence button plays next. */
+    private int nextSentence;
 
     /** True while the "Correct!" flash plays or the reveal is showing. */
     private boolean busy;
@@ -50,7 +55,9 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         // Header
         Table header = new Table();
         header.add(progressLabel).left().expandX();
-        header.add(label(session.mode == QuizSession.Mode.REVIEW ? "Review missed words" : "Practice", "small")).expandX();
+        modeLabel = label(session.mode == QuizSession.Mode.REVIEW ? "Review missed words" : "Practice",
+                session.isTimed() ? "bold" : "small");
+        header.add(modeLabel).expandX();
         header.add(scoreLabel).right().padRight(20);
         header.add(button("Menu", "default", this::onBack)).width(140).height(64);
         root.add(header).growX().padBottom(10).row();
@@ -60,7 +67,8 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         hints.defaults().pad(6).height(78).width(292);
         hints.add(button("Hear word", "hint", () -> { if (!revealing) game.pronouncer.word(current()); }));
         hints.add(button("Definition", "hint", () -> { if (!revealing) game.pronouncer.definition(current()); }));
-        hints.add(button("Sentence", "hint", () -> { if (!revealing) game.pronouncer.sentence(current()); }));
+        sentenceButton = button("Sentence", "hint", this::playSentence);
+        hints.add(sentenceButton);
         altButton = button("Say it another way", "hint", () -> { if (!revealing) game.pronouncer.alternate(current()); });
         hints.add(altButton);
         quizArea.add(hints).padBottom(8).row();
@@ -105,11 +113,25 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         revealing = false;
         typed.setLength(0);
         body.setActor(quizArea);
-        progressLabel.setText("Word " + session.number() + " of " + session.size());
+        progressLabel.setText(session.isTimed() ? "Word " + session.number()
+                : "Word " + session.number() + " of " + session.size());
+        updateClock();
         scoreLabel.setText("Correct: " + session.correctCount());
         altButton.setDisabled(!current().hasAltPronunciation());
+        nextSentence = 0;
+        sentenceButton.setText("Sentence");
         refreshAnswer();
         stage.addAction(Actions.sequence(Actions.delay(0.4f), Actions.run(() -> game.pronouncer.word(current()))));
+    }
+
+    /** Alternates between the two example sentences; the label says which one is next. */
+    private void playSentence() {
+        if (revealing) return;
+        game.pronouncer.sentence(current(), nextSentence);
+        if (current().hasSentence2()) {
+            nextSentence = 1 - nextSentence;
+            sentenceButton.setText(nextSentence == 1 ? "Another sentence" : "First sentence");
+        }
     }
 
     private void refreshAnswer() {
@@ -119,6 +141,35 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         } else {
             answerLabel.setText(DARK + typed + "[][#C98F00]|[]");
         }
+    }
+
+    // ---- timed sessions ------------------------------------------------------------------
+
+    @Override
+    public void render(float delta) {
+        if (session.isTimed()) {
+            session.tick(Math.min(delta, 0.25f)); // a long pause between frames doesn't count
+            updateClock();
+        }
+        super.render(delta);
+    }
+
+    private void updateClock() {
+        if (!session.isTimed()) return;
+        int left = session.secondsLeft();
+        String text = left > 0 ? String.format("%d:%02d left", left / 60, left % 60) : "Time's up! Finish this word";
+        if (!text.equals(shownClock)) {
+            shownClock = text;
+            modeLabel.setText(text);
+        }
+    }
+
+    /** Keeps the result of a timed session, also when it is left early. */
+    private void saveTimedRun() {
+        if (!session.isTimed() || timedRunSaved || session.answeredCount() == 0) return;
+        timedRunSaved = true;
+        game.progress.recordTimedRun(new Progress.TimedRun(System.currentTimeMillis(),
+                Math.round(session.elapsedSeconds()), session.answeredCount(), session.correctCount()));
     }
 
     // ---- keyboard ------------------------------------------------------------------------
@@ -200,6 +251,10 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         t.add(wrapped(w.definition)).width(900).row();
         t.add(label("Sentence", "default")).top().padRight(24);
         t.add(wrapped(w.sentence)).width(900).row();
+        if (w.hasSentence2()) {
+            t.add(label("", "default"));
+            t.add(wrapped(w.sentence2)).width(900).row();
+        }
         if (w.note != null && !w.note.isEmpty()) {
             t.add(label("Note", "default")).top().padRight(24);
             t.add(wrapped(w.note)).width(900).row();
@@ -218,27 +273,6 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         game.pronouncer.reveal(w);
     }
 
-    private Label wrapped(String text) {
-        Label l = label(text, "default");
-        l.setWrap(true);
-        return l;
-    }
-
-    /** Letters that don't match are colored; mismatched spaces show as "_". */
-    private static String markup(List<LetterDiff.Mark> marks, String badColor) {
-        if (marks.isEmpty()) return "[#9A927F](nothing)[]";
-        StringBuilder sb = new StringBuilder(DARK);
-        for (LetterDiff.Mark m : marks) {
-            char c = m.ch == '[' ? '(' : m.ch;
-            if (m.ok) {
-                sb.append(c);
-            } else {
-                sb.append(badColor).append(c == ' ' ? '_' : c).append("[]");
-            }
-        }
-        return sb.append("[]").toString();
-    }
-
     private void next() {
         game.speech.stop();
         stage.getRoot().clearActions();
@@ -246,6 +280,7 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
         answerBox.setScale(1f);
         session.advance();
         if (session.isFinished()) {
+            saveTimedRun();
             game.switchTo(new SummaryScreen(game, session));
         } else {
             startWord();
@@ -255,6 +290,7 @@ public class QuizScreen extends BaseScreen implements OnScreenKeyboard.Listener 
     @Override
     protected void onBack() {
         game.speech.stop();
+        saveTimedRun();
         game.showMenu();
     }
 

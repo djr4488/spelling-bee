@@ -7,7 +7,7 @@ import com.spellingbee.data.WordBank;
 import com.spellingbee.data.WordEntry;
 import com.spellingbee.quiz.Progress;
 import com.spellingbee.quiz.QuizSession;
-import com.spellingbee.quiz.WordDeck;
+import com.spellingbee.quiz.WordPicker;
 import com.spellingbee.screens.MenuScreen;
 import com.spellingbee.screens.QuizScreen;
 import com.spellingbee.screens.SettingsScreen;
@@ -49,28 +49,28 @@ public class SpellingBeeGame extends Game {
         showMenu();
     }
 
-    /** New practice session of the chosen length, without repeats until the list is used up. */
+    /**
+     * New practice session of the chosen length, or a timed one, favoring new words
+     * and words being missed.
+     */
     public void startPractice() {
         List<String> all = new ArrayList<>();
         for (WordEntry e : words.all()) all.add(e.word);
         int length = settings.getSessionLength();
-        List<String> picked;
-        if (length <= 0) {
-            picked = WordDeck.shuffled(all, random);
+        if (length == Settings.TIMED) {
+            // Every word in weighted order; the clock decides how many get used.
+            start(QuizSession.Mode.TIMED, WordPicker.pick(all, progress, 0, random), settings.getTimedMinutes() * 60);
         } else {
-            WordDeck deck = new WordDeck(all, progress.getDeckState(), random);
-            picked = deck.draw(length);
-            progress.setDeckState(deck.saveState());
+            start(QuizSession.Mode.PRACTICE, WordPicker.pick(all, progress, length, random), 0);
         }
-        start(QuizSession.Mode.PRACTICE, picked);
     }
 
     /** Quizzes only words that are on the missed list. */
     public void startReview() {
-        start(QuizSession.Mode.REVIEW, WordDeck.shuffled(progress.getMissed(), random));
+        start(QuizSession.Mode.REVIEW, WordPicker.shuffled(progress.getMissed(), random), 0);
     }
 
-    private void start(QuizSession.Mode mode, List<String> picked) {
+    private void start(QuizSession.Mode mode, List<String> picked, int timeLimitSeconds) {
         List<WordEntry> entries = new ArrayList<>();
         for (String w : picked) {
             WordEntry e = words.find(w);
@@ -80,7 +80,7 @@ public class SpellingBeeGame extends Game {
             showMenu();
             return;
         }
-        switchTo(new QuizScreen(this, new QuizSession(mode, entries)));
+        switchTo(new QuizScreen(this, new QuizSession(mode, entries, timeLimitSeconds)));
     }
 
     public void showMenu() {

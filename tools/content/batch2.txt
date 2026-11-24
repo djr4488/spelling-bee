@@ -1,122 +1,122 @@
-# word | partOfSpeech | definition | sentence | pronunciation | speakAs | alts | flags | note
-peer | verb | To look closely or carefully, as if trying to see something hard to see. | I had to peer through the foggy window to see the street. | PEER |  |  | H | Sounds like "pier" (a dock that goes out over water).
-peach | noun | A sweet, juicy fruit with fuzzy yellow-pink skin and a large pit. | The ripe peach dripped juice down my chin. | PEECH |  |  |  |
-groan | verb | To make a long, low sound because of pain, unhappiness, or annoyance. | The students began to groan when the teacher announced a pop quiz. | GROHN |  |  | H | Sounds like "grown" (having gotten bigger).
-parade | noun | A line of people, bands, and floats moving through the streets to celebrate. | We watched the marching band in the holiday parade. | puh-RAYD |  |  |  |
-trouble | noun | A problem, difficulty, or worry. | We had trouble finding our seats in the dark theater. | TRUB-ul |  |  |  |
-safety | noun | The condition of being protected from harm or danger. | Wear a helmet for safety when you ride your bike. | SAYF-tee |  |  |  |
-library | noun | A place where books and other materials are kept for people to borrow or read. | I checked out three books from the library. | LY-brair-ee |  |  |  |
-company | noun | A business, or a group of people who are spending time with you. | My mom works for a company that builds bridges. | KUM-puh-nee |  |  |  |
-pennies | noun | Coins that are each worth one cent. | I saved a jar full of pennies to give to charity. | PEN-eez |  |  |  |
-remember | verb | To bring back to your mind something from before; not forget. | Did you remember to bring your library book? | rih-MEM-ber |  |  |  |
-pearls | noun | Smooth, shiny, round gems that form inside oyster shells. | Grandma wore a necklace of white pearls to the wedding. | PURLZ |  |  | H | Sounds like "purls" (stitches in knitting).
-barge | noun | A long boat with a flat bottom used to carry heavy loads on rivers and canals. | A barge loaded with coal floated slowly down the river. | BARJ |  |  |  |
-humble | adjective | Not proud; not thinking you are better than others. | Even after winning the prize, she stayed humble and thanked her team. | HUM-bul |  |  |  |
-breeze | noun | A light, gentle wind. | A cool breeze blew through the open window. | BREEZ |  |  |  |
-sprout | verb | To begin to grow, as when a seed puts out its first small shoot. | The bean seeds started to sprout after a few days. | SPROWT |  |  |  |
-alive | adjective | Living; not dead. | The plant was still alive even though I forgot to water it. | uh-LYV |  |  |  |
-return | verb | To come or go back, or to give something back. | Please return the book when you are done reading it. | rih-TURN |  |  |  |
-footprints | noun | Marks left on the ground by feet or shoes. | We followed the bear's footprints in the snow. | FUUT-prints |  |  |  |
-gentle | adjective | Soft, kind, and careful; not rough. | Be gentle when you hold the baby chick. | JEN-tul |  |  |  |
-pancakes | noun | Thin, flat, round cakes cooked in a pan and often eaten with syrup. | Dad makes blueberry pancakes every Sunday. | PAN-kayks |  |  |  |
-sloth | noun | A slow-moving animal that hangs upside down from trees in South and Central American rain forests. | The sloth hung from the branch and barely moved all day. | SLAWTH |  | slohth |  |
-whistle | noun | A small device that makes a high, sharp sound when you blow into it. | The coach blew the whistle to start the game. | WIS-ul |  |  |  |
-relax | verb | To rest and become calm and less tense. | After a busy week, I like to relax with a good book. | rih-LAKS |  |  |  |
-stout | adjective | Thick, strong, and sturdy, or somewhat heavy in build. | The farmer leaned on a stout wooden fence post. | STOWT |  |  |  |
-guide | noun | A person who shows others the way or explains things. | Our guide pointed out the eagles' nest during the hike. | GYD |  |  |  |
-ginger | noun | A spicy root used to flavor food and drinks. | Mom put fresh ginger in the stir-fry. | JIN-jer |  |  |  |
-hiking | noun | Taking long walks outdoors, especially on trails in the mountains or woods. | We went hiking in the mountains and saw a waterfall. | HY-king |  |  |  |
-result | noun | Something that happens because of something else; an outcome. | The result of all her practice was a perfect score. | rih-ZULT |  |  |  |
-tangy | adjective | Having a sharp, strong taste that is a little sour. | The lemonade was sweet and tangy. | TANG-ee |  |  |  |
-grumpily | adverb | In a cranky, bad-tempered way. | My brother grumpily got out of bed when the alarm rang. | GRUM-pih-lee |  |  |  |
-seventy | noun | The number that is ten more than sixty. | My great-grandmother just turned seventy years old. | SEV-en-tee |  |  |  |
-soared | verb | Flew or rose high into the air. | The eagle soared high above the canyon. | SORD |  |  | H | Sounds like "sword" in many accents and like "sored".
-buttons | noun | Small, round pieces sewn onto clothes and pushed through holes to fasten them. | My coat has four big buttons down the front. | BUT-unz |  |  |  |
-clever | adjective | Quick to learn and understand; smart and creative. | The clever fox found a way to open the gate. | KLEV-er |  |  |  |
-invite | verb | To ask someone to come to an event or to do something. | I want to invite my whole class to my party. | in-VYT |  | in vite |  | Also said IN-vite as an informal noun.
-carefully | adverb | With close attention, so as to avoid mistakes or harm. | She carefully carried the tray of glasses to the table. | KAIR-ful-ee |  |  |  |
-permit | noun | An official paper that gives you permission to do something. | You need a permit to fish in the state park. | PER-mit |  | per mitt |  | The verb is said per-MIT; same spelling.
-lunar | adjective | Having to do with the moon. | The astronauts drove a lunar rover across the dusty ground. | LOO-ner |  |  |  |
-woven | adjective | Made by crossing threads, strips, or strands over and under each other. | She carried a woven basket full of berries. | WOH-ven |  |  |  |
-granola | noun | A crunchy breakfast food made of toasted oats, nuts, and dried fruit. | I like granola with yogurt and strawberries. | gruh-NOH-luh |  |  |  |
-laughter | noun | The sound people make when they find something funny. | The room filled with laughter when the clown fell over. | LAF-ter |  |  |  |
-lounge | verb | To sit or lie in a lazy, relaxed way. | On Saturdays, we like to lounge on the couch in our pajamas. | LOWNJ |  |  |  |
-duration | noun | The length of time that something lasts. | We stayed inside for the duration of the storm. | doo-RAY-shun |  | dyoo ray shun |  |
-examine | verb | To look at something closely and carefully. | The doctor will examine your ears and throat. | ig-ZAM-in |  |  |  |
-tissues | noun | Soft, thin papers used for blowing your nose or wiping. | Please pass me the box of tissues; I have a runny nose. | TISH-ooz |  |  |  |
-compromise | noun | An agreement in which each side gives up part of what it wants. | We reached a compromise: I pick the movie and my sister picks the snack. | KOM-pruh-myz |  |  |  |
-bifocals | noun | Eyeglasses with lenses split into two parts, one for seeing far away and one for reading. | Grandpa put on his bifocals to read the newspaper. | BY-foh-kulz |  |  |  |
-geologist | noun | A scientist who studies rocks, soil, and how the earth was formed. | The geologist showed us a rock that was millions of years old. | jee-OL-uh-jist |  |  |  |
-atmosphere | noun | The layer of gases that surrounds a planet, or the feeling of a place. | The earth's atmosphere protects us from the sun's harmful rays. | AT-mus-feer |  |  |  |
-helium | noun | A very light gas that makes balloons float. | The balloons were filled with helium, so they floated to the ceiling. | HEE-lee-um |  |  |  |
-annoyance | noun | A feeling of being bothered or slightly angry. | The buzzing fly was a constant annoyance during dinner. | uh-NOY-unss |  |  |  |
-cuddle | verb | To hold someone or something close in your arms in a loving way. | I like to cuddle with my puppy on the couch. | KUD-ul |  |  |  |
-basement | noun | The part of a building that is below the ground floor. | We keep our holiday decorations in the basement. | BAYS-ment |  |  |  |
-butterflies | noun | Insects with thin bodies and large, often colorful wings. | Butterflies fluttered around the purple flowers in the garden. | BUT-er-flyz |  |  |  |
-sniffling | verb | Breathing in noisily through the nose, as when you have a cold or are crying. | My little sister was sniffling because she had a cold. | SNIF-ling |  |  |  |
-awning | noun | A sheet of cloth or other material stretched over a window or door to give shade. | We stood under the store's awning to stay out of the rain. | AW-ning |  |  |  |
-boycotting | verb | Refusing to buy, use, or take part in something as a way of protesting. | The town was boycotting the store until it treated its workers fairly. | BOY-kot-ing |  |  |  |
-proclaim | verb | To announce something publicly and proudly. | The king will proclaim a holiday for the whole kingdom. | proh-KLAYM |  |  |  |
-warrior | noun | A brave fighter or soldier, especially in ancient times. | The warrior held up her shield and charged into battle. | WOR-ee-er |  |  |  |
-salary | noun | A fixed amount of money paid to a worker on a regular schedule. | The teacher's salary is paid twice a month. | SAL-uh-ree |  |  |  | Do not confuse with "celery," the vegetable.
-jovial | adjective | Cheerful, jolly, and friendly. | The jovial mail carrier always whistled and waved. | JOH-vee-ul |  |  |  |
-dictionary | noun | A book or website that lists words in ABC order and explains their meanings. | I looked up the meaning of the word in the dictionary. | DIK-shuh-nair-ee |  |  |  |
-versus | preposition | Against, especially in a game or contest. | Tonight's game is the Tigers versus the Bears. | VER-sus |  |  | H | Sounds like "verses" (lines of a poem or song).
-marlin | noun | A large ocean fish with a long, pointed, spear-like snout. | The fisherman caught a blue marlin off the coast of Florida. | MAR-lin |  |  |  |
-incident | noun | An event or happening, especially an unusual or unpleasant one. | There was an incident at recess when two kids bumped heads. | IN-sih-dent |  |  |  |
-cutlery | noun | Knives, forks, and spoons used for eating or serving food. | Please set the table with plates, napkins, and cutlery. | KUT-ler-ee |  |  |  |
-bellowed | verb | Shouted in a deep, loud voice. | The coach bellowed instructions from the sideline. | BEL-ohd |  |  |  |
-disappointment | noun | The sad feeling you get when something you hoped for does not happen. | It was a disappointment when the picnic was canceled because of rain. | dis-uh-POYNT-ment |  |  |  |
-suggested | verb | Offered an idea or plan for others to think about. | My friend suggested that we build a fort out of blankets. | sug-JES-tid |  | suh jes tid |  |
-interruption | noun | Something that stops an activity or conversation for a short time. | The fire drill was an interruption during our math test. | in-tuh-RUP-shun |  |  |  |
-puffy | adjective | Swollen or soft and rounded, as if filled with air. | Big, puffy clouds floated across the blue sky. | PUF-ee |  |  |  |
-burlap | noun | A rough, strong cloth used to make sacks and bags. | The potatoes came in a large burlap sack. | BUR-lap |  |  |  |
-kelp | noun | A large, brown seaweed that grows in tall underwater forests. | Sea otters wrap themselves in kelp so they do not float away while sleeping. | KELP |  |  |  |
-beneath | preposition | Below or under something. | The cat was sleeping beneath the porch. | bih-NEETH |  |  |  |
-fickle | adjective | Changing your mind or feelings often, without good reason. | The fickle weather turned from sunny to stormy in an hour. | FIK-ul |  |  |  |
-molten | adjective | Melted by great heat, like hot liquid rock or metal. | Molten lava flowed down the side of the volcano. | MOHL-ten |  |  |  |
-thimble | noun | A small metal or plastic cap worn on a finger to protect it while sewing. | Grandma wears a thimble so the needle does not poke her finger. | THIM-bul |  |  |  |
-rigid | adjective | Stiff and hard to bend; not flexible. | The board was rigid and would not bend. | RIJ-id |  |  |  |
-disappear | verb | To go out of sight; to vanish. | The magician made the coin disappear. | dis-uh-PEER |  |  |  |
-inferior | adjective | Lower in quality or rank; not as good. | The cheap umbrella was inferior and broke in the first storm. | in-FEER-ee-er |  |  |  |
-business | noun | A company or store that sells goods or services, or the work of buying and selling. | My aunt runs a small business that bakes birthday cakes. | BIZ-nis |  |  |  |
-lullaby | noun | A soft, gentle song sung to help a baby fall asleep. | Mom sang a lullaby to my baby brother. | LUL-uh-by |  |  |  |
-Halloween | noun | The holiday on October 31 when people wear costumes and go trick-or-treating. | I am going to dress up as a robot for Halloween. | hal-uh-WEEN |  | hahl oh ween |  |
-Japanese | adjective | From or having to do with Japan, its people, or its language. | We ate at a Japanese restaurant and tried sushi. | jap-uh-NEEZ |  |  |  |
-chisel | noun | A tool with a sharp, flat edge used to cut or shape wood or stone. | The sculptor used a chisel to carve the marble statue. | CHIZ-ul |  |  |  |
-organism | noun | Any living thing, such as a plant, animal, or bacterium. | A tiny organism can be seen only with a microscope. | OR-guh-niz-um |  |  |  |
-truant | noun | A student who stays away from school without permission. | The principal called the parents of the truant who skipped class. | TROO-unt |  |  |  |
-chimpanzees | noun | Smart apes from Africa that live in groups and can use simple tools. | The chimpanzees used sticks to dig termites out of the mound. | chim-pan-ZEEZ |  |  |  |
-concentrate | verb | To focus all your attention on something. | It is hard to concentrate when the TV is on. | KON-sen-trayt |  |  |  |
-tiptoed | verb | Walked quietly on the balls of the feet. | I tiptoed past my sleeping baby sister. | TIP-tohd |  |  |  |
-wetlands | noun | Land that is soaked with water, such as marshes and swamps. | Many frogs and birds live in the wetlands near the river. | WET-landz |  |  |  |
-property | noun | Something that is owned by someone, such as land, a building, or belongings. | The sign said the land was private property. | PROP-er-tee |  |  |  |
-tractor | noun | A powerful farm vehicle with big wheels, used for pulling heavy equipment. | The farmer drove the tractor across the field. | TRAK-ter |  |  |  |
-relief | noun | A good feeling when worry, pain, or stress goes away. | It was a relief to find my lost dog. | rih-LEEF |  |  |  |
-elite | adjective | Among the very best of a group. | Only elite athletes compete in the Olympics. | ih-LEET |  | ay leet |  |
-custody | noun | The legal right or duty to take care of someone or something. | The police took the suspect into custody. | KUS-tuh-dee |  |  |  |
-fierce | adjective | Very strong, wild, or violent. | The fierce lion roared at the hyenas. | FEERS |  |  |  |
-hurdler | noun | An athlete who runs a race while jumping over a series of barriers. | The hurdler leaped over every barrier and won the race. | HURD-ler |  |  |  |
-December | noun | The twelfth and last month of the year. | My birthday is in December, right before winter break. | dih-SEM-ber |  |  |  |
-reinstate | verb | To put someone or something back into a former position or condition. | The school decided to reinstate the old recess schedule. | ree-in-STAYT |  |  |  |
-opposite | adjective | Completely different, or on the other side. | Hot is the opposite of cold. | OP-uh-zit |  |  |  |
-compliment | noun | Something nice said to praise someone. | She gave me a compliment on my drawing. | KOM-pluh-ment |  |  | H | Sounds like "complement" (something that completes or goes well with something else).
-investment | noun | Money or time put into something in the hope that it will grow or pay off later. | Buying a good pair of boots was a smart investment. | in-VEST-ment |  |  |  |
-fundraiser | noun | An event held to collect money for a cause or group. | Our school held a bake sale as a fundraiser for new books. | FUND-ray-zer |  |  |  |
-quail | noun | A small, plump, brown bird that lives on the ground. | A quail and her chicks scurried across the path. | KWAYL |  |  |  | Listed twice in words.txt; kept once.
-pamphlet | noun | A small, thin booklet with information about one topic. | The nurse gave us a pamphlet about healthy eating. | PAM-flit |  |  |  |
-desperate | adjective | Feeling that you badly need something and will try almost anything to get it. | The desperate hikers searched for water in the hot desert. | DES-per-it |  |  |  |
-pinata | noun | A decorated container filled with candy and toys that people hit with a stick at parties. | We took turns swinging at the pinata until candy spilled out. | peen-YAH-tuh | peen yah tuh |  |  | Also spelled with a tilde, piñata.
-territory | noun | An area of land that belongs to or is controlled by a person, animal, or government. | The wolf marked its territory to warn other wolves away. | TAIR-ih-tor-ee |  |  |  |
-monorail | noun | A train that runs on a single track, usually raised high above the ground. | We rode the monorail from the parking lot to the theme park. | MON-uh-rayl |  |  |  |
-alphabetical | adjective | Arranged in ABC order. | The teacher put our names in alphabetical order. | al-fuh-BET-ih-kul |  |  |  |
-prejudice | noun | An unfair opinion about a person or group formed without knowing the facts. | We should judge people by their actions, not by prejudice. | PREJ-uh-dis |  |  |  |
-cartridge | noun | A small case that holds something, such as ink for a printer, and fits into a machine. | The printer needs a new ink cartridge. | KAR-trij |  |  |  |
-fertilizer | noun | A substance added to soil to help plants grow. | We added fertilizer to the garden so the tomatoes would grow bigger. | FUR-tuh-ly-zer |  |  |  |
-sorceress | noun | A woman in stories who has magic powers; a witch or enchantress. | The sorceress cast a spell that turned the frog into a prince. | SOR-ser-is |  |  |  |
-singularity | noun | The state of being one of a kind; also, a point in space, like the center of a black hole, where gravity is endless. | Scientists believe a singularity lies at the center of every black hole. | sing-gyuh-LAIR-ih-tee |  |  |  |
-battalion | noun | A large group of soldiers, usually several hundred, that is part of an army. | The battalion marched across the field in neat rows. | buh-TAL-yun |  |  |  |
-perimeter | noun | The distance around the outside edge of a shape or area. | We measured the perimeter of the garden to know how much fence to buy. | puh-RIM-ih-ter |  |  |  |
-meticulous | adjective | Extremely careful and precise about small details. | She was meticulous about lining up every crayon in the box. | muh-TIK-yuh-lus |  |  |  |
-megahertz | noun | A unit for measuring how often something vibrates or repeats each second, equal to one million cycles per second. | The radio station broadcasts at 101 megahertz. | MEG-uh-hurts |  |  |  |
-fascism | noun | A kind of government led by a dictator that takes away people's freedoms, does not allow anyone to disagree, and puts the nation above individual rights. | In history class we learned how fascism took over several countries in Europe before World War II. | FASH-iz-um | fash iz um |  |  |
+# word | partOfSpeech | definition | sentence | sentence2 | pronunciation | speakAs | alts | flags | note
+peer | verb | To look closely or carefully, as if trying to see something hard to see. | I had to peer through the foggy window to see the street. | The owl seemed to peer at us from the tree. | PEER |  |  | H | Sounds like "pier" (a dock that goes out over water).
+peach | noun | A sweet, juicy fruit with fuzzy yellow-pink skin and a large pit. | The ripe peach dripped juice down my chin. | A peach has a big, hard pit in the middle. | PEECH |  |  |  |
+groan | verb | To make a long, low sound because of pain, unhappiness, or annoyance. | The students began to groan when the teacher announced a pop quiz. | I heard my dad groan when he lifted the heavy box. | GROHN |  |  | H | Sounds like "grown" (having gotten bigger).
+parade | noun | A line of people, bands, and floats moving through the streets to celebrate. | We watched the marching band in the holiday parade. | The circus parade had elephants and clowns. | puh-RAYD |  |  |  |
+trouble | noun | A problem, difficulty, or worry. | We had trouble finding our seats in the dark theater. | The puppy got into trouble for chewing my shoe. | TRUB-ul |  |  |  |
+safety | noun | The condition of being protected from harm or danger. | Wear a helmet for safety when you ride your bike. | The lifeguard watches the pool for our safety. | SAYF-tee |  |  |  |
+library | noun | A place where books and other materials are kept for people to borrow or read. | I checked out three books from the library. | The library is a quiet place to read. | LY-brair-ee |  |  |  |
+company | noun | A business, or a group of people who are spending time with you. | My mom works for a company that builds bridges. | It was nice to have company while I waited. | KUM-puh-nee |  |  |  |
+pennies | noun | Coins that are each worth one cent. | I saved a jar full of pennies to give to charity. | Ten pennies make one dime. | PEN-eez |  |  |  |
+remember | verb | To bring back to your mind something from before; not forget. | Did you remember to bring your library book? | I can't remember where I put my shoes. | rih-MEM-ber |  |  |  |
+pearls | noun | Smooth, shiny, round gems that form inside oyster shells. | Grandma wore a necklace of white pearls to the wedding. | Divers searched the oyster beds for pearls. | PURLZ |  |  | H | Sounds like "purls" (stitches in knitting).
+barge | noun | A long boat with a flat bottom used to carry heavy loads on rivers and canals. | A barge loaded with coal floated slowly down the river. | The barge was too heavy to move without a tugboat. | BARJ |  |  |  |
+humble | adjective | Not proud; not thinking you are better than others. | Even after winning the prize, she stayed humble and thanked her team. | The humble farmer never bragged about his prize pumpkin. | HUM-bul |  |  |  |
+breeze | noun | A light, gentle wind. | A cool breeze blew through the open window. | The ocean breeze felt cool on our faces. | BREEZ |  |  |  |
+sprout | verb | To begin to grow, as when a seed puts out its first small shoot. | The bean seeds started to sprout after a few days. | Green leaves began to sprout from the potato. | SPROWT |  |  |  |
+alive | adjective | Living; not dead. | The plant was still alive even though I forgot to water it. | The doctor said the bird was alive but needed rest. | uh-LYV |  |  |  |
+return | verb | To come or go back, or to give something back. | Please return the book when you are done reading it. | The birds return to our yard every spring. | rih-TURN |  |  |  |
+footprints | noun | Marks left on the ground by feet or shoes. | We followed the bear's footprints in the snow. | Our footprints in the sand washed away with the waves. | FUUT-prints |  |  |  |
+gentle | adjective | Soft, kind, and careful; not rough. | Be gentle when you hold the baby chick. | The gentle giant helped the lost children find home. | JEN-tul |  |  |  |
+pancakes | noun | Thin, flat, round cakes cooked in a pan and often eaten with syrup. | Dad makes blueberry pancakes every Sunday. | I poured syrup over my stack of pancakes. | PAN-kayks |  |  |  |
+sloth | noun | A slow-moving animal that hangs upside down from trees in South and Central American rain forests. | The sloth hung from the branch and barely moved all day. | A sloth moves so slowly that plants grow on its fur. | SLAWTH |  | slohth |  |
+whistle | noun | A small device that makes a high, sharp sound when you blow into it. | The coach blew the whistle to start the game. | The train let out a loud whistle as it left the station. | WIS-ul |  |  |  |
+relax | verb | To rest and become calm and less tense. | After a busy week, I like to relax with a good book. | Take a deep breath and relax your shoulders. | rih-LAKS |  |  |  |
+stout | adjective | Thick, strong, and sturdy, or somewhat heavy in build. | The farmer leaned on a stout wooden fence post. | The stout little pony could carry heavy bags. | STOWT |  |  |  |
+guide | noun | A person who shows others the way or explains things. | Our guide pointed out the eagles' nest during the hike. | The guide showed us how to paddle the canoe. | GYD |  |  |  |
+ginger | noun | A spicy root used to flavor food and drinks. | Mom put fresh ginger in the stir-fry. | Ginger cookies taste warm and a little spicy. | JIN-jer |  |  |  |
+hiking | noun | Taking long walks outdoors, especially on trails in the mountains or woods. | We went hiking in the mountains and saw a waterfall. | Bring good shoes for hiking on the rocky trail. | HY-king |  |  |  |
+result | noun | Something that happens because of something else; an outcome. | The result of all her practice was a perfect score. | The result of the vote was a tie. | rih-ZULT |  |  |  |
+tangy | adjective | Having a sharp, strong taste that is a little sour. | The lemonade was sweet and tangy. | The tangy orange juice made my mouth pucker. | TANG-ee |  |  |  |
+grumpily | adverb | In a cranky, bad-tempered way. | My brother grumpily got out of bed when the alarm rang. | The old cat grumpily moved off the warm couch. | GRUM-pih-lee |  |  |  |
+seventy | noun | The number that is ten more than sixty. | My great-grandmother just turned seventy years old. | The book has seventy pages with pictures. | SEV-en-tee |  |  |  |
+soared | verb | Flew or rose high into the air. | The eagle soared high above the canyon. | The paper airplane soared across the classroom. | SORD |  |  | H | Sounds like "sword" in many accents and like "sored".
+buttons | noun | Small, round pieces sewn onto clothes and pushed through holes to fasten them. | My coat has four big buttons down the front. | I need help with the buttons on my shirt. | BUT-unz |  |  |  |
+clever | adjective | Quick to learn and understand; smart and creative. | The clever fox found a way to open the gate. | My clever sister figured out the puzzle first. | KLEV-er |  |  |  |
+invite | verb | To ask someone to come to an event or to do something. | I want to invite my whole class to my party. | Let's invite Grandma to come to the school play. | in-VYT |  | in vite |  | Also said IN-vite as an informal noun.
+carefully | adverb | With close attention, so as to avoid mistakes or harm. | She carefully carried the tray of glasses to the table. | Read the directions carefully before you start the test. | KAIR-ful-ee |  |  |  |
+permit | noun | An official paper that gives you permission to do something. | You need a permit to fish in the state park. | A building permit lets you build a new garage. | PER-mit |  | per mitt |  | The verb is said per-MIT; same spelling.
+lunar | adjective | Having to do with the moon. | The astronauts drove a lunar rover across the dusty ground. | A lunar eclipse happens when Earth's shadow covers the moon. | LOO-ner |  |  |  |
+woven | adjective | Made by crossing threads, strips, or strands over and under each other. | She carried a woven basket full of berries. | The rug was woven from colorful wool. | WOH-ven |  |  |  |
+granola | noun | A crunchy breakfast food made of toasted oats, nuts, and dried fruit. | I like granola with yogurt and strawberries. | We packed granola bars for the hike. | gruh-NOH-luh |  |  |  |
+laughter | noun | The sound people make when they find something funny. | The room filled with laughter when the clown fell over. | We heard laughter coming from the playground. | LAF-ter |  |  |  |
+lounge | verb | To sit or lie in a lazy, relaxed way. | On Saturdays, we like to lounge on the couch in our pajamas. | Cats love to lounge in a sunny spot by the window. | LOWNJ |  |  |  |
+duration | noun | The length of time that something lasts. | We stayed inside for the duration of the storm. | The duration of the movie was two hours. | doo-RAY-shun |  | dyoo ray shun |  |
+examine | verb | To look at something closely and carefully. | The doctor will examine your ears and throat. | Let's examine the leaf under the magnifying glass. | ig-ZAM-in |  |  |  |
+tissues | noun | Soft, thin papers used for blowing your nose or wiping. | Please pass me the box of tissues; I have a runny nose. | My nose was so stuffy that I used up all the tissues. | TISH-ooz |  |  |  |
+compromise | noun | An agreement in which each side gives up part of what it wants. | We reached a compromise: I pick the movie and my sister picks the snack. | Both teams wanted the field, so they agreed to a compromise and shared it. | KOM-pruh-myz |  |  |  |
+bifocals | noun | Eyeglasses with lenses split into two parts, one for seeing far away and one for reading. | Grandpa put on his bifocals to read the newspaper. | Bifocals help people see things both near and far. | BY-foh-kulz |  |  |  |
+geologist | noun | A scientist who studies rocks, soil, and how the earth was formed. | The geologist showed us a rock that was millions of years old. | A geologist studies rocks, volcanoes, and earthquakes. | jee-OL-uh-jist |  |  |  |
+atmosphere | noun | The layer of gases that surrounds a planet, or the feeling of a place. | The earth's atmosphere protects us from the sun's harmful rays. | There is no air to breathe because the moon has almost no atmosphere. | AT-mus-feer |  |  |  |
+helium | noun | A very light gas that makes balloons float. | The balloons were filled with helium, so they floated to the ceiling. | Helium is a gas that is lighter than air. | HEE-lee-um |  |  |  |
+annoyance | noun | A feeling of being bothered or slightly angry. | The buzzing fly was a constant annoyance during dinner. | To my annoyance, my little brother kept humming the same song. | uh-NOY-unss |  |  |  |
+cuddle | verb | To hold someone or something close in your arms in a loving way. | I like to cuddle with my puppy on the couch. | The baby likes to cuddle her teddy bear at bedtime. | KUD-ul |  |  |  |
+basement | noun | The part of a building that is below the ground floor. | We keep our holiday decorations in the basement. | The washing machine is down in the basement. | BAYS-ment |  |  |  |
+butterflies | noun | Insects with thin bodies and large, often colorful wings. | Butterflies fluttered around the purple flowers in the garden. | Caterpillars turn into butterflies. | BUT-er-flyz |  |  |  |
+sniffling | verb | Breathing in noisily through the nose, as when you have a cold or are crying. | My little sister was sniffling because she had a cold. | I heard sniffling from the back row during the sad movie. | SNIF-ling |  |  |  |
+awning | noun | A sheet of cloth or other material stretched over a window or door to give shade. | We stood under the store's awning to stay out of the rain. | The cafe has a striped awning over its outdoor tables. | AW-ning |  |  |  |
+boycotting | verb | Refusing to buy, use, or take part in something as a way of protesting. | The town was boycotting the store until it treated its workers fairly. | The students were boycotting the cafeteria's cold pizza. | BOY-kot-ing |  |  |  |
+proclaim | verb | To announce something publicly and proudly. | The king will proclaim a holiday for the whole kingdom. | The town crier would proclaim the news in the square. | proh-KLAYM |  |  |  |
+warrior | noun | A brave fighter or soldier, especially in ancient times. | The warrior held up her shield and charged into battle. | The young warrior trained every day with her sword. | WOR-ee-er |  |  |  |
+salary | noun | A fixed amount of money paid to a worker on a regular schedule. | The teacher's salary is paid twice a month. | My cousin earns a salary from her job at the bank. | SAL-uh-ree |  |  |  | Do not confuse with "celery," the vegetable.
+jovial | adjective | Cheerful, jolly, and friendly. | The jovial mail carrier always whistled and waved. | Santa is often shown as a jovial man with a big laugh. | JOH-vee-ul |  |  |  |
+dictionary | noun | A book or website that lists words in ABC order and explains their meanings. | I looked up the meaning of the word in the dictionary. | A dictionary lists words in alphabetical order. | DIK-shuh-nair-ee |  |  |  |
+versus | preposition | Against, especially in a game or contest. | Tonight's game is the Tigers versus the Bears. | The movie is about good versus evil. | VER-sus |  |  | H | Sounds like "verses" (lines of a poem or song).
+marlin | noun | A large ocean fish with a long, pointed, spear-like snout. | The fisherman caught a blue marlin off the coast of Florida. | A marlin has a long, pointed bill like a sword. | MAR-lin |  |  |  |
+incident | noun | An event or happening, especially an unusual or unpleasant one. | There was an incident at recess when two kids bumped heads. | The principal wrote a report about the incident in the hallway. | IN-sih-dent |  |  |  |
+cutlery | noun | Knives, forks, and spoons used for eating or serving food. | Please set the table with plates, napkins, and cutlery. | Forks, knives, and spoons are all kinds of cutlery. | KUT-ler-ee |  |  |  |
+bellowed | verb | Shouted in a deep, loud voice. | The coach bellowed instructions from the sideline. | The giant bellowed so loudly that the windows shook. | BEL-ohd |  |  |  |
+disappointment | noun | The sad feeling you get when something you hoped for does not happen. | It was a disappointment when the picnic was canceled because of rain. | To her disappointment, the ice cream shop was closed. | dis-uh-POYNT-ment |  |  |  |
+suggested | verb | Offered an idea or plan for others to think about. | My friend suggested that we build a fort out of blankets. | The teacher suggested that I read the chapter again. | sug-JES-tid |  | suh jes tid |  |
+interruption | noun | Something that stops an activity or conversation for a short time. | The fire drill was an interruption during our math test. | We watched the show without a single interruption for ads. | in-tuh-RUP-shun |  |  |  |
+puffy | adjective | Swollen or soft and rounded, as if filled with air. | Big, puffy clouds floated across the blue sky. | My eyes were puffy after I cried. | PUF-ee |  |  |  |
+burlap | noun | A rough, strong cloth used to make sacks and bags. | The potatoes came in a large burlap sack. | We raced in burlap sacks at the field day. | BUR-lap |  |  |  |
+kelp | noun | A large, brown seaweed that grows in tall underwater forests. | Sea otters wrap themselves in kelp so they do not float away while sleeping. | Fish swim through tall forests of kelp in the ocean. | KELP |  |  |  |
+beneath | preposition | Below or under something. | The cat was sleeping beneath the porch. | We found a frog beneath a big leaf. | bih-NEETH |  |  |  |
+fickle | adjective | Changing your mind or feelings often, without good reason. | The fickle weather turned from sunny to stormy in an hour. | My fickle friend changes her favorite color every day. | FIK-ul |  |  |  |
+molten | adjective | Melted by great heat, like hot liquid rock or metal. | Molten lava flowed down the side of the volcano. | The blacksmith poured molten metal into the mold. | MOHL-ten |  |  |  |
+thimble | noun | A small metal or plastic cap worn on a finger to protect it while sewing. | Grandma wears a thimble so the needle does not poke her finger. | The thimble fits on the tip of your finger like a tiny cup. | THIM-bul |  |  |  |
+rigid | adjective | Stiff and hard to bend; not flexible. | The board was rigid and would not bend. | A rigid plastic case protects the tablet. | RIJ-id |  |  |  |
+disappear | verb | To go out of sight; to vanish. | The magician made the coin disappear. | Snowmen disappear when the sun comes out. | dis-uh-PEER |  |  |  |
+inferior | adjective | Lower in quality or rank; not as good. | The cheap umbrella was inferior and broke in the first storm. | The inferior glue could not hold the pieces together. | in-FEER-ee-er |  |  |  |
+business | noun | A company or store that sells goods or services, or the work of buying and selling. | My aunt runs a small business that bakes birthday cakes. | The lemonade stand was my first business. | BIZ-nis |  |  |  |
+lullaby | noun | A soft, gentle song sung to help a baby fall asleep. | Mom sang a lullaby to my baby brother. | The soft lullaby helped the baby fall asleep. | LUL-uh-by |  |  |  |
+Halloween | noun | The holiday on October 31 when people wear costumes and go trick-or-treating. | I am going to dress up as a robot for Halloween. | On Halloween, kids go trick-or-treating for candy. | hal-uh-WEEN |  | hahl oh ween |  |
+Japanese | adjective | From or having to do with Japan, its people, or its language. | We ate at a Japanese restaurant and tried sushi. | My friend is learning to write Japanese letters. | jap-uh-NEEZ |  |  |  |
+chisel | noun | A tool with a sharp, flat edge used to cut or shape wood or stone. | The sculptor used a chisel to carve the marble statue. | The woodworker tapped the chisel with a hammer. | CHIZ-ul |  |  |  |
+organism | noun | Any living thing, such as a plant, animal, or bacterium. | A tiny organism can be seen only with a microscope. | Every living thing, from a tree to a tiger, is an organism. | OR-guh-niz-um |  |  |  |
+truant | noun | A student who stays away from school without permission. | The principal called the parents of the truant who skipped class. | The truant was found playing video games instead of being at school. | TROO-unt |  |  |  |
+chimpanzees | noun | Smart apes from Africa that live in groups and can use simple tools. | The chimpanzees used sticks to dig termites out of the mound. | Chimpanzees are close cousins of gorillas. | chim-pan-ZEEZ |  |  |  |
+concentrate | verb | To focus all your attention on something. | It is hard to concentrate when the TV is on. | I need to concentrate on my reading. | KON-sen-trayt |  |  |  |
+tiptoed | verb | Walked quietly on the balls of the feet. | I tiptoed past my sleeping baby sister. | The cat tiptoed along the top of the fence. | TIP-tohd |  |  |  |
+wetlands | noun | Land that is soaked with water, such as marshes and swamps. | Many frogs and birds live in the wetlands near the river. | Ducks build nests in the tall grass of the wetlands. | WET-landz |  |  |  |
+property | noun | Something that is owned by someone, such as land, a building, or belongings. | The sign said the land was private property. | The lost-and-found box holds school property. | PROP-er-tee |  |  |  |
+tractor | noun | A powerful farm vehicle with big wheels, used for pulling heavy equipment. | The farmer drove the tractor across the field. | A big green tractor pulled the hay wagon. | TRAK-ter |  |  |  |
+relief | noun | A good feeling when worry, pain, or stress goes away. | It was a relief to find my lost dog. | The cool water was a relief on such a hot day. | rih-LEEF |  |  |  |
+elite | adjective | Among the very best of a group. | Only elite athletes compete in the Olympics. | The elite soldiers were the best in the army. | ih-LEET |  | A-leet |  |
+custody | noun | The legal right or duty to take care of someone or something. | The police took the suspect into custody. | The judge gave the mother custody of the children. | KUS-tuh-dee |  |  |  |
+fierce | adjective | Very strong, wild, or violent. | The fierce lion roared at the hyenas. | The fierce wind tore the roof off the shed. | FEERS |  |  |  |
+hurdler | noun | An athlete who runs a race while jumping over a series of barriers. | The hurdler leaped over every barrier and won the race. | The hurdler practiced jumping over the barriers every day. | HURD-ler |  |  |  |
+December | noun | The twelfth and last month of the year. | My birthday is in December, right before winter break. | It snowed in December, just in time for the holidays. | dih-SEM-ber |  |  |  |
+reinstate | verb | To put someone or something back into a former position or condition. | The school decided to reinstate the old recess schedule. | The club voted to reinstate her as president. | ree-in-STAYT |  |  |  |
+opposite | adjective | Completely different, or on the other side. | Hot is the opposite of cold. | My friend lives on the opposite side of town. | OP-uh-zit |  |  |  |
+compliment | noun | Something nice said to praise someone. | She gave me a compliment on my drawing. | Telling someone they did a great job is a nice compliment. | KOM-pluh-ment |  |  | H | Sounds like "complement" (something that completes or goes well with something else).
+investment | noun | Money or time put into something in the hope that it will grow or pay off later. | Buying a good pair of boots was a smart investment. | Planting fruit trees is an investment that pays off for years. | in-VEST-ment |  |  |  |
+fundraiser | noun | An event held to collect money for a cause or group. | Our school held a bake sale as a fundraiser for new books. | The car wash fundraiser raised money for the animal shelter. | FUND-ray-zer |  |  |  |
+quail | noun | A small, plump, brown bird that lives on the ground. | A quail and her chicks scurried across the path. | The quail has a little feather sticking up from its head. | KWAYL |  |  |  | Listed twice in words.txt; kept once.
+pamphlet | noun | A small, thin booklet with information about one topic. | The nurse gave us a pamphlet about healthy eating. | The museum gave us a pamphlet with a map inside. | PAM-flit |  |  |  |
+desperate | adjective | Feeling that you badly need something and will try almost anything to get it. | The desperate hikers searched for water in the hot desert. | The desperate kitten cried until someone rescued it from the tree. | DES-per-it |  |  |  |
+pinata | noun | A decorated container filled with candy and toys that people hit with a stick at parties. | We took turns swinging at the pinata until candy spilled out. | The donkey pinata was full of candy and toys. | peen-YAH-tuh | peen yah tuh |  |  | Also spelled with a tilde, piñata.
+territory | noun | An area of land that belongs to or is controlled by a person, animal, or government. | The wolf marked its territory to warn other wolves away. | The bear will chase away anyone who enters its territory. | TAIR-ih-tor-ee |  |  |  |
+monorail | noun | A train that runs on a single track, usually raised high above the ground. | We rode the monorail from the parking lot to the theme park. | The monorail runs on a single track high above the street. | MON-uh-rayl |  |  |  |
+alphabetical | adjective | Arranged in ABC order. | The teacher put our names in alphabetical order. | The books are on the shelf in alphabetical order by author. | al-fuh-BET-ih-kul |  |  |  |
+prejudice | noun | An unfair opinion about a person or group formed without knowing the facts. | We should judge people by their actions, not by prejudice. | Prejudice means judging someone before you know them. | PREJ-uh-dis |  |  |  |
+cartridge | noun | A small case that holds something, such as ink for a printer, and fits into a machine. | The printer needs a new ink cartridge. | My old video game came on a cartridge. | KAR-trij |  |  |  |
+fertilizer | noun | A substance added to soil to help plants grow. | We added fertilizer to the garden so the tomatoes would grow bigger. | The farmer spread fertilizer on the cornfield. | FUR-tuh-ly-zer |  |  |  |
+sorceress | noun | A woman in stories who has magic powers; a witch or enchantress. | The sorceress cast a spell that turned the frog into a prince. | The evil sorceress lived in a dark tower. | SOR-ser-is |  |  |  |
+singularity | noun | The state of being one of a kind; also, a point in space, like the center of a black hole, where gravity is endless. | Scientists believe a singularity lies at the center of every black hole. | The math problem had a singularity where the answer could not be found. | sing-gyuh-LAIR-ih-tee |  |  |  |
+battalion | noun | A large group of soldiers, usually several hundred, that is part of an army. | The battalion marched across the field in neat rows. | A battalion is a large group of soldiers. | buh-TAL-yun |  |  |  |
+perimeter | noun | The distance around the outside edge of a shape or area. | We measured the perimeter of the garden to know how much fence to buy. | The perimeter of a square with sides of two inches is eight inches. | puh-RIM-ih-ter |  |  |  |
+meticulous | adjective | Extremely careful and precise about small details. | She was meticulous about lining up every crayon in the box. | The meticulous painter did not drip a single drop of paint. | muh-TIK-yuh-lus |  |  |  |
+megahertz | noun | A unit for measuring how often something vibrates or repeats each second, equal to one million cycles per second. | The radio station broadcasts at 101 megahertz. | A megahertz is a measurement used for radio waves and computer speed. | MEG-uh-hurts |  |  |  |
+fascism | noun | A kind of government led by a dictator that takes away people's freedoms, does not allow anyone to disagree, and puts the nation above individual rights. | In history class we learned how fascism took over several countries in Europe before World War II. | Under fascism, people were not free to speak out against their leaders. | FASH-iz-um | fash iz um |  |  |

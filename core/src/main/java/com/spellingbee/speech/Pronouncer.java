@@ -32,8 +32,9 @@ public class Pronouncer {
         speech.speak(e.definition, rate());
     }
 
-    public void sentence(WordEntry e) {
-        speech.speak(e.spokenSentence(), rate());
+    /** Speaks the first (0) or second (1) example sentence; the first if there is no second. */
+    public void sentence(WordEntry e, int which) {
+        speech.speak(which == 1 && e.hasSentence2() ? e.spokenSentence2() : e.spokenSentence(), rate());
     }
 
     /** Speaks the alternate pronunciation(s), or says there are none. */
@@ -58,6 +59,11 @@ public class Pronouncer {
                 e.spokenSentence()), rate());
     }
 
+    /** The word, then its letters one by one, then the word again. */
+    public void spell(WordEntry e) {
+        speech.speakSequence(Arrays.asList(e.spokenWord(), spellOut(e.word), e.spokenWord()), rate() * WORD_RATE_FACTOR);
+    }
+
     public void say(String text) {
         speech.speak(text, rate());
     }
@@ -78,8 +84,10 @@ public class Pronouncer {
         return sb.toString();
     }
 
+    // Checked against Piper/espeak pronunciation rules: "ay" and "aye" are read as
+    // "eye", and "eff" as the abbreviation "E F F", so A and F use other spellings.
     private static final String[] LETTERS = {
-            "ay", "bee", "see", "dee", "ee", "eff", "gee", "aitch", "eye", "jay", "kay", "el", "em",
+            "A", "bee", "see", "dee", "ee", "ef", "gee", "aitch", "eye", "jay", "kay", "el", "em",
             "en", "oh", "pee", "cue", "are", "ess", "tee", "you", "vee", "double you", "ex", "why", "zee"};
 
     private static String letterName(char c) {

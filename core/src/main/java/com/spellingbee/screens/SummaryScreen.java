@@ -12,12 +12,18 @@ import com.spellingbee.ui.Palette;
 public class SummaryScreen extends BaseScreen {
     public SummaryScreen(SpellingBeeGame game, QuizSession session) {
         super(game);
-        int right = session.correctCount(), total = session.size();
+        int right = session.correctCount(), total = session.answeredCount();
         String cheer = right == total ? "Perfect score!" : right * 10 >= total * 8 ? "Great work!" : "Good practice!";
+        String result = "You spelled " + right + " of " + total + " words correctly.";
+        if (session.isTimed()) {
+            int minutes = Math.max(1, Math.round(session.elapsedSeconds() / 60f));
+            result = "In " + minutes + (minutes == 1 ? " minute" : " minutes") + " you spelled "
+                    + right + " of " + total + " words correctly.";
+        }
 
         root.defaults().pad(10);
         root.add(label(cheer, "title")).row();
-        root.add(label("You spelled " + right + " of " + total + " words correctly.", "big")).padBottom(10).row();
+        root.add(label(result, "big")).padBottom(10).row();
 
         if (!session.missed().isEmpty()) {
             root.add(label("Words to practice:", "bold")).row();
@@ -42,7 +48,7 @@ public class SummaryScreen extends BaseScreen {
         buttons.add(button("Menu", "default", game::showMenu));
         root.add(buttons).padTop(20).row();
 
-        game.pronouncer.say(cheer + " You spelled " + right + " out of " + total + " correctly.");
+        game.pronouncer.say(cheer + " " + result.replace(" of ", " out of "));
     }
 
     @Override

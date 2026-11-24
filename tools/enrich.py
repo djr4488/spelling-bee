@@ -9,7 +9,9 @@ Inputs
   assets/words.txt        Raw word list, comma separated (may span lines).
   tools/content/*.txt     Generated content, one word per line, pipe separated:
 
-      word | partOfSpeech | definition | sentence | pronunciation | speakAs | alts | flags | note
+      word | partOfSpeech | definition | sentence | sentence2 | pronunciation | speakAs | alts | flags | note
+
+    - sentence2: a second example sentence; both must contain the exact word.
 
     - speakAs:  optional respelling fed to text-to-speech instead of the word
                 (only where engines mispronounce it). Empty = none.
@@ -33,7 +35,7 @@ RAW = ROOT / "assets" / "words.txt"
 CONTENT_DIR = ROOT / "tools" / "content"
 OUT = ROOT / "assets" / "words.json"
 
-FIELDS = ["word", "partOfSpeech", "definition", "sentence", "pronunciation",
+FIELDS = ["word", "partOfSpeech", "definition", "sentence", "sentence2", "pronunciation",
           "speakAs", "alts", "flags", "note"]
 
 SUFFIXES = ["ness", "ing", "ies", "ied", "ed", "es", "ly", "er", "est", "s", "y", "e"]
@@ -77,6 +79,7 @@ def to_entry(row):
         "partOfSpeech": row["partOfSpeech"],
         "definition": row["definition"],
         "sentence": row["sentence"],
+        "sentence2": row["sentence2"],
         "pronunciation": row["pronunciation"],
         "speakAs": row["speakAs"] or None,
         "altPronunciations": [a.strip() for a in row["alts"].split(";") if a.strip()],
@@ -119,11 +122,14 @@ def validate(entries):
     problems = []
     for e in entries:
         w = e["word"]
-        for field in ["word", "partOfSpeech", "definition", "sentence", "pronunciation"]:
+        for field in ["word", "partOfSpeech", "definition", "sentence", "sentence2", "pronunciation"]:
             if not e.get(field):
                 problems.append(f"{w}: missing {field}")
-        if e.get("sentence") and not sentence_has_word(w, e["sentence"]):
-            problems.append(f"{w}: sentence does not contain the exact word")
+        for field in ["sentence", "sentence2"]:
+            if e.get(field) and not sentence_has_word(w, e[field]):
+                problems.append(f"{w}: {field} does not contain the exact word")
+        if e.get("sentence") and e.get("sentence") == e.get("sentence2"):
+            problems.append(f"{w}: sentence2 is the same as sentence")
         if e.get("definition") and definition_leaks(w, e["definition"]):
             problems.append(f"{w}: definition contains the word or a form of it")
     return problems

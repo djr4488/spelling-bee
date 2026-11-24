@@ -35,6 +35,8 @@ public class ScreenshotTour extends SpellingBeeGame {
         System.setProperty("spellingbee.prefsSuffix", "-tour");
         super.create();
         progress.reset();
+        settings.setSessionLength(com.spellingbee.store.Settings.TIMED); // show the timed header
+        progress.recordTimedRun(new com.spellingbee.quiz.Progress.TimedRun(System.currentTimeMillis(), 1800, 65, 58));
     }
 
     @Override
@@ -55,10 +57,26 @@ public class ScreenshotTour extends SpellingBeeGame {
             }
             case 5: shot("5-correct"); frame = 0; break;
             case 6: setScreenSession(); break;
-            case 7: shot("6-summary"); switchTo(new ProgressScreen(this)); break;
-            case 8: shot("7-progress"); showSettings(); break;
-            case 9: shot("8-settings"); switchTo(new VoiceCheckScreen(this)); break;
-            case 10: shot("9-voicecheck"); progress.reset(); Gdx.app.exit(); break;
+            case 7: {
+                shot("6-summary");
+                for (String w : new String[] {"enigmatic", "Eritrea", "forsythia", "rhythm", "necessary"}) {
+                    if (words.find(w) != null) { progress.record(w, false); progress.record(w, false); }
+                }
+                switchTo(new ProgressScreen(this));
+                break;
+            }
+            case 8: shot("7-progress"); switchTo(new com.spellingbee.screens.StudyScreen(this, words.find("enigmatic"))); break;
+            case 9: shot("7b-study-look"); ((com.spellingbee.screens.StudyScreen) getScreen()).showWrite(); break;
+            case 10: {
+                shot("7c-study-write");
+                com.spellingbee.screens.StudyScreen st = (com.spellingbee.screens.StudyScreen) getScreen();
+                for (char c : "enigmattic".toCharArray()) st.onChar(c);
+                st.onEnter();
+                break;
+            }
+            case 11: shot("7d-study-check"); showSettings(); break;
+            case 12: shot("8-settings"); switchTo(new VoiceCheckScreen(this)); break;
+            case 13: shot("9-voicecheck"); progress.reset(); Gdx.app.exit(); break;
             default: break;
         }
     }

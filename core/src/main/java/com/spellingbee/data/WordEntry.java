@@ -9,6 +9,8 @@ public class WordEntry {
     public String partOfSpeech;
     public String definition;
     public String sentence;
+    /** A second example sentence, for when the first doesn't make the word clear. */
+    public String sentence2;
     /** Human-readable respelling, e.g. "NESS-uh-sair-ee". Shown after a miss. */
     public String pronunciation;
     /** Optional respelling fed to text-to-speech instead of {@link #word}. */
@@ -25,8 +27,20 @@ public class WordEntry {
 
     /** The sentence, with the word swapped for its TTS respelling if it has one. */
     public String spokenSentence() {
-        if (speakAs == null || speakAs.isEmpty()) return sentence;
-        return sentence.replaceAll("(?i)(?<![\\w-])" + java.util.regex.Pattern.quote(word) + "(?![\\w-])",
+        return spoken(sentence);
+    }
+
+    public String spokenSentence2() {
+        return spoken(sentence2);
+    }
+
+    public boolean hasSentence2() {
+        return sentence2 != null && !sentence2.isEmpty();
+    }
+
+    private String spoken(String text) {
+        if (text == null || speakAs == null || speakAs.isEmpty()) return text;
+        return text.replaceAll("(?i)(?<![\\w-])" + java.util.regex.Pattern.quote(word) + "(?![\\w-])",
                 java.util.regex.Matcher.quoteReplacement(speakAs));
     }
 

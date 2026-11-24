@@ -1,117 +1,117 @@
-# word | partOfSpeech | definition | sentence | pronunciation | speakAs | alts | flags | note
-ran | verb | Moved quickly on foot; the past tense of run. | We ran all the way to the bus stop so we would not miss it. | RAN |  |  |  |
-rod | noun | A long, thin, straight stick or bar of wood or metal. | Grandpa handed me a fishing rod and showed me how to cast the line. | ROD |  |  |  |
-shy | adjective | Nervous or quiet around other people, especially new people. | The shy puppy hid behind the couch when the guests arrived. | SHY |  |  |  |
-drink | verb | To swallow a liquid, such as water or milk. | Remember to drink plenty of water on a hot day. | DRINK |  |  |  |
-mist | noun | A thin cloud of tiny water drops floating in the air near the ground. | The morning mist made the lake look soft and gray. | MIST |  |  | H | Sounds like "missed" (failed to hit or catch).
-still | adjective | Not moving at all; calm and quiet. | The water in the pond was so still that it looked like a mirror. | STIL |  |  |  |
-pump | noun | A machine that pushes air or liquid into or out of something. | We used a pump to put air in the flat bicycle tire. | PUMP |  |  |  |
-sharp | adjective | Having a thin edge or fine point that can cut or poke. | Be careful with the knife because the blade is very sharp. | SHARP |  |  |  |
-rich | adjective | Having a lot of money or valuable things. | The rich king lived in a castle filled with gold. | RICH |  |  |  |
-shoot | verb | To send something forward quickly toward a target, like a ball at a goal. | She tried to shoot the basketball from the free-throw line. | SHOOT |  |  | H | Sounds like "chute" (a slide or tube that things drop through).
-claws | noun | The sharp, curved nails on the feet of an animal such as a cat or bird. | The kitten used its tiny claws to climb up the curtain. | KLAWZ |  |  | H | Sounds like "clause" (part of a sentence or rule).
-winter | noun | The coldest season of the year, between fall and spring. | We build snowmen every winter when the snow is deep. | WIN-ter |  |  |  |
-mouth | noun | The opening in the face used for eating and talking. | The baby bird opened its mouth wide to get the worm. | MOWTH |  |  |  |
-paper | noun | Thin material made from wood pulp, used for writing, drawing, and wrapping. | Please write your name at the top of the paper. | PAY-per |  |  |  |
-inside | adverb | In or into a room, building, or container. | It started to rain, so we went inside to play a board game. | in-SIDE |  | IN-side |  |
-whale | noun | A very large ocean animal that breathes air through a hole on top of its head. | A huge whale splashed its tail right next to our boat. | WAYL |  |  | H | Sounds like "wail" (a long, loud cry).
-lizard | noun | A small reptile with scaly skin, four legs, and a long tail. | A green lizard sat on the warm rock in the sun. | LIZ-erd |  |  |  |
-nurse | noun | A person trained to care for people who are sick or hurt. | The school nurse put a bandage on my scraped knee. | NURS |  |  |  |
-wind | noun | Air that moves across the earth, sometimes gently and sometimes strongly. | The wind blew my kite high into the sky. | WIND |  |  | H | Spelled like the verb "wind" (WYND, to turn or twist); this entry means moving air.
-good | adjective | Of high quality, pleasing, or well-behaved. | The teacher said I did a good job on my project. | GUUD |  |  |  |
-bunny | noun | A child's word for a rabbit. | The bunny wiggled its nose and hopped across the grass. | BUN-ee |  |  |  |
-silly | adjective | Funny in a foolish or playful way. | My little brother made a silly face to make me laugh. | SIL-ee |  |  |  |
-stars | noun | Huge balls of burning gas that look like tiny points of light in the night sky. | We lay on the grass and counted the stars. | STARZ |  |  |  |
-hello | interjection | A word used as a friendly greeting when you meet someone or answer the phone. | She waved and said hello to her new neighbor. | heh-LOH |  | huh-LOH |  |
-shell | noun | The hard outer covering of an egg, nut, or animals like turtles and snails. | I found a pretty pink shell on the beach. | SHEL |  |  |  |
-easy | adjective | Not hard to do or understand. | The first math problem was easy, but the second one was tricky. | EE-zee |  |  |  |
-shift | verb | To move or change from one place or position to another. | Please shift your chair a little so I can get by. | SHIFT |  |  |  |
-seal | noun | A sea animal with flippers and thick fur that lives in cold waters. | The seal balanced a ball on its nose at the aquarium show. | SEEL |  |  |  |
-crack | noun | A thin line where something has split or broken without falling apart. | There is a crack in the sidewalk in front of our house. | KRAK |  |  |  |
-apple | noun | A round fruit with red, green, or yellow skin that grows on a tree. | I packed a crunchy apple in my lunch box. | AP-ul |  |  |  |
-shine | verb | To give off or reflect bright light. | The sun will shine brightly after the storm passes. | SHYN |  |  |  |
-spray | verb | To scatter liquid in tiny drops through the air. | Dad used the hose to spray water on the garden. | SPRAY |  |  |  |
-rabbit | noun | A small, furry animal with long ears and a short fluffy tail that hops. | The rabbit nibbled on a carrot in its cage. | RAB-it |  |  |  |
-frozen | adjective | Turned into ice or made very hard by cold. | We went skating on the frozen pond. | FROH-zen |  |  |  |
-market | noun | A place where people buy and sell food and other goods. | We bought fresh peaches at the farmers market. | MAR-kit |  |  |  |
-beware | verb | To be careful and watch out for danger. | The sign on the gate said to beware of the dog. | bih-WAIR |  |  |  |
-wrong | adjective | Not correct or true; not right. | I picked the wrong answer, so I tried again. | RAWNG |  |  |  |
-leg | noun | One of the body parts that people and animals use to stand and walk. | He hurt his leg playing soccer. | LEG |  |  |  |
-most | adjective | The greatest amount or number. | Our class collected the most cans for the food drive. | MOHST |  |  |  |
-down | adverb | Toward a lower place. | The ball rolled down the hill. | DOWN |  |  |  |
-sick | adjective | Not feeling well; having an illness. | I stayed home from school because I was sick with a cold. | SIK |  |  |  |
-truck | noun | A large motor vehicle used for carrying heavy loads. | The garbage truck comes down our street every Tuesday. | TRUK |  |  |  |
-bush | noun | A woody plant that is smaller than a tree and has many branches. | A bird built a nest in the bush by our front door. | BUUSH |  |  |  |
-yarn | noun | Long, twisted thread used for knitting or weaving. | Grandma used blue yarn to make me a scarf. | YARN |  |  |  |
-body | noun | The whole physical form of a person or animal. | Exercise helps keep your body strong. | BOD-ee |  |  |  |
-heart | noun | The organ in your chest that pumps blood through your body. | You can feel your heart beat faster after you run. | HART |  |  | H | Sounds like "hart" (a male deer).
-even | adjective | Flat and smooth, or able to be divided by two with nothing left over. | Four is an even number, but five is odd. | EE-ven |  |  |  |
-come | verb | To move toward someone or to a place. | Please come to my birthday party on Saturday. | KUM |  |  |  |
-sound | noun | Something that you hear. | We heard the sound of rain on the roof. | SOWND |  |  |  |
-chips | noun | Thin, crispy slices of potato or corn eaten as a snack. | We ate chips and salsa at the picnic. | CHIPS |  |  |  |
-year | noun | A period of twelve months, or 365 days. | My sister will start middle school next year. | YEER |  |  |  |
-feed | verb | To give food to a person or animal. | It is my job to feed the cat every morning. | FEED |  |  |  |
-speak | verb | To say words out loud; to talk. | Please speak clearly so everyone can hear you. | SPEEK |  |  |  |
-flock | noun | A group of birds or sheep that stay together. | A flock of geese flew over the school in a V shape. | FLOK |  |  |  |
-sparkle | verb | To shine with small flashes of light. | The snow seemed to sparkle in the bright sunshine. | SPAR-kul |  |  |  |
-hopped | verb | Jumped with short, quick leaps; the past tense of hop. | The frog hopped from one lily pad to another. | HOPT |  |  |  |
-dirt | noun | Loose earth or soil, or anything that makes something unclean. | My shoes were covered in dirt after the hike. | DURT |  |  |  |
-hurt | verb | To cause pain or injury. | Did it hurt when you fell off the swing? | HURT |  |  |  |
-steps | noun | Flat places to put your feet when going up or down, as on a staircase. | We sat on the front steps and ate ice cream. | STEPS |  |  |  |
-path | noun | A narrow trail for walking. | We followed the path through the woods to the creek. | PATH |  |  |  |
-fire | noun | The flames, heat, and light made when something burns. | We roasted marshmallows over the camp fire. | FYR |  |  |  |
-late | adjective | Arriving or happening after the expected time. | I was late for school because the bus broke down. | LAYT |  |  |  |
-wings | noun | The body parts that birds, bats, and insects use to fly. | The butterfly opened its colorful wings. | WINGZ |  |  |  |
-house | noun | A building where people live. | Our house has a red door and a big porch. | HOWS |  |  |  |
-tusk | noun | A very long, pointed tooth that sticks out of the mouth of an animal like an elephant or walrus. | The elephant used its tusk to dig in the dirt. | TUSK |  |  |  |
-dive | verb | To jump headfirst into water. | She likes to dive off the diving board at the pool. | DYV |  |  |  |
-fine | adjective | Good enough, or feeling well. | I fell down, but I am fine now. | FYN |  |  |  |
-mossy | adjective | Covered with a soft, green plant that grows on rocks and trees in damp places. | We sat on a mossy log in the shady forest. | MAW-see |  | MOS-ee |  |
-beans | noun | Seeds or pods of certain plants that are eaten as vegetables. | We had rice and beans for dinner. | BEENZ |  |  |  |
-truth | noun | What is real or correct; facts, not lies. | Always tell the truth, even when it is hard. | TROOTH |  |  |  |
-tallest | adjective | Higher from bottom to top than all the others. | Dad is the tallest person in our family. | TAWL-est |  |  |  |
-cliffs | noun | High, steep walls of rock, often near the sea. | Seabirds built their nests on the rocky cliffs. | KLIFS |  |  |  |
-crunch | noun | A loud, crushing sound, like when you bite something crisp. | I heard the crunch of leaves under my boots. | KRUNCH |  |  |  |
-sweater | noun | A warm, knitted piece of clothing worn on the upper body. | Wear a sweater because it is chilly outside. | SWET-er |  |  |  |
-money | noun | Coins and paper bills used to buy things. | I saved my money to buy a new book. | MUN-ee |  |  |  |
-cabin | noun | A small, simple house, often made of logs. | We stayed in a cabin by the lake for the weekend. | KAB-in |  |  |  |
-carve | verb | To cut wood, stone, or food into a shape or pieces. | We will carve a face into the pumpkin. | KARV |  |  |  |
-earth | noun | The planet we live on, or the soil on the ground. | The earth travels around the sun once a year. | URTH |  |  |  |
-half | noun | One of two equal parts of something. | I gave my friend half of my sandwich. | HAF |  |  |  |
-fear | noun | The feeling of being scared. | My fear of the dark went away when I got a night-light. | FEER |  |  |  |
-riddle | noun | A tricky question or puzzle with a clever answer. | My uncle told us a riddle that took an hour to solve. | RID-ul |  |  |  |
-illness | noun | A sickness or disease. | Grandpa got better after a long illness. | IL-nis |  |  |  |
-knit | verb | To make cloth or clothing by looping yarn together with long needles. | My aunt will knit a hat for the new baby. | NIT |  |  | H | Sounds like "nit" (the egg of a louse). The k is silent.
-total | noun | The whole amount after everything is added together. | The total for our groceries was forty dollars. | TOH-tul |  |  |  |
-finish | verb | To come to the end of something; to complete it. | I need to finish my homework before I can play. | FIN-ish |  |  | H | Sounds like "Finnish" (from Finland).
-spiders | noun | Small creatures with eight legs that often spin webs. | Spiders spun webs in the corners of the old shed. | SPY-derz |  |  |  |
-hospital | noun | A building where sick or injured people get medical care. | My baby cousin was born at the hospital downtown. | HOS-pih-tul |  |  |  |
-narrow | adjective | Not wide; small from side to side. | The hallway was so narrow that only one person could walk through at a time. | NAIR-oh |  |  |  |
-foolish | adjective | Not smart or sensible; silly. | It was foolish to leave my bike out in the rain. | FOO-lish |  |  |  |
-charming | adjective | Very pleasing, delightful, or attractive. | The little village had charming houses with flower boxes. | CHAR-ming |  |  |  |
-beasts | noun | Large or wild animals. | The story was about brave knights and fearsome beasts. | BEESTS |  |  |  |
-smoothly | adverb | Without bumps, problems, or trouble. | The plane landed smoothly on the runway. | SMOOTH-lee |  |  |  |
-dangle | verb | To hang or swing loosely. | My feet dangle off the edge of the dock. | DANG-gul |  |  |  |
-frazzled | adjective | Very tired and upset, with worn-out nerves. | Mom felt frazzled after a long day of chasing the twins. | FRAZ-uld |  |  |  |
-darkness | noun | The state of having little or no light. | The cat's eyes glowed in the darkness. | DARK-nis |  |  |  |
-friend | noun | A person you like and trust and enjoy spending time with. | My best friend and I like to ride bikes together. | FREND |  |  |  |
-swift | adjective | Moving very fast. | The swift deer leaped over the fence. | SWIFT |  |  |  |
-thirsty | adjective | Needing or wanting something to drink. | After soccer practice, I was very thirsty. | THUR-stee |  |  |  |
-voice | noun | The sound a person makes when talking or singing. | She has a beautiful singing voice. | VOYS |  |  |  |
-lead | verb | To show the way by going in front; to guide. | The tour guide will lead us through the museum. | LEED |  |  | H | Spelled like the metal "lead" (LED), and sounds like "lede". This entry means to guide.
-cloak | noun | A loose cape-like coat with no sleeves. | The wizard wrapped his long cloak around his shoulders. | KLOHK |  |  |  |
-indoors | adverb | Inside a building. | We played games indoors because of the thunderstorm. | in-DORZ |  |  |  |
-holiday | noun | A special day of celebration when many people do not go to work or school. | Thanksgiving is my favorite holiday. | HOL-ih-day |  |  |  |
-entire | adjective | Whole; with nothing left out. | I read the entire book in one weekend. | en-TYR |  |  |  |
-mustard | noun | A spicy yellow sauce made from seeds, often put on hot dogs. | I like ketchup and mustard on my hot dog. | MUS-terd |  |  | H | Sounds like "mustered" (gathered together).
-medium | adjective | In the middle; not large and not small. | I ordered a medium drink at the movies. | MEE-dee-um |  |  |  |
-afraid | adjective | Feeling scared or frightened. | My sister is afraid of thunder. | uh-FRAYD |  |  |  |
-source | noun | The place or thing that something comes from. | The sun is our main source of light and heat. | SORS |  |  |  |
-shivering | verb | Shaking because of cold or fear. | We were shivering at the bus stop on the frosty morning. | SHIV-er-ing |  |  |  |
-cottage | noun | A small, cozy house, often in the country. | The cottage had a thatched roof and a garden. | KOT-ij |  |  |  |
-distance | noun | The amount of space between two places or things. | The distance from my house to school is one mile. | DIS-tunss |  |  |  |
-bamboo | noun | A tall, fast-growing plant with hard, hollow stems; pandas love to eat it. | The panda munched on a stalk of bamboo. | bam-BOO |  |  |  |
-always | adverb | At all times; every time. | My dog always wags his tail when I come home. | AWL-wayz |  |  |  |
-morning | noun | The early part of the day, from sunrise until noon. | I eat breakfast every morning before school. | MOR-ning |  |  | H | Sounds like "mourning" (feeling sad after someone dies).
-lovely | adjective | Beautiful, pleasant, or delightful. | We had a lovely picnic in the park. | LUV-lee |  |  |  |
-grandfather | noun | The father of your mother or father. | My grandfather taught me how to play chess. | GRAND-fah-ther |  |  |  |
+# word | partOfSpeech | definition | sentence | sentence2 | pronunciation | speakAs | alts | flags | note
+ran | verb | Moved quickly on foot; the past tense of run. | We ran all the way to the bus stop so we would not miss it. | The puppy ran in circles chasing its own tail. | RAN |  |  |  |
+rod | noun | A long, thin, straight stick or bar of wood or metal. | Grandpa handed me a fishing rod and showed me how to cast the line. | The curtain hangs from a metal rod above the window. | ROD |  |  |  |
+shy | adjective | Nervous or quiet around other people, especially new people. | The shy puppy hid behind the couch when the guests arrived. | He was too shy to sing in front of the whole class. | SHY |  |  |  |
+drink | verb | To swallow a liquid, such as water or milk. | Remember to drink plenty of water on a hot day. | Would you like milk or juice to drink with your lunch? | DRINK |  |  |  |
+mist | noun | A thin cloud of tiny water drops floating in the air near the ground. | The morning mist made the lake look soft and gray. | A fine mist from the waterfall made our faces wet. | MIST |  |  | H | Sounds like "missed" (failed to hit or catch).
+still | adjective | Not moving at all; calm and quiet. | The water in the pond was so still that it looked like a mirror. | Please sit still while I braid your hair. | STIL |  |  |  |
+pump | noun | A machine that pushes air or liquid into or out of something. | We used a pump to put air in the flat bicycle tire. | We filled the tires at the air pump at the gas station. | PUMP |  |  |  |
+sharp | adjective | Having a thin edge or fine point that can cut or poke. | Be careful with the knife because the blade is very sharp. | I need a sharp pencil to draw thin lines. | SHARP |  |  |  |
+rich | adjective | Having a lot of money or valuable things. | The rich king lived in a castle filled with gold. | The rich man gave money to build a new playground. | RICH |  |  |  |
+shoot | verb | To send something forward quickly toward a target, like a ball at a goal. | She tried to shoot the basketball from the free-throw line. | Hockey players shoot the puck toward the net. | SHOOT |  |  | H | Sounds like "chute" (a slide or tube that things drop through).
+claws | noun | The sharp, curved nails on the feet of an animal such as a cat or bird. | The kitten used its tiny claws to climb up the curtain. | The bear used its long claws to dig for roots. | KLAWZ |  |  | H | Sounds like "clause" (part of a sentence or rule).
+winter | noun | The coldest season of the year, between fall and spring. | We build snowmen every winter when the snow is deep. | Birds fly south before winter brings the cold weather. | WIN-ter |  |  |  |
+mouth | noun | The opening in the face used for eating and talking. | The baby bird opened its mouth wide to get the worm. | Please do not talk with food in your mouth. | MOWTH |  |  |  |
+paper | noun | Thin material made from wood pulp, used for writing, drawing, and wrapping. | Please write your name at the top of the paper. | She folded the paper into an airplane. | PAY-per |  |  |  |
+inside | adverb | In or into a room, building, or container. | It started to rain, so we went inside to play a board game. | The kittens stayed inside the warm barn all day. | in-SIDE |  | IN-side |  |
+whale | noun | A very large ocean animal that breathes air through a hole on top of its head. | A huge whale splashed its tail right next to our boat. | The blue whale is the biggest animal on Earth. | WAYL |  |  | H | Sounds like "wail" (a long, loud cry).
+lizard | noun | A small reptile with scaly skin, four legs, and a long tail. | A green lizard sat on the warm rock in the sun. | The lizard flicked its tongue to catch a fly. | LIZ-erd |  |  |  |
+nurse | noun | A person trained to care for people who are sick or hurt. | The school nurse put a bandage on my scraped knee. | The nurse took my temperature at the doctor's office. | NURS |  |  |  |
+wind | noun | Air that moves across the earth, sometimes gently and sometimes strongly. | The wind blew my kite high into the sky. | The strong wind knocked over our trash cans. | WIND |  |  | H | Spelled like the verb "wind" (WYND, to turn or twist); this entry means moving air.
+good | adjective | Of high quality, pleasing, or well-behaved. | The teacher said I did a good job on my project. | The soup smells really good. | GUUD |  |  |  |
+bunny | noun | A child's word for a rabbit. | The bunny wiggled its nose and hopped across the grass. | My little sister's stuffed bunny has floppy ears. | BUN-ee |  |  |  |
+silly | adjective | Funny in a foolish or playful way. | My little brother made a silly face to make me laugh. | We laughed at the silly song about a dancing pickle. | SIL-ee |  |  |  |
+stars | noun | Huge balls of burning gas that look like tiny points of light in the night sky. | We lay on the grass and counted the stars. | On a clear night, the stars twinkle above the farm. | STARZ |  |  |  |
+hello | interjection | A word used as a friendly greeting when you meet someone or answer the phone. | She waved and said hello to her new neighbor. | When the phone rang, I picked it up and said hello. | heh-LOH |  | huh-LOH |  |
+shell | noun | The hard outer covering of an egg, nut, or animals like turtles and snails. | I found a pretty pink shell on the beach. | A hermit crab carries its shell on its back. | SHEL |  |  |  |
+easy | adjective | Not hard to do or understand. | The first math problem was easy, but the second one was tricky. | Riding a bike gets easy once you learn to balance. | EE-zee |  |  |  |
+shift | verb | To move or change from one place or position to another. | Please shift your chair a little so I can get by. | The wind began to shift, and the kite turned around. | SHIFT |  |  |  |
+seal | noun | A sea animal with flippers and thick fur that lives in cold waters. | The seal balanced a ball on its nose at the aquarium show. | A seal lay on the rocks sunning itself after a swim. | SEEL |  |  |  |
+crack | noun | A thin line where something has split or broken without falling apart. | There is a crack in the sidewalk in front of our house. | The egg had a crack, so a little bit leaked out. | KRAK |  |  |  |
+apple | noun | A round fruit with red, green, or yellow skin that grows on a tree. | I packed a crunchy apple in my lunch box. | Mom baked an apple pie with cinnamon. | AP-ul |  |  |  |
+shine | verb | To give off or reflect bright light. | The sun will shine brightly after the storm passes. | Please shine the flashlight over here so I can see. | SHYN |  |  |  |
+spray | verb | To scatter liquid in tiny drops through the air. | Dad used the hose to spray water on the garden. | The skunk will spray a bad smell when it is scared. | SPRAY |  |  |  |
+rabbit | noun | A small, furry animal with long ears and a short fluffy tail that hops. | The rabbit nibbled on a carrot in its cage. | A rabbit dug a hole under our garden fence. | RAB-it |  |  |  |
+frozen | adjective | Turned into ice or made very hard by cold. | We went skating on the frozen pond. | My fingers were frozen after building the snow fort. | FROH-zen |  |  |  |
+market | noun | A place where people buy and sell food and other goods. | We bought fresh peaches at the farmers market. | The fish market sells fresh salmon and shrimp. | MAR-kit |  |  |  |
+beware | verb | To be careful and watch out for danger. | The sign on the gate said to beware of the dog. | Sailors were told to beware of the rocks near the shore. | bih-WAIR |  |  |  |
+wrong | adjective | Not correct or true; not right. | I picked the wrong answer, so I tried again. | We took a wrong turn and ended up lost. | RAWNG |  |  |  |
+leg | noun | One of the body parts that people and animals use to stand and walk. | He hurt his leg playing soccer. | The table wobbles because one leg is shorter. | LEG |  |  |  |
+most | adjective | The greatest amount or number. | Our class collected the most cans for the food drive. | Most of my friends like pizza better than tacos. | MOHST |  |  |  |
+down | adverb | Toward a lower place. | The ball rolled down the hill. | Please sit down so the show can begin. | DOWN |  |  |  |
+sick | adjective | Not feeling well; having an illness. | I stayed home from school because I was sick with a cold. | My dog got sick after eating something in the yard. | SIK |  |  |  |
+truck | noun | A large motor vehicle used for carrying heavy loads. | The garbage truck comes down our street every Tuesday. | The fire truck raced down the street with its siren on. | TRUK |  |  |  |
+bush | noun | A woody plant that is smaller than a tree and has many branches. | A bird built a nest in the bush by our front door. | The rose bush has red flowers and sharp thorns. | BUUSH |  |  |  |
+yarn | noun | Long, twisted thread used for knitting or weaving. | Grandma used blue yarn to make me a scarf. | The kitten batted at a ball of yarn. | YARN |  |  |  |
+body | noun | The whole physical form of a person or animal. | Exercise helps keep your body strong. | Your skeleton holds up your body. | BOD-ee |  |  |  |
+heart | noun | The organ in your chest that pumps blood through your body. | You can feel your heart beat faster after you run. | The doctor listened to my heart with a stethoscope. | HART |  |  | H | Sounds like "hart" (a male deer).
+even | adjective | Flat and smooth, or able to be divided by two with nothing left over. | Four is an even number, but five is odd. | Mom cut the cake into even pieces so no one would argue. | EE-ven |  |  |  |
+come | verb | To move toward someone or to a place. | Please come to my birthday party on Saturday. | Can you come over to play after school? | KUM |  |  |  |
+sound | noun | Something that you hear. | We heard the sound of rain on the roof. | The bell made a loud sound at the end of class. | SOWND |  |  |  |
+chips | noun | Thin, crispy slices of potato or corn eaten as a snack. | We ate chips and salsa at the picnic. | I dipped my chips in the cheese sauce. | CHIPS |  |  |  |
+year | noun | A period of twelve months, or 365 days. | My sister will start middle school next year. | Each year we plant a new tree in the backyard. | YEER |  |  |  |
+feed | verb | To give food to a person or animal. | It is my job to feed the cat every morning. | Please do not feed the ducks bread at the pond. | FEED |  |  |  |
+speak | verb | To say words out loud; to talk. | Please speak clearly so everyone can hear you. | My grandma can speak three languages. | SPEEK |  |  |  |
+flock | noun | A group of birds or sheep that stay together. | A flock of geese flew over the school in a V shape. | The shepherd watched over his flock of sheep. | FLOK |  |  |  |
+sparkle | verb | To shine with small flashes of light. | The snow seemed to sparkle in the bright sunshine. | The diamonds in the ring sparkle when they catch the light. | SPAR-kul |  |  |  |
+hopped | verb | Jumped with short, quick leaps; the past tense of hop. | The frog hopped from one lily pad to another. | The bunny hopped into the garden and ate a carrot. | HOPT |  |  |  |
+dirt | noun | Loose earth or soil, or anything that makes something unclean. | My shoes were covered in dirt after the hike. | The dog dug in the dirt and buried a bone. | DURT |  |  |  |
+hurt | verb | To cause pain or injury. | Did it hurt when you fell off the swing? | Be careful not to hurt yourself on the slide. | HURT |  |  |  |
+steps | noun | Flat places to put your feet when going up or down, as on a staircase. | We sat on the front steps and ate ice cream. | There are twelve steps up to the attic. | STEPS |  |  |  |
+path | noun | A narrow trail for walking. | We followed the path through the woods to the creek. | A stone path leads to the front door. | PATH |  |  |  |
+fire | noun | The flames, heat, and light made when something burns. | We roasted marshmallows over the camp fire. | The fire in the fireplace kept us warm. | FYR |  |  |  |
+late | adjective | Arriving or happening after the expected time. | I was late for school because the bus broke down. | We stayed up late to watch the fireworks. | LAYT |  |  |  |
+wings | noun | The body parts that birds, bats, and insects use to fly. | The butterfly opened its colorful wings. | The chicken flapped its wings but could not fly far. | WINGZ |  |  |  |
+house | noun | A building where people live. | Our house has a red door and a big porch. | My friend's house is right across the street. | HOWS |  |  |  |
+tusk | noun | A very long, pointed tooth that sticks out of the mouth of an animal like an elephant or walrus. | The elephant used its tusk to dig in the dirt. | The walrus has a long white tusk on each side of its mouth. | TUSK |  |  |  |
+dive | verb | To jump headfirst into water. | She likes to dive off the diving board at the pool. | Ducks dive under the water to find food. | DYV |  |  |  |
+fine | adjective | Good enough, or feeling well. | I fell down, but I am fine now. | The weather is fine for a picnic today. | FYN |  |  |  |
+mossy | adjective | Covered with a soft, green plant that grows on rocks and trees in damp places. | We sat on a mossy log in the shady forest. | The mossy rocks by the stream were slippery. | MAW-see |  | MOS-ee |  |
+beans | noun | Seeds or pods of certain plants that are eaten as vegetables. | We had rice and beans for dinner. | Jack traded the cow for some magic beans. | BEENZ |  |  |  |
+truth | noun | What is real or correct; facts, not lies. | Always tell the truth, even when it is hard. | He finally told the truth about who broke the vase. | TROOTH |  |  |  |
+tallest | adjective | Higher from bottom to top than all the others. | Dad is the tallest person in our family. | The giraffe is the tallest animal at the zoo. | TAWL-est |  |  |  |
+cliffs | noun | High, steep walls of rock, often near the sea. | Seabirds built their nests on the rocky cliffs. | The white cliffs rose high above the ocean waves. | KLIFS |  |  |  |
+crunch | noun | A loud, crushing sound, like when you bite something crisp. | I heard the crunch of leaves under my boots. | The apple made a loud crunch when I bit it. | KRUNCH |  |  |  |
+sweater | noun | A warm, knitted piece of clothing worn on the upper body. | Wear a sweater because it is chilly outside. | Grandma knitted me a red sweater for winter. | SWET-er |  |  |  |
+money | noun | Coins and paper bills used to buy things. | I saved my money to buy a new book. | I keep my money in a piggy bank. | MUN-ee |  |  |  |
+cabin | noun | A small, simple house, often made of logs. | We stayed in a cabin by the lake for the weekend. | The log cabin had a stone fireplace. | KAB-in |  |  |  |
+carve | verb | To cut wood, stone, or food into a shape or pieces. | We will carve a face into the pumpkin. | Dad will carve the turkey at Thanksgiving dinner. | KARV |  |  |  |
+earth | noun | The planet we live on, or the soil on the ground. | The earth travels around the sun once a year. | The farmer planted seeds in the rich, dark earth. | URTH |  |  |  |
+half | noun | One of two equal parts of something. | I gave my friend half of my sandwich. | Half of the class went to music while the rest stayed for art. | HAF |  |  |  |
+fear | noun | The feeling of being scared. | My fear of the dark went away when I got a night-light. | The kitten shook with fear during the storm. | FEER |  |  |  |
+riddle | noun | A tricky question or puzzle with a clever answer. | My uncle told us a riddle that took an hour to solve. | Here is a riddle: what has hands but cannot clap? | RID-ul |  |  |  |
+illness | noun | A sickness or disease. | Grandpa got better after a long illness. | The flu is an illness that spreads in winter. | IL-nis |  |  |  |
+knit | verb | To make cloth or clothing by looping yarn together with long needles. | My aunt will knit a hat for the new baby. | Grandpa learned to knit socks. | NIT |  |  | H | Sounds like "nit" (the egg of a louse). The k is silent.
+total | noun | The whole amount after everything is added together. | The total for our groceries was forty dollars. | Add up the numbers to find the total. | TOH-tul |  |  |  |
+finish | verb | To come to the end of something; to complete it. | I need to finish my homework before I can play. | The runners raced toward the finish line. | FIN-ish |  |  | H | Sounds like "Finnish" (from Finland).
+spiders | noun | Small creatures with eight legs that often spin webs. | Spiders spun webs in the corners of the old shed. | Some spiders catch bugs without building webs. | SPY-derz |  |  |  |
+hospital | noun | A building where sick or injured people get medical care. | My baby cousin was born at the hospital downtown. | The ambulance rushed the hurt man to the hospital. | HOS-pih-tul |  |  |  |
+narrow | adjective | Not wide; small from side to side. | The hallway was so narrow that only one person could walk through at a time. | The narrow bridge only had room for one car. | NAIR-oh |  |  |  |
+foolish | adjective | Not smart or sensible; silly. | It was foolish to leave my bike out in the rain. | The foolish mouse tried to steal cheese from the trap. | FOO-lish |  |  |  |
+charming | adjective | Very pleasing, delightful, or attractive. | The little village had charming houses with flower boxes. | The prince gave a charming smile and bowed. | CHAR-ming |  |  |  |
+beasts | noun | Large or wild animals. | The story was about brave knights and fearsome beasts. | Lions and tigers are powerful beasts. | BEESTS |  |  |  |
+smoothly | adverb | Without bumps, problems, or trouble. | The plane landed smoothly on the runway. | The new zipper slides smoothly up and down. | SMOOTH-lee |  |  |  |
+dangle | verb | To hang or swing loosely. | My feet dangle off the edge of the dock. | Bats dangle upside down from the cave ceiling. | DANG-gul |  |  |  |
+frazzled | adjective | Very tired and upset, with worn-out nerves. | Mom felt frazzled after a long day of chasing the twins. | The frazzled waiter dropped a tray of drinks. | FRAZ-uld |  |  |  |
+darkness | noun | The state of having little or no light. | The cat's eyes glowed in the darkness. | We used a flashlight to find our way through the darkness. | DARK-nis |  |  |  |
+friend | noun | A person you like and trust and enjoy spending time with. | My best friend and I like to ride bikes together. | A good friend helps you when you are sad. | FREND |  |  |  |
+swift | adjective | Moving very fast. | The swift deer leaped over the fence. | The swift runner won the race easily. | SWIFT |  |  |  |
+thirsty | adjective | Needing or wanting something to drink. | After soccer practice, I was very thirsty. | The thirsty dog drank the whole bowl of water. | THUR-stee |  |  |  |
+voice | noun | The sound a person makes when talking or singing. | She has a beautiful singing voice. | I lost my voice from cheering so loudly at the game. | VOYS |  |  |  |
+lead | verb | To show the way by going in front; to guide. | The tour guide will lead us through the museum. | The mother duck will lead her ducklings to the pond. | LEED |  |  | H | Spelled like the metal "lead" (LED), and sounds like "lede". This entry means to guide.
+cloak | noun | A loose cape-like coat with no sleeves. | The wizard wrapped his long cloak around his shoulders. | Little Red Riding Hood wore a red cloak with a hood. | KLOHK |  |  |  |
+indoors | adverb | Inside a building. | We played games indoors because of the thunderstorm. | Cats that live indoors are safe from cars. | in-DORZ |  |  |  |
+holiday | noun | A special day of celebration when many people do not go to work or school. | Thanksgiving is my favorite holiday. | We visit Grandma's house for every holiday. | HOL-ih-day |  |  |  |
+entire | adjective | Whole; with nothing left out. | I read the entire book in one weekend. | The entire class went on the field trip. | en-TYR |  |  |  |
+mustard | noun | A spicy yellow sauce made from seeds, often put on hot dogs. | I like ketchup and mustard on my hot dog. | Dad spread mustard on his ham sandwich. | MUS-terd |  |  | H | Sounds like "mustered" (gathered together).
+medium | adjective | In the middle; not large and not small. | I ordered a medium drink at the movies. | Do you want a small, medium, or large shirt? | MEE-dee-um |  |  |  |
+afraid | adjective | Feeling scared or frightened. | My sister is afraid of thunder. | Don't be afraid; the dog is friendly. | uh-FRAYD |  |  |  |
+source | noun | The place or thing that something comes from. | The sun is our main source of light and heat. | A spring is the source of this little stream. | SORS |  |  |  |
+shivering | verb | Shaking because of cold or fear. | We were shivering at the bus stop on the frosty morning. | The wet puppy was shivering, so we wrapped it in a towel. | SHIV-er-ing |  |  |  |
+cottage | noun | A small, cozy house, often in the country. | The cottage had a thatched roof and a garden. | The witch lived in a cottage in the woods. | KOT-ij |  |  |  |
+distance | noun | The amount of space between two places or things. | The distance from my house to school is one mile. | We could see the mountains in the distance. | DIS-tunss |  |  |  |
+bamboo | noun | A tall, fast-growing plant with hard, hollow stems; pandas love to eat it. | The panda munched on a stalk of bamboo. | The fishing pole was made from a long piece of bamboo. | bam-BOO |  |  |  |
+always | adverb | At all times; every time. | My dog always wags his tail when I come home. | I always brush my teeth before bed. | AWL-wayz |  |  |  |
+morning | noun | The early part of the day, from sunrise until noon. | I eat breakfast every morning before school. | The rooster crows every morning at sunrise. | MOR-ning |  |  | H | Sounds like "mourning" (feeling sad after someone dies).
+lovely | adjective | Beautiful, pleasant, or delightful. | We had a lovely picnic in the park. | What a lovely garden full of roses! | LUV-lee |  |  |  |
+grandfather | noun | The father of your mother or father. | My grandfather taught me how to play chess. | My grandfather tells stories about when he was a boy. | GRAND-fah-ther |  |  |  |

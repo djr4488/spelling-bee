@@ -21,9 +21,12 @@ public class MenuScreen extends BaseScreen {
         Table lengths = new Table();
         lengths.defaults().pad(6).width(150).height(76);
         lengths.add(label("Words:", "bold")).width(110);
+        // The last choice is timed practice; its length is set under Settings.
         ButtonGroup<TextButton> group = new ButtonGroup<>();
         for (int len : Settings.SESSION_LENGTHS) {
-            TextButton b = new TextButton(len == 0 ? "All" : String.valueOf(len), skin, "toggle");
+            String text = len == Settings.TIMED ? game.settings.getTimedMinutes() + " min"
+                    : len == 0 ? "All" : String.valueOf(len);
+            TextButton b = new TextButton(text, skin, "toggle");
             group.add(b);
             if (len == game.settings.getSessionLength()) b.setChecked(true);
             onClick(b, () -> { if (b.isChecked()) game.settings.setSessionLength(len); });

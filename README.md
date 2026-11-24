@@ -8,12 +8,23 @@ keyboard (or a real keyboard), and gets a chime for a correct answer. A wrong an
 shows the correct spelling with the differing letters highlighted, plus the meaning
 and an example sentence, and reads them aloud.
 
-- **Hint buttons** (audio only): Hear word, Definition, Sentence, Say it another way
-- **Sessions** of 10, 20 or all words, shuffled; no word repeats until the whole list
-  has been used, even across sessions
+- **Hint buttons** (audio only): Hear word, Definition, Sentence (tap again for a
+  second example sentence), Say it another way
+- **Sessions** of 10, 20 or all words, picked at random but weighted: words not seen
+  yet and words being missed come up more often, and words spelled right several
+  times in a row fade into the background (they still come up now and then)
+- **Timed practice**: pick the minutes under **Settings → Timed practice** (5 to 60),
+  then choose that length on the menu. The time left shows during practice; when it
+  runs out the current word can still be finished, and the summary shows how many words
+  were spelled. **My progress** lists recent timed sessions, including ones left early
 - **Review missed words**: quizzes only words that were missed (a word leaves the list
   once it is spelled correctly)
-- **My progress**: words tried, correct, missed, and the missed-word list
+- **My progress**: how many of the words have been seen, answers, correct, missed,
+  the missed-word list with how often each was missed, and recent timed sessions
+- **Study a word**: on **My progress**, tap a missed word to see it while hearing it
+  said and spelled out, then cover it and type it from memory ("look, say, cover,
+  write, check"). Study is practice only and doesn't change the score. It's also a
+  handy way for a grown-up to hear exactly how the app says a word
 - **Settings**: speech speed, voice, sound effects on/off, and a Voice check screen
 
 ## Install (no building needed)
@@ -122,6 +133,10 @@ isn't needed.
 ~/Android/Sdk/platform-tools/adb install -r android/build/outputs/apk/debug/android-debug.apk
 ```
 
+**"App not installed"?** An older copy signed with a different key is probably
+still installed, possibly in another profile such as an Amazon Kids profile. Remove
+the app from every profile on the tablet, then install again.
+
 **Speech on the tablet:** the app uses the tablet's text-to-speech engine. If it is
 silent, check **Settings → Accessibility → Text-to-Speech** (the setting's name varies
 by Fire OS version): make sure an engine is selected, its English voice is downloaded,
@@ -171,16 +186,19 @@ gh release create v1.1 build/dist/* --title "Spelling Bee 1.1" --notes "What cha
 ```
 
 A tablet with a debug build (`assembleDebug`) installed must uninstall it once
-before installing a release APK, because the keys differ.
+before installing a release APK, because the keys differ. On a tablet with several
+profiles (for example an Amazon Kids profile), remove it from **every** profile, or
+the install fails with just "App not installed". Over USB,
+`adb uninstall com.spellingbee` removes it from all profiles at once.
 
 ## Word list
 
 - `assets/words.txt` is the raw list: words separated by commas.
-- `assets/words.json` is what the app loads. Each word has a definition, a sentence,
+- `assets/words.json` is what the app loads. Each word has a definition, two sentences,
   a pronunciation, an optional `speakAs` respelling for the speech engine,
   alternate pronunciations, and `homophone` / `needsReview` flags.
 - `tools/content/*.txt` holds the written definitions and sentences, one word per
-  line (`word | partOfSpeech | definition | sentence | pronunciation | speakAs | alts | flags | note`).
+  line (`word | partOfSpeech | definition | sentence | sentence2 | pronunciation | speakAs | alts | flags | note`).
 
 **Adding words:** add them to `assets/words.txt`, then run
 
@@ -189,9 +207,19 @@ python3 tools/enrich.py
 ```
 
 It lists any words that have no content yet. Add a line for each one to a file in
-`tools/content/` and run it again. It checks every entry (the sentence contains the
+`tools/content/` and run it again. It checks every entry (both sentences contain the
 exact word, the definition doesn't give the word away, required fields are present)
 and writes `assets/words.json`. The same checks run as unit tests in `./gradlew build`.
+
+**Writing `speakAs` respellings:** speech engines read respellings as ordinary
+English, so avoid syllables that are also words with a different sound: `ay` and
+`ih` are both read as "eye". Join syllables with hyphens instead (`Erra-traya`,
+`A-clair`), and check how Piper reads one with:
+
+```sh
+~/.local/share/uv/tools/piper-tts/bin/python -c "from piper import PiperVoice; \
+  print(PiperVoice.load('$HOME/.local/share/piper-voices/en_US-lessac-medium.onnx').phonemize('Erra-traya'))"
+```
 
 `tools/make_sounds.py` regenerates the two feedback sounds in `assets/sounds/`.
 

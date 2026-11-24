@@ -36,6 +36,8 @@ class WordDataValidationTest {
             if (blank(e.partOfSpeech)) problems.add(e.word + ": partOfSpeech");
             if (blank(e.definition)) problems.add(e.word + ": definition");
             if (blank(e.sentence)) problems.add(e.word + ": sentence");
+            if (blank(e.sentence2)) problems.add(e.word + ": sentence2");
+            else if (e.sentence2.equals(e.sentence)) problems.add(e.word + ": sentence2 repeats sentence");
             if (blank(e.pronunciation)) problems.add(e.word + ": pronunciation");
         }
         assertTrue(problems.isEmpty(), "Missing fields: " + problems);
@@ -48,6 +50,7 @@ class WordDataValidationTest {
             int flags = Character.isUpperCase(e.word.charAt(0)) ? 0 : Pattern.CASE_INSENSITIVE;
             Pattern p = Pattern.compile("(?<![\\w-])" + Pattern.quote(e.word) + "(?![\\w-])", flags);
             if (!p.matcher(e.sentence).find()) problems.add(e.word);
+            if (!p.matcher(e.sentence2).find()) problems.add(e.word + " (sentence2)");
         }
         assertTrue(problems.isEmpty(), "Sentence lacks the word: " + problems);
     }

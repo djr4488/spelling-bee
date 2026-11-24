@@ -8,7 +8,7 @@ import com.spellingbee.store.Settings;
 
 import java.util.List;
 
-/** Speech rate, voice and sound effects. */
+/** Speech rate, voice, timed practice length and sound effects. */
 public class SettingsScreen extends BaseScreen {
     private final Label rateLabel = label("", "big");
     private final Label voiceLabel = label("", "default");
@@ -42,6 +42,18 @@ public class SettingsScreen extends BaseScreen {
         } else {
             root.add(voice).left().row();
         }
+
+        // Timed practice length
+        Label minutes = label("", "big");
+        minutes.setAlignment(com.badlogic.gdx.utils.Align.center);
+        Runnable showMinutes = () -> minutes.setText(s.getTimedMinutes() + " min");
+        showMinutes.run();
+        Table timed = new Table();
+        timed.add(button("Less", "default", () -> { s.stepTimedMinutes(-1); showMinutes.run(); })).width(200).height(80);
+        timed.add(minutes).width(200);
+        timed.add(button("More", "default", () -> { s.stepTimedMinutes(1); showMinutes.run(); })).width(200).height(80);
+        root.add(label("Timed practice", "bold")).right().padRight(20);
+        root.add(timed).left().row();
 
         // Sound effects
         TextButton sound = new TextButton("", skin, "toggle");

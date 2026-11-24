@@ -4,6 +4,7 @@
     "partOfSpeech": "verb",
     "definition": "Moved quickly on foot; the past tense of run.",
     "sentence": "We ran all the way to the bus stop so we would not miss it.",
+    "sentence2": "The puppy ran in circles chasing its own tail.",
     "pronunciation": "RAN",
     "speakAs": null,
     "altPronunciations": []
@@ -13,6 +14,7 @@
     "partOfSpeech": "noun",
     "definition": "A long, thin, straight stick or bar of wood or metal.",
     "sentence": "Grandpa handed me a fishing rod and showed me how to cast the line.",
+    "sentence2": "The curtain hangs from a metal rod above the window.",
     "pronunciation": "ROD",
     "speakAs": null,
     "altPronunciations": []
@@ -22,6 +24,7 @@
     "partOfSpeech": "adjective",
     "definition": "Nervous or quiet around other people, especially new people.",
     "sentence": "The shy puppy hid behind the couch when the guests arrived.",
+    "sentence2": "He was too shy to sing in front of the whole class.",
     "pronunciation": "SHY",
     "speakAs": null,
     "altPronunciations": []
@@ -31,6 +34,7 @@
     "partOfSpeech": "verb",
     "definition": "To swallow a liquid, such as water or milk.",
     "sentence": "Remember to drink plenty of water on a hot day.",
+    "sentence2": "Would you like milk or juice to drink with your lunch?",
     "pronunciation": "DRINK",
     "speakAs": null,
     "altPronunciations": []
@@ -40,6 +44,7 @@
     "partOfSpeech": "noun",
     "definition": "A thin cloud of tiny water drops floating in the air near the ground.",
     "sentence": "The morning mist made the lake look soft and gray.",
+    "sentence2": "A fine mist from the waterfall made our faces wet.",
     "pronunciation": "MIST",
     "speakAs": null,
     "altPronunciations": [],
@@ -51,6 +56,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not moving at all; calm and quiet.",
     "sentence": "The water in the pond was so still that it looked like a mirror.",
+    "sentence2": "Please sit still while I braid your hair.",
     "pronunciation": "STIL",
     "speakAs": null,
     "altPronunciations": []
@@ -60,6 +66,7 @@
     "partOfSpeech": "noun",
     "definition": "A machine that pushes air or liquid into or out of something.",
     "sentence": "We used a pump to put air in the flat bicycle tire.",
+    "sentence2": "We filled the tires at the air pump at the gas station.",
     "pronunciation": "PUMP",
     "speakAs": null,
     "altPronunciations": []
@@ -69,6 +76,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having a thin edge or fine point that can cut or poke.",
     "sentence": "Be careful with the knife because the blade is very sharp.",
+    "sentence2": "I need a sharp pencil to draw thin lines.",
     "pronunciation": "SHARP",
     "speakAs": null,
     "altPronunciations": []
@@ -78,6 +86,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having a lot of money or valuable things.",
     "sentence": "The rich king lived in a castle filled with gold.",
+    "sentence2": "The rich man gave money to build a new playground.",
     "pronunciation": "RICH",
     "speakAs": null,
     "altPronunciations": []
@@ -87,6 +96,7 @@
     "partOfSpeech": "verb",
     "definition": "To send something forward quickly toward a target, like a ball at a goal.",
     "sentence": "She tried to shoot the basketball from the free-throw line.",
+    "sentence2": "Hockey players shoot the puck toward the net.",
     "pronunciation": "SHOOT",
     "speakAs": null,
     "altPronunciations": [],
@@ -98,6 +108,7 @@
     "partOfSpeech": "noun",
     "definition": "The sharp, curved nails on the feet of an animal such as a cat or bird.",
     "sentence": "The kitten used its tiny claws to climb up the curtain.",
+    "sentence2": "The bear used its long claws to dig for roots.",
     "pronunciation": "KLAWZ",
     "speakAs": null,
     "altPronunciations": [],
@@ -109,6 +120,7 @@
     "partOfSpeech": "noun",
     "definition": "The coldest season of the year, between fall and spring.",
     "sentence": "We build snowmen every winter when the snow is deep.",
+    "sentence2": "Birds fly south before winter brings the cold weather.",
     "pronunciation": "WIN-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -118,6 +130,7 @@
     "partOfSpeech": "noun",
     "definition": "The opening in the face used for eating and talking.",
     "sentence": "The baby bird opened its mouth wide to get the worm.",
+    "sentence2": "Please do not talk with food in your mouth.",
     "pronunciation": "MOWTH",
     "speakAs": null,
     "altPronunciations": []
@@ -127,6 +140,7 @@
     "partOfSpeech": "noun",
     "definition": "Thin material made from wood pulp, used for writing, drawing, and wrapping.",
     "sentence": "Please write your name at the top of the paper.",
+    "sentence2": "She folded the paper into an airplane.",
     "pronunciation": "PAY-per",
     "speakAs": null,
     "altPronunciations": []
@@ -136,6 +150,7 @@
     "partOfSpeech": "adverb",
     "definition": "In or into a room, building, or container.",
     "sentence": "It started to rain, so we went inside to play a board game.",
+    "sentence2": "The kittens stayed inside the warm barn all day.",
     "pronunciation": "in-SIDE",
     "speakAs": null,
     "altPronunciations": [
@@ -147,6 +162,7 @@
     "partOfSpeech": "noun",
     "definition": "A very large ocean animal that breathes air through a hole on top of its head.",
     "sentence": "A huge whale splashed its tail right next to our boat.",
+    "sentence2": "The blue whale is the biggest animal on Earth.",
     "pronunciation": "WAYL",
     "speakAs": null,
     "altPronunciations": [],
@@ -158,6 +174,7 @@
     "partOfSpeech": "noun",
     "definition": "A small reptile with scaly skin, four legs, and a long tail.",
     "sentence": "A green lizard sat on the warm rock in the sun.",
+    "sentence2": "The lizard flicked its tongue to catch a fly.",
     "pronunciation": "LIZ-erd",
     "speakAs": null,
     "altPronunciations": []
@@ -167,6 +184,7 @@
     "partOfSpeech": "noun",
     "definition": "A person trained to care for people who are sick or hurt.",
     "sentence": "The school nurse put a bandage on my scraped knee.",
+    "sentence2": "The nurse took my temperature at the doctor's office.",
     "pronunciation": "NURS",
     "speakAs": null,
     "altPronunciations": []
@@ -176,6 +194,7 @@
     "partOfSpeech": "noun",
     "definition": "Air that moves across the earth, sometimes gently and sometimes strongly.",
     "sentence": "The wind blew my kite high into the sky.",
+    "sentence2": "The strong wind knocked over our trash cans.",
     "pronunciation": "WIND",
     "speakAs": null,
     "altPronunciations": [],
@@ -187,6 +206,7 @@
     "partOfSpeech": "adjective",
     "definition": "Of high quality, pleasing, or well-behaved.",
     "sentence": "The teacher said I did a good job on my project.",
+    "sentence2": "The soup smells really good.",
     "pronunciation": "GUUD",
     "speakAs": null,
     "altPronunciations": []
@@ -196,6 +216,7 @@
     "partOfSpeech": "noun",
     "definition": "A child's word for a rabbit.",
     "sentence": "The bunny wiggled its nose and hopped across the grass.",
+    "sentence2": "My little sister's stuffed bunny has floppy ears.",
     "pronunciation": "BUN-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -205,6 +226,7 @@
     "partOfSpeech": "adjective",
     "definition": "Funny in a foolish or playful way.",
     "sentence": "My little brother made a silly face to make me laugh.",
+    "sentence2": "We laughed at the silly song about a dancing pickle.",
     "pronunciation": "SIL-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -214,6 +236,7 @@
     "partOfSpeech": "noun",
     "definition": "Huge balls of burning gas that look like tiny points of light in the night sky.",
     "sentence": "We lay on the grass and counted the stars.",
+    "sentence2": "On a clear night, the stars twinkle above the farm.",
     "pronunciation": "STARZ",
     "speakAs": null,
     "altPronunciations": []
@@ -223,6 +246,7 @@
     "partOfSpeech": "interjection",
     "definition": "A word used as a friendly greeting when you meet someone or answer the phone.",
     "sentence": "She waved and said hello to her new neighbor.",
+    "sentence2": "When the phone rang, I picked it up and said hello.",
     "pronunciation": "heh-LOH",
     "speakAs": null,
     "altPronunciations": [
@@ -234,6 +258,7 @@
     "partOfSpeech": "noun",
     "definition": "The hard outer covering of an egg, nut, or animals like turtles and snails.",
     "sentence": "I found a pretty pink shell on the beach.",
+    "sentence2": "A hermit crab carries its shell on its back.",
     "pronunciation": "SHEL",
     "speakAs": null,
     "altPronunciations": []
@@ -243,6 +268,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not hard to do or understand.",
     "sentence": "The first math problem was easy, but the second one was tricky.",
+    "sentence2": "Riding a bike gets easy once you learn to balance.",
     "pronunciation": "EE-zee",
     "speakAs": null,
     "altPronunciations": []
@@ -252,6 +278,7 @@
     "partOfSpeech": "verb",
     "definition": "To move or change from one place or position to another.",
     "sentence": "Please shift your chair a little so I can get by.",
+    "sentence2": "The wind began to shift, and the kite turned around.",
     "pronunciation": "SHIFT",
     "speakAs": null,
     "altPronunciations": []
@@ -261,6 +288,7 @@
     "partOfSpeech": "noun",
     "definition": "A sea animal with flippers and thick fur that lives in cold waters.",
     "sentence": "The seal balanced a ball on its nose at the aquarium show.",
+    "sentence2": "A seal lay on the rocks sunning itself after a swim.",
     "pronunciation": "SEEL",
     "speakAs": null,
     "altPronunciations": []
@@ -270,6 +298,7 @@
     "partOfSpeech": "noun",
     "definition": "A thin line where something has split or broken without falling apart.",
     "sentence": "There is a crack in the sidewalk in front of our house.",
+    "sentence2": "The egg had a crack, so a little bit leaked out.",
     "pronunciation": "KRAK",
     "speakAs": null,
     "altPronunciations": []
@@ -279,6 +308,7 @@
     "partOfSpeech": "noun",
     "definition": "A round fruit with red, green, or yellow skin that grows on a tree.",
     "sentence": "I packed a crunchy apple in my lunch box.",
+    "sentence2": "Mom baked an apple pie with cinnamon.",
     "pronunciation": "AP-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -288,6 +318,7 @@
     "partOfSpeech": "verb",
     "definition": "To give off or reflect bright light.",
     "sentence": "The sun will shine brightly after the storm passes.",
+    "sentence2": "Please shine the flashlight over here so I can see.",
     "pronunciation": "SHYN",
     "speakAs": null,
     "altPronunciations": []
@@ -297,6 +328,7 @@
     "partOfSpeech": "verb",
     "definition": "To scatter liquid in tiny drops through the air.",
     "sentence": "Dad used the hose to spray water on the garden.",
+    "sentence2": "The skunk will spray a bad smell when it is scared.",
     "pronunciation": "SPRAY",
     "speakAs": null,
     "altPronunciations": []
@@ -306,6 +338,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, furry animal with long ears and a short fluffy tail that hops.",
     "sentence": "The rabbit nibbled on a carrot in its cage.",
+    "sentence2": "A rabbit dug a hole under our garden fence.",
     "pronunciation": "RAB-it",
     "speakAs": null,
     "altPronunciations": []
@@ -315,6 +348,7 @@
     "partOfSpeech": "adjective",
     "definition": "Turned into ice or made very hard by cold.",
     "sentence": "We went skating on the frozen pond.",
+    "sentence2": "My fingers were frozen after building the snow fort.",
     "pronunciation": "FROH-zen",
     "speakAs": null,
     "altPronunciations": []
@@ -324,6 +358,7 @@
     "partOfSpeech": "noun",
     "definition": "A place where people buy and sell food and other goods.",
     "sentence": "We bought fresh peaches at the farmers market.",
+    "sentence2": "The fish market sells fresh salmon and shrimp.",
     "pronunciation": "MAR-kit",
     "speakAs": null,
     "altPronunciations": []
@@ -333,6 +368,7 @@
     "partOfSpeech": "verb",
     "definition": "To be careful and watch out for danger.",
     "sentence": "The sign on the gate said to beware of the dog.",
+    "sentence2": "Sailors were told to beware of the rocks near the shore.",
     "pronunciation": "bih-WAIR",
     "speakAs": null,
     "altPronunciations": []
@@ -342,6 +378,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not correct or true; not right.",
     "sentence": "I picked the wrong answer, so I tried again.",
+    "sentence2": "We took a wrong turn and ended up lost.",
     "pronunciation": "RAWNG",
     "speakAs": null,
     "altPronunciations": []
@@ -351,6 +388,7 @@
     "partOfSpeech": "noun",
     "definition": "One of the body parts that people and animals use to stand and walk.",
     "sentence": "He hurt his leg playing soccer.",
+    "sentence2": "The table wobbles because one leg is shorter.",
     "pronunciation": "LEG",
     "speakAs": null,
     "altPronunciations": []
@@ -360,6 +398,7 @@
     "partOfSpeech": "adjective",
     "definition": "The greatest amount or number.",
     "sentence": "Our class collected the most cans for the food drive.",
+    "sentence2": "Most of my friends like pizza better than tacos.",
     "pronunciation": "MOHST",
     "speakAs": null,
     "altPronunciations": []
@@ -369,6 +408,7 @@
     "partOfSpeech": "adverb",
     "definition": "Toward a lower place.",
     "sentence": "The ball rolled down the hill.",
+    "sentence2": "Please sit down so the show can begin.",
     "pronunciation": "DOWN",
     "speakAs": null,
     "altPronunciations": []
@@ -378,6 +418,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not feeling well; having an illness.",
     "sentence": "I stayed home from school because I was sick with a cold.",
+    "sentence2": "My dog got sick after eating something in the yard.",
     "pronunciation": "SIK",
     "speakAs": null,
     "altPronunciations": []
@@ -387,6 +428,7 @@
     "partOfSpeech": "noun",
     "definition": "A large motor vehicle used for carrying heavy loads.",
     "sentence": "The garbage truck comes down our street every Tuesday.",
+    "sentence2": "The fire truck raced down the street with its siren on.",
     "pronunciation": "TRUK",
     "speakAs": null,
     "altPronunciations": []
@@ -396,6 +438,7 @@
     "partOfSpeech": "noun",
     "definition": "A woody plant that is smaller than a tree and has many branches.",
     "sentence": "A bird built a nest in the bush by our front door.",
+    "sentence2": "The rose bush has red flowers and sharp thorns.",
     "pronunciation": "BUUSH",
     "speakAs": null,
     "altPronunciations": []
@@ -405,6 +448,7 @@
     "partOfSpeech": "noun",
     "definition": "Long, twisted thread used for knitting or weaving.",
     "sentence": "Grandma used blue yarn to make me a scarf.",
+    "sentence2": "The kitten batted at a ball of yarn.",
     "pronunciation": "YARN",
     "speakAs": null,
     "altPronunciations": []
@@ -414,6 +458,7 @@
     "partOfSpeech": "noun",
     "definition": "The whole physical form of a person or animal.",
     "sentence": "Exercise helps keep your body strong.",
+    "sentence2": "Your skeleton holds up your body.",
     "pronunciation": "BOD-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -423,6 +468,7 @@
     "partOfSpeech": "noun",
     "definition": "The organ in your chest that pumps blood through your body.",
     "sentence": "You can feel your heart beat faster after you run.",
+    "sentence2": "The doctor listened to my heart with a stethoscope.",
     "pronunciation": "HART",
     "speakAs": null,
     "altPronunciations": [],
@@ -434,6 +480,7 @@
     "partOfSpeech": "adjective",
     "definition": "Flat and smooth, or able to be divided by two with nothing left over.",
     "sentence": "Four is an even number, but five is odd.",
+    "sentence2": "Mom cut the cake into even pieces so no one would argue.",
     "pronunciation": "EE-ven",
     "speakAs": null,
     "altPronunciations": []
@@ -443,6 +490,7 @@
     "partOfSpeech": "verb",
     "definition": "To move toward someone or to a place.",
     "sentence": "Please come to my birthday party on Saturday.",
+    "sentence2": "Can you come over to play after school?",
     "pronunciation": "KUM",
     "speakAs": null,
     "altPronunciations": []
@@ -452,6 +500,7 @@
     "partOfSpeech": "noun",
     "definition": "Something that you hear.",
     "sentence": "We heard the sound of rain on the roof.",
+    "sentence2": "The bell made a loud sound at the end of class.",
     "pronunciation": "SOWND",
     "speakAs": null,
     "altPronunciations": []
@@ -461,6 +510,7 @@
     "partOfSpeech": "noun",
     "definition": "Thin, crispy slices of potato or corn eaten as a snack.",
     "sentence": "We ate chips and salsa at the picnic.",
+    "sentence2": "I dipped my chips in the cheese sauce.",
     "pronunciation": "CHIPS",
     "speakAs": null,
     "altPronunciations": []
@@ -470,6 +520,7 @@
     "partOfSpeech": "noun",
     "definition": "A period of twelve months, or 365 days.",
     "sentence": "My sister will start middle school next year.",
+    "sentence2": "Each year we plant a new tree in the backyard.",
     "pronunciation": "YEER",
     "speakAs": null,
     "altPronunciations": []
@@ -479,6 +530,7 @@
     "partOfSpeech": "verb",
     "definition": "To give food to a person or animal.",
     "sentence": "It is my job to feed the cat every morning.",
+    "sentence2": "Please do not feed the ducks bread at the pond.",
     "pronunciation": "FEED",
     "speakAs": null,
     "altPronunciations": []
@@ -488,6 +540,7 @@
     "partOfSpeech": "verb",
     "definition": "To say words out loud; to talk.",
     "sentence": "Please speak clearly so everyone can hear you.",
+    "sentence2": "My grandma can speak three languages.",
     "pronunciation": "SPEEK",
     "speakAs": null,
     "altPronunciations": []
@@ -497,6 +550,7 @@
     "partOfSpeech": "noun",
     "definition": "A group of birds or sheep that stay together.",
     "sentence": "A flock of geese flew over the school in a V shape.",
+    "sentence2": "The shepherd watched over his flock of sheep.",
     "pronunciation": "FLOK",
     "speakAs": null,
     "altPronunciations": []
@@ -506,6 +560,7 @@
     "partOfSpeech": "verb",
     "definition": "To shine with small flashes of light.",
     "sentence": "The snow seemed to sparkle in the bright sunshine.",
+    "sentence2": "The diamonds in the ring sparkle when they catch the light.",
     "pronunciation": "SPAR-kul",
     "speakAs": null,
     "altPronunciations": []
@@ -515,6 +570,7 @@
     "partOfSpeech": "verb",
     "definition": "Jumped with short, quick leaps; the past tense of hop.",
     "sentence": "The frog hopped from one lily pad to another.",
+    "sentence2": "The bunny hopped into the garden and ate a carrot.",
     "pronunciation": "HOPT",
     "speakAs": null,
     "altPronunciations": []
@@ -524,6 +580,7 @@
     "partOfSpeech": "noun",
     "definition": "Loose earth or soil, or anything that makes something unclean.",
     "sentence": "My shoes were covered in dirt after the hike.",
+    "sentence2": "The dog dug in the dirt and buried a bone.",
     "pronunciation": "DURT",
     "speakAs": null,
     "altPronunciations": []
@@ -533,6 +590,7 @@
     "partOfSpeech": "verb",
     "definition": "To cause pain or injury.",
     "sentence": "Did it hurt when you fell off the swing?",
+    "sentence2": "Be careful not to hurt yourself on the slide.",
     "pronunciation": "HURT",
     "speakAs": null,
     "altPronunciations": []
@@ -542,6 +600,7 @@
     "partOfSpeech": "noun",
     "definition": "Flat places to put your feet when going up or down, as on a staircase.",
     "sentence": "We sat on the front steps and ate ice cream.",
+    "sentence2": "There are twelve steps up to the attic.",
     "pronunciation": "STEPS",
     "speakAs": null,
     "altPronunciations": []
@@ -551,6 +610,7 @@
     "partOfSpeech": "noun",
     "definition": "A narrow trail for walking.",
     "sentence": "We followed the path through the woods to the creek.",
+    "sentence2": "A stone path leads to the front door.",
     "pronunciation": "PATH",
     "speakAs": null,
     "altPronunciations": []
@@ -560,6 +620,7 @@
     "partOfSpeech": "noun",
     "definition": "The flames, heat, and light made when something burns.",
     "sentence": "We roasted marshmallows over the camp fire.",
+    "sentence2": "The fire in the fireplace kept us warm.",
     "pronunciation": "FYR",
     "speakAs": null,
     "altPronunciations": []
@@ -569,6 +630,7 @@
     "partOfSpeech": "adjective",
     "definition": "Arriving or happening after the expected time.",
     "sentence": "I was late for school because the bus broke down.",
+    "sentence2": "We stayed up late to watch the fireworks.",
     "pronunciation": "LAYT",
     "speakAs": null,
     "altPronunciations": []
@@ -578,6 +640,7 @@
     "partOfSpeech": "noun",
     "definition": "The body parts that birds, bats, and insects use to fly.",
     "sentence": "The butterfly opened its colorful wings.",
+    "sentence2": "The chicken flapped its wings but could not fly far.",
     "pronunciation": "WINGZ",
     "speakAs": null,
     "altPronunciations": []
@@ -587,6 +650,7 @@
     "partOfSpeech": "noun",
     "definition": "A building where people live.",
     "sentence": "Our house has a red door and a big porch.",
+    "sentence2": "My friend's house is right across the street.",
     "pronunciation": "HOWS",
     "speakAs": null,
     "altPronunciations": []
@@ -596,6 +660,7 @@
     "partOfSpeech": "noun",
     "definition": "A very long, pointed tooth that sticks out of the mouth of an animal like an elephant or walrus.",
     "sentence": "The elephant used its tusk to dig in the dirt.",
+    "sentence2": "The walrus has a long white tusk on each side of its mouth.",
     "pronunciation": "TUSK",
     "speakAs": null,
     "altPronunciations": []
@@ -605,6 +670,7 @@
     "partOfSpeech": "verb",
     "definition": "To jump headfirst into water.",
     "sentence": "She likes to dive off the diving board at the pool.",
+    "sentence2": "Ducks dive under the water to find food.",
     "pronunciation": "DYV",
     "speakAs": null,
     "altPronunciations": []
@@ -614,6 +680,7 @@
     "partOfSpeech": "adjective",
     "definition": "Good enough, or feeling well.",
     "sentence": "I fell down, but I am fine now.",
+    "sentence2": "The weather is fine for a picnic today.",
     "pronunciation": "FYN",
     "speakAs": null,
     "altPronunciations": []
@@ -623,6 +690,7 @@
     "partOfSpeech": "adjective",
     "definition": "Covered with a soft, green plant that grows on rocks and trees in damp places.",
     "sentence": "We sat on a mossy log in the shady forest.",
+    "sentence2": "The mossy rocks by the stream were slippery.",
     "pronunciation": "MAW-see",
     "speakAs": null,
     "altPronunciations": [
@@ -634,6 +702,7 @@
     "partOfSpeech": "noun",
     "definition": "Seeds or pods of certain plants that are eaten as vegetables.",
     "sentence": "We had rice and beans for dinner.",
+    "sentence2": "Jack traded the cow for some magic beans.",
     "pronunciation": "BEENZ",
     "speakAs": null,
     "altPronunciations": []
@@ -643,6 +712,7 @@
     "partOfSpeech": "noun",
     "definition": "What is real or correct; facts, not lies.",
     "sentence": "Always tell the truth, even when it is hard.",
+    "sentence2": "He finally told the truth about who broke the vase.",
     "pronunciation": "TROOTH",
     "speakAs": null,
     "altPronunciations": []
@@ -652,6 +722,7 @@
     "partOfSpeech": "adjective",
     "definition": "Higher from bottom to top than all the others.",
     "sentence": "Dad is the tallest person in our family.",
+    "sentence2": "The giraffe is the tallest animal at the zoo.",
     "pronunciation": "TAWL-est",
     "speakAs": null,
     "altPronunciations": []
@@ -661,6 +732,7 @@
     "partOfSpeech": "noun",
     "definition": "High, steep walls of rock, often near the sea.",
     "sentence": "Seabirds built their nests on the rocky cliffs.",
+    "sentence2": "The white cliffs rose high above the ocean waves.",
     "pronunciation": "KLIFS",
     "speakAs": null,
     "altPronunciations": []
@@ -670,6 +742,7 @@
     "partOfSpeech": "noun",
     "definition": "A loud, crushing sound, like when you bite something crisp.",
     "sentence": "I heard the crunch of leaves under my boots.",
+    "sentence2": "The apple made a loud crunch when I bit it.",
     "pronunciation": "KRUNCH",
     "speakAs": null,
     "altPronunciations": []
@@ -679,6 +752,7 @@
     "partOfSpeech": "noun",
     "definition": "A warm, knitted piece of clothing worn on the upper body.",
     "sentence": "Wear a sweater because it is chilly outside.",
+    "sentence2": "Grandma knitted me a red sweater for winter.",
     "pronunciation": "SWET-er",
     "speakAs": null,
     "altPronunciations": []
@@ -688,6 +762,7 @@
     "partOfSpeech": "noun",
     "definition": "Coins and paper bills used to buy things.",
     "sentence": "I saved my money to buy a new book.",
+    "sentence2": "I keep my money in a piggy bank.",
     "pronunciation": "MUN-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -697,6 +772,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, simple house, often made of logs.",
     "sentence": "We stayed in a cabin by the lake for the weekend.",
+    "sentence2": "The log cabin had a stone fireplace.",
     "pronunciation": "KAB-in",
     "speakAs": null,
     "altPronunciations": []
@@ -706,6 +782,7 @@
     "partOfSpeech": "verb",
     "definition": "To cut wood, stone, or food into a shape or pieces.",
     "sentence": "We will carve a face into the pumpkin.",
+    "sentence2": "Dad will carve the turkey at Thanksgiving dinner.",
     "pronunciation": "KARV",
     "speakAs": null,
     "altPronunciations": []
@@ -715,6 +792,7 @@
     "partOfSpeech": "noun",
     "definition": "The planet we live on, or the soil on the ground.",
     "sentence": "The earth travels around the sun once a year.",
+    "sentence2": "The farmer planted seeds in the rich, dark earth.",
     "pronunciation": "URTH",
     "speakAs": null,
     "altPronunciations": []
@@ -724,6 +802,7 @@
     "partOfSpeech": "noun",
     "definition": "One of two equal parts of something.",
     "sentence": "I gave my friend half of my sandwich.",
+    "sentence2": "Half of the class went to music while the rest stayed for art.",
     "pronunciation": "HAF",
     "speakAs": null,
     "altPronunciations": []
@@ -733,6 +812,7 @@
     "partOfSpeech": "noun",
     "definition": "The feeling of being scared.",
     "sentence": "My fear of the dark went away when I got a night-light.",
+    "sentence2": "The kitten shook with fear during the storm.",
     "pronunciation": "FEER",
     "speakAs": null,
     "altPronunciations": []
@@ -742,6 +822,7 @@
     "partOfSpeech": "noun",
     "definition": "A tricky question or puzzle with a clever answer.",
     "sentence": "My uncle told us a riddle that took an hour to solve.",
+    "sentence2": "Here is a riddle: what has hands but cannot clap?",
     "pronunciation": "RID-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -751,6 +832,7 @@
     "partOfSpeech": "noun",
     "definition": "A sickness or disease.",
     "sentence": "Grandpa got better after a long illness.",
+    "sentence2": "The flu is an illness that spreads in winter.",
     "pronunciation": "IL-nis",
     "speakAs": null,
     "altPronunciations": []
@@ -760,6 +842,7 @@
     "partOfSpeech": "verb",
     "definition": "To make cloth or clothing by looping yarn together with long needles.",
     "sentence": "My aunt will knit a hat for the new baby.",
+    "sentence2": "Grandpa learned to knit socks.",
     "pronunciation": "NIT",
     "speakAs": null,
     "altPronunciations": [],
@@ -771,6 +854,7 @@
     "partOfSpeech": "noun",
     "definition": "The whole amount after everything is added together.",
     "sentence": "The total for our groceries was forty dollars.",
+    "sentence2": "Add up the numbers to find the total.",
     "pronunciation": "TOH-tul",
     "speakAs": null,
     "altPronunciations": []
@@ -780,6 +864,7 @@
     "partOfSpeech": "verb",
     "definition": "To come to the end of something; to complete it.",
     "sentence": "I need to finish my homework before I can play.",
+    "sentence2": "The runners raced toward the finish line.",
     "pronunciation": "FIN-ish",
     "speakAs": null,
     "altPronunciations": [],
@@ -791,6 +876,7 @@
     "partOfSpeech": "noun",
     "definition": "Small creatures with eight legs that often spin webs.",
     "sentence": "Spiders spun webs in the corners of the old shed.",
+    "sentence2": "Some spiders catch bugs without building webs.",
     "pronunciation": "SPY-derz",
     "speakAs": null,
     "altPronunciations": []
@@ -800,6 +886,7 @@
     "partOfSpeech": "noun",
     "definition": "A building where sick or injured people get medical care.",
     "sentence": "My baby cousin was born at the hospital downtown.",
+    "sentence2": "The ambulance rushed the hurt man to the hospital.",
     "pronunciation": "HOS-pih-tul",
     "speakAs": null,
     "altPronunciations": []
@@ -809,6 +896,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not wide; small from side to side.",
     "sentence": "The hallway was so narrow that only one person could walk through at a time.",
+    "sentence2": "The narrow bridge only had room for one car.",
     "pronunciation": "NAIR-oh",
     "speakAs": null,
     "altPronunciations": []
@@ -818,6 +906,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not smart or sensible; silly.",
     "sentence": "It was foolish to leave my bike out in the rain.",
+    "sentence2": "The foolish mouse tried to steal cheese from the trap.",
     "pronunciation": "FOO-lish",
     "speakAs": null,
     "altPronunciations": []
@@ -827,6 +916,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very pleasing, delightful, or attractive.",
     "sentence": "The little village had charming houses with flower boxes.",
+    "sentence2": "The prince gave a charming smile and bowed.",
     "pronunciation": "CHAR-ming",
     "speakAs": null,
     "altPronunciations": []
@@ -836,6 +926,7 @@
     "partOfSpeech": "noun",
     "definition": "Large or wild animals.",
     "sentence": "The story was about brave knights and fearsome beasts.",
+    "sentence2": "Lions and tigers are powerful beasts.",
     "pronunciation": "BEESTS",
     "speakAs": null,
     "altPronunciations": []
@@ -845,6 +936,7 @@
     "partOfSpeech": "adverb",
     "definition": "Without bumps, problems, or trouble.",
     "sentence": "The plane landed smoothly on the runway.",
+    "sentence2": "The new zipper slides smoothly up and down.",
     "pronunciation": "SMOOTH-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -854,6 +946,7 @@
     "partOfSpeech": "verb",
     "definition": "To hang or swing loosely.",
     "sentence": "My feet dangle off the edge of the dock.",
+    "sentence2": "Bats dangle upside down from the cave ceiling.",
     "pronunciation": "DANG-gul",
     "speakAs": null,
     "altPronunciations": []
@@ -863,6 +956,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very tired and upset, with worn-out nerves.",
     "sentence": "Mom felt frazzled after a long day of chasing the twins.",
+    "sentence2": "The frazzled waiter dropped a tray of drinks.",
     "pronunciation": "FRAZ-uld",
     "speakAs": null,
     "altPronunciations": []
@@ -872,6 +966,7 @@
     "partOfSpeech": "noun",
     "definition": "The state of having little or no light.",
     "sentence": "The cat's eyes glowed in the darkness.",
+    "sentence2": "We used a flashlight to find our way through the darkness.",
     "pronunciation": "DARK-nis",
     "speakAs": null,
     "altPronunciations": []
@@ -881,6 +976,7 @@
     "partOfSpeech": "noun",
     "definition": "A person you like and trust and enjoy spending time with.",
     "sentence": "My best friend and I like to ride bikes together.",
+    "sentence2": "A good friend helps you when you are sad.",
     "pronunciation": "FREND",
     "speakAs": null,
     "altPronunciations": []
@@ -890,6 +986,7 @@
     "partOfSpeech": "adjective",
     "definition": "Moving very fast.",
     "sentence": "The swift deer leaped over the fence.",
+    "sentence2": "The swift runner won the race easily.",
     "pronunciation": "SWIFT",
     "speakAs": null,
     "altPronunciations": []
@@ -899,6 +996,7 @@
     "partOfSpeech": "adjective",
     "definition": "Needing or wanting something to drink.",
     "sentence": "After soccer practice, I was very thirsty.",
+    "sentence2": "The thirsty dog drank the whole bowl of water.",
     "pronunciation": "THUR-stee",
     "speakAs": null,
     "altPronunciations": []
@@ -908,6 +1006,7 @@
     "partOfSpeech": "noun",
     "definition": "The sound a person makes when talking or singing.",
     "sentence": "She has a beautiful singing voice.",
+    "sentence2": "I lost my voice from cheering so loudly at the game.",
     "pronunciation": "VOYS",
     "speakAs": null,
     "altPronunciations": []
@@ -917,6 +1016,7 @@
     "partOfSpeech": "verb",
     "definition": "To show the way by going in front; to guide.",
     "sentence": "The tour guide will lead us through the museum.",
+    "sentence2": "The mother duck will lead her ducklings to the pond.",
     "pronunciation": "LEED",
     "speakAs": null,
     "altPronunciations": [],
@@ -928,6 +1028,7 @@
     "partOfSpeech": "noun",
     "definition": "A loose cape-like coat with no sleeves.",
     "sentence": "The wizard wrapped his long cloak around his shoulders.",
+    "sentence2": "Little Red Riding Hood wore a red cloak with a hood.",
     "pronunciation": "KLOHK",
     "speakAs": null,
     "altPronunciations": []
@@ -937,6 +1038,7 @@
     "partOfSpeech": "adverb",
     "definition": "Inside a building.",
     "sentence": "We played games indoors because of the thunderstorm.",
+    "sentence2": "Cats that live indoors are safe from cars.",
     "pronunciation": "in-DORZ",
     "speakAs": null,
     "altPronunciations": []
@@ -946,6 +1048,7 @@
     "partOfSpeech": "noun",
     "definition": "A special day of celebration when many people do not go to work or school.",
     "sentence": "Thanksgiving is my favorite holiday.",
+    "sentence2": "We visit Grandma's house for every holiday.",
     "pronunciation": "HOL-ih-day",
     "speakAs": null,
     "altPronunciations": []
@@ -955,6 +1058,7 @@
     "partOfSpeech": "adjective",
     "definition": "Whole; with nothing left out.",
     "sentence": "I read the entire book in one weekend.",
+    "sentence2": "The entire class went on the field trip.",
     "pronunciation": "en-TYR",
     "speakAs": null,
     "altPronunciations": []
@@ -964,6 +1068,7 @@
     "partOfSpeech": "noun",
     "definition": "A spicy yellow sauce made from seeds, often put on hot dogs.",
     "sentence": "I like ketchup and mustard on my hot dog.",
+    "sentence2": "Dad spread mustard on his ham sandwich.",
     "pronunciation": "MUS-terd",
     "speakAs": null,
     "altPronunciations": [],
@@ -975,6 +1080,7 @@
     "partOfSpeech": "adjective",
     "definition": "In the middle; not large and not small.",
     "sentence": "I ordered a medium drink at the movies.",
+    "sentence2": "Do you want a small, medium, or large shirt?",
     "pronunciation": "MEE-dee-um",
     "speakAs": null,
     "altPronunciations": []
@@ -984,6 +1090,7 @@
     "partOfSpeech": "adjective",
     "definition": "Feeling scared or frightened.",
     "sentence": "My sister is afraid of thunder.",
+    "sentence2": "Don't be afraid; the dog is friendly.",
     "pronunciation": "uh-FRAYD",
     "speakAs": null,
     "altPronunciations": []
@@ -993,6 +1100,7 @@
     "partOfSpeech": "noun",
     "definition": "The place or thing that something comes from.",
     "sentence": "The sun is our main source of light and heat.",
+    "sentence2": "A spring is the source of this little stream.",
     "pronunciation": "SORS",
     "speakAs": null,
     "altPronunciations": []
@@ -1002,6 +1110,7 @@
     "partOfSpeech": "verb",
     "definition": "Shaking because of cold or fear.",
     "sentence": "We were shivering at the bus stop on the frosty morning.",
+    "sentence2": "The wet puppy was shivering, so we wrapped it in a towel.",
     "pronunciation": "SHIV-er-ing",
     "speakAs": null,
     "altPronunciations": []
@@ -1011,6 +1120,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, cozy house, often in the country.",
     "sentence": "The cottage had a thatched roof and a garden.",
+    "sentence2": "The witch lived in a cottage in the woods.",
     "pronunciation": "KOT-ij",
     "speakAs": null,
     "altPronunciations": []
@@ -1020,6 +1130,7 @@
     "partOfSpeech": "noun",
     "definition": "The amount of space between two places or things.",
     "sentence": "The distance from my house to school is one mile.",
+    "sentence2": "We could see the mountains in the distance.",
     "pronunciation": "DIS-tunss",
     "speakAs": null,
     "altPronunciations": []
@@ -1029,6 +1140,7 @@
     "partOfSpeech": "noun",
     "definition": "A tall, fast-growing plant with hard, hollow stems; pandas love to eat it.",
     "sentence": "The panda munched on a stalk of bamboo.",
+    "sentence2": "The fishing pole was made from a long piece of bamboo.",
     "pronunciation": "bam-BOO",
     "speakAs": null,
     "altPronunciations": []
@@ -1038,6 +1150,7 @@
     "partOfSpeech": "adverb",
     "definition": "At all times; every time.",
     "sentence": "My dog always wags his tail when I come home.",
+    "sentence2": "I always brush my teeth before bed.",
     "pronunciation": "AWL-wayz",
     "speakAs": null,
     "altPronunciations": []
@@ -1047,6 +1160,7 @@
     "partOfSpeech": "noun",
     "definition": "The early part of the day, from sunrise until noon.",
     "sentence": "I eat breakfast every morning before school.",
+    "sentence2": "The rooster crows every morning at sunrise.",
     "pronunciation": "MOR-ning",
     "speakAs": null,
     "altPronunciations": [],
@@ -1058,6 +1172,7 @@
     "partOfSpeech": "adjective",
     "definition": "Beautiful, pleasant, or delightful.",
     "sentence": "We had a lovely picnic in the park.",
+    "sentence2": "What a lovely garden full of roses!",
     "pronunciation": "LUV-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -1067,6 +1182,7 @@
     "partOfSpeech": "noun",
     "definition": "The father of your mother or father.",
     "sentence": "My grandfather taught me how to play chess.",
+    "sentence2": "My grandfather tells stories about when he was a boy.",
     "pronunciation": "GRAND-fah-ther",
     "speakAs": null,
     "altPronunciations": []
@@ -1076,6 +1192,7 @@
     "partOfSpeech": "verb",
     "definition": "To look closely or carefully, as if trying to see something hard to see.",
     "sentence": "I had to peer through the foggy window to see the street.",
+    "sentence2": "The owl seemed to peer at us from the tree.",
     "pronunciation": "PEER",
     "speakAs": null,
     "altPronunciations": [],
@@ -1087,6 +1204,7 @@
     "partOfSpeech": "noun",
     "definition": "A sweet, juicy fruit with fuzzy yellow-pink skin and a large pit.",
     "sentence": "The ripe peach dripped juice down my chin.",
+    "sentence2": "A peach has a big, hard pit in the middle.",
     "pronunciation": "PEECH",
     "speakAs": null,
     "altPronunciations": []
@@ -1096,6 +1214,7 @@
     "partOfSpeech": "verb",
     "definition": "To make a long, low sound because of pain, unhappiness, or annoyance.",
     "sentence": "The students began to groan when the teacher announced a pop quiz.",
+    "sentence2": "I heard my dad groan when he lifted the heavy box.",
     "pronunciation": "GROHN",
     "speakAs": null,
     "altPronunciations": [],
@@ -1107,6 +1226,7 @@
     "partOfSpeech": "noun",
     "definition": "A line of people, bands, and floats moving through the streets to celebrate.",
     "sentence": "We watched the marching band in the holiday parade.",
+    "sentence2": "The circus parade had elephants and clowns.",
     "pronunciation": "puh-RAYD",
     "speakAs": null,
     "altPronunciations": []
@@ -1116,6 +1236,7 @@
     "partOfSpeech": "noun",
     "definition": "A problem, difficulty, or worry.",
     "sentence": "We had trouble finding our seats in the dark theater.",
+    "sentence2": "The puppy got into trouble for chewing my shoe.",
     "pronunciation": "TRUB-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1125,6 +1246,7 @@
     "partOfSpeech": "noun",
     "definition": "The condition of being protected from harm or danger.",
     "sentence": "Wear a helmet for safety when you ride your bike.",
+    "sentence2": "The lifeguard watches the pool for our safety.",
     "pronunciation": "SAYF-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -1134,6 +1256,7 @@
     "partOfSpeech": "noun",
     "definition": "A place where books and other materials are kept for people to borrow or read.",
     "sentence": "I checked out three books from the library.",
+    "sentence2": "The library is a quiet place to read.",
     "pronunciation": "LY-brair-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1143,6 +1266,7 @@
     "partOfSpeech": "noun",
     "definition": "A business, or a group of people who are spending time with you.",
     "sentence": "My mom works for a company that builds bridges.",
+    "sentence2": "It was nice to have company while I waited.",
     "pronunciation": "KUM-puh-nee",
     "speakAs": null,
     "altPronunciations": []
@@ -1152,6 +1276,7 @@
     "partOfSpeech": "noun",
     "definition": "Coins that are each worth one cent.",
     "sentence": "I saved a jar full of pennies to give to charity.",
+    "sentence2": "Ten pennies make one dime.",
     "pronunciation": "PEN-eez",
     "speakAs": null,
     "altPronunciations": []
@@ -1161,6 +1286,7 @@
     "partOfSpeech": "verb",
     "definition": "To bring back to your mind something from before; not forget.",
     "sentence": "Did you remember to bring your library book?",
+    "sentence2": "I can't remember where I put my shoes.",
     "pronunciation": "rih-MEM-ber",
     "speakAs": null,
     "altPronunciations": []
@@ -1170,6 +1296,7 @@
     "partOfSpeech": "noun",
     "definition": "Smooth, shiny, round gems that form inside oyster shells.",
     "sentence": "Grandma wore a necklace of white pearls to the wedding.",
+    "sentence2": "Divers searched the oyster beds for pearls.",
     "pronunciation": "PURLZ",
     "speakAs": null,
     "altPronunciations": [],
@@ -1181,6 +1308,7 @@
     "partOfSpeech": "noun",
     "definition": "A long boat with a flat bottom used to carry heavy loads on rivers and canals.",
     "sentence": "A barge loaded with coal floated slowly down the river.",
+    "sentence2": "The barge was too heavy to move without a tugboat.",
     "pronunciation": "BARJ",
     "speakAs": null,
     "altPronunciations": []
@@ -1190,6 +1318,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not proud; not thinking you are better than others.",
     "sentence": "Even after winning the prize, she stayed humble and thanked her team.",
+    "sentence2": "The humble farmer never bragged about his prize pumpkin.",
     "pronunciation": "HUM-bul",
     "speakAs": null,
     "altPronunciations": []
@@ -1199,6 +1328,7 @@
     "partOfSpeech": "noun",
     "definition": "A light, gentle wind.",
     "sentence": "A cool breeze blew through the open window.",
+    "sentence2": "The ocean breeze felt cool on our faces.",
     "pronunciation": "BREEZ",
     "speakAs": null,
     "altPronunciations": []
@@ -1208,6 +1338,7 @@
     "partOfSpeech": "verb",
     "definition": "To begin to grow, as when a seed puts out its first small shoot.",
     "sentence": "The bean seeds started to sprout after a few days.",
+    "sentence2": "Green leaves began to sprout from the potato.",
     "pronunciation": "SPROWT",
     "speakAs": null,
     "altPronunciations": []
@@ -1217,6 +1348,7 @@
     "partOfSpeech": "adjective",
     "definition": "Living; not dead.",
     "sentence": "The plant was still alive even though I forgot to water it.",
+    "sentence2": "The doctor said the bird was alive but needed rest.",
     "pronunciation": "uh-LYV",
     "speakAs": null,
     "altPronunciations": []
@@ -1226,6 +1358,7 @@
     "partOfSpeech": "verb",
     "definition": "To come or go back, or to give something back.",
     "sentence": "Please return the book when you are done reading it.",
+    "sentence2": "The birds return to our yard every spring.",
     "pronunciation": "rih-TURN",
     "speakAs": null,
     "altPronunciations": []
@@ -1235,6 +1368,7 @@
     "partOfSpeech": "noun",
     "definition": "Marks left on the ground by feet or shoes.",
     "sentence": "We followed the bear's footprints in the snow.",
+    "sentence2": "Our footprints in the sand washed away with the waves.",
     "pronunciation": "FUUT-prints",
     "speakAs": null,
     "altPronunciations": []
@@ -1244,6 +1378,7 @@
     "partOfSpeech": "adjective",
     "definition": "Soft, kind, and careful; not rough.",
     "sentence": "Be gentle when you hold the baby chick.",
+    "sentence2": "The gentle giant helped the lost children find home.",
     "pronunciation": "JEN-tul",
     "speakAs": null,
     "altPronunciations": []
@@ -1253,6 +1388,7 @@
     "partOfSpeech": "noun",
     "definition": "Thin, flat, round cakes cooked in a pan and often eaten with syrup.",
     "sentence": "Dad makes blueberry pancakes every Sunday.",
+    "sentence2": "I poured syrup over my stack of pancakes.",
     "pronunciation": "PAN-kayks",
     "speakAs": null,
     "altPronunciations": []
@@ -1262,6 +1398,7 @@
     "partOfSpeech": "noun",
     "definition": "A slow-moving animal that hangs upside down from trees in South and Central American rain forests.",
     "sentence": "The sloth hung from the branch and barely moved all day.",
+    "sentence2": "A sloth moves so slowly that plants grow on its fur.",
     "pronunciation": "SLAWTH",
     "speakAs": null,
     "altPronunciations": [
@@ -1273,6 +1410,7 @@
     "partOfSpeech": "noun",
     "definition": "A small device that makes a high, sharp sound when you blow into it.",
     "sentence": "The coach blew the whistle to start the game.",
+    "sentence2": "The train let out a loud whistle as it left the station.",
     "pronunciation": "WIS-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1282,6 +1420,7 @@
     "partOfSpeech": "verb",
     "definition": "To rest and become calm and less tense.",
     "sentence": "After a busy week, I like to relax with a good book.",
+    "sentence2": "Take a deep breath and relax your shoulders.",
     "pronunciation": "rih-LAKS",
     "speakAs": null,
     "altPronunciations": []
@@ -1291,6 +1430,7 @@
     "partOfSpeech": "adjective",
     "definition": "Thick, strong, and sturdy, or somewhat heavy in build.",
     "sentence": "The farmer leaned on a stout wooden fence post.",
+    "sentence2": "The stout little pony could carry heavy bags.",
     "pronunciation": "STOWT",
     "speakAs": null,
     "altPronunciations": []
@@ -1300,6 +1440,7 @@
     "partOfSpeech": "noun",
     "definition": "A person who shows others the way or explains things.",
     "sentence": "Our guide pointed out the eagles' nest during the hike.",
+    "sentence2": "The guide showed us how to paddle the canoe.",
     "pronunciation": "GYD",
     "speakAs": null,
     "altPronunciations": []
@@ -1309,6 +1450,7 @@
     "partOfSpeech": "noun",
     "definition": "A spicy root used to flavor food and drinks.",
     "sentence": "Mom put fresh ginger in the stir-fry.",
+    "sentence2": "Ginger cookies taste warm and a little spicy.",
     "pronunciation": "JIN-jer",
     "speakAs": null,
     "altPronunciations": []
@@ -1318,6 +1460,7 @@
     "partOfSpeech": "noun",
     "definition": "Taking long walks outdoors, especially on trails in the mountains or woods.",
     "sentence": "We went hiking in the mountains and saw a waterfall.",
+    "sentence2": "Bring good shoes for hiking on the rocky trail.",
     "pronunciation": "HY-king",
     "speakAs": null,
     "altPronunciations": []
@@ -1327,6 +1470,7 @@
     "partOfSpeech": "noun",
     "definition": "Something that happens because of something else; an outcome.",
     "sentence": "The result of all her practice was a perfect score.",
+    "sentence2": "The result of the vote was a tie.",
     "pronunciation": "rih-ZULT",
     "speakAs": null,
     "altPronunciations": []
@@ -1336,6 +1480,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having a sharp, strong taste that is a little sour.",
     "sentence": "The lemonade was sweet and tangy.",
+    "sentence2": "The tangy orange juice made my mouth pucker.",
     "pronunciation": "TANG-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1345,6 +1490,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a cranky, bad-tempered way.",
     "sentence": "My brother grumpily got out of bed when the alarm rang.",
+    "sentence2": "The old cat grumpily moved off the warm couch.",
     "pronunciation": "GRUM-pih-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -1354,6 +1500,7 @@
     "partOfSpeech": "noun",
     "definition": "The number that is ten more than sixty.",
     "sentence": "My great-grandmother just turned seventy years old.",
+    "sentence2": "The book has seventy pages with pictures.",
     "pronunciation": "SEV-en-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -1363,6 +1510,7 @@
     "partOfSpeech": "verb",
     "definition": "Flew or rose high into the air.",
     "sentence": "The eagle soared high above the canyon.",
+    "sentence2": "The paper airplane soared across the classroom.",
     "pronunciation": "SORD",
     "speakAs": null,
     "altPronunciations": [],
@@ -1374,6 +1522,7 @@
     "partOfSpeech": "noun",
     "definition": "Small, round pieces sewn onto clothes and pushed through holes to fasten them.",
     "sentence": "My coat has four big buttons down the front.",
+    "sentence2": "I need help with the buttons on my shirt.",
     "pronunciation": "BUT-unz",
     "speakAs": null,
     "altPronunciations": []
@@ -1383,6 +1532,7 @@
     "partOfSpeech": "adjective",
     "definition": "Quick to learn and understand; smart and creative.",
     "sentence": "The clever fox found a way to open the gate.",
+    "sentence2": "My clever sister figured out the puzzle first.",
     "pronunciation": "KLEV-er",
     "speakAs": null,
     "altPronunciations": []
@@ -1392,6 +1542,7 @@
     "partOfSpeech": "verb",
     "definition": "To ask someone to come to an event or to do something.",
     "sentence": "I want to invite my whole class to my party.",
+    "sentence2": "Let's invite Grandma to come to the school play.",
     "pronunciation": "in-VYT",
     "speakAs": null,
     "altPronunciations": [
@@ -1404,6 +1555,7 @@
     "partOfSpeech": "adverb",
     "definition": "With close attention, so as to avoid mistakes or harm.",
     "sentence": "She carefully carried the tray of glasses to the table.",
+    "sentence2": "Read the directions carefully before you start the test.",
     "pronunciation": "KAIR-ful-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1413,6 +1565,7 @@
     "partOfSpeech": "noun",
     "definition": "An official paper that gives you permission to do something.",
     "sentence": "You need a permit to fish in the state park.",
+    "sentence2": "A building permit lets you build a new garage.",
     "pronunciation": "PER-mit",
     "speakAs": null,
     "altPronunciations": [
@@ -1425,6 +1578,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with the moon.",
     "sentence": "The astronauts drove a lunar rover across the dusty ground.",
+    "sentence2": "A lunar eclipse happens when Earth's shadow covers the moon.",
     "pronunciation": "LOO-ner",
     "speakAs": null,
     "altPronunciations": []
@@ -1434,6 +1588,7 @@
     "partOfSpeech": "adjective",
     "definition": "Made by crossing threads, strips, or strands over and under each other.",
     "sentence": "She carried a woven basket full of berries.",
+    "sentence2": "The rug was woven from colorful wool.",
     "pronunciation": "WOH-ven",
     "speakAs": null,
     "altPronunciations": []
@@ -1443,6 +1598,7 @@
     "partOfSpeech": "noun",
     "definition": "A crunchy breakfast food made of toasted oats, nuts, and dried fruit.",
     "sentence": "I like granola with yogurt and strawberries.",
+    "sentence2": "We packed granola bars for the hike.",
     "pronunciation": "gruh-NOH-luh",
     "speakAs": null,
     "altPronunciations": []
@@ -1452,6 +1608,7 @@
     "partOfSpeech": "noun",
     "definition": "The sound people make when they find something funny.",
     "sentence": "The room filled with laughter when the clown fell over.",
+    "sentence2": "We heard laughter coming from the playground.",
     "pronunciation": "LAF-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -1461,6 +1618,7 @@
     "partOfSpeech": "verb",
     "definition": "To sit or lie in a lazy, relaxed way.",
     "sentence": "On Saturdays, we like to lounge on the couch in our pajamas.",
+    "sentence2": "Cats love to lounge in a sunny spot by the window.",
     "pronunciation": "LOWNJ",
     "speakAs": null,
     "altPronunciations": []
@@ -1470,6 +1628,7 @@
     "partOfSpeech": "noun",
     "definition": "The length of time that something lasts.",
     "sentence": "We stayed inside for the duration of the storm.",
+    "sentence2": "The duration of the movie was two hours.",
     "pronunciation": "doo-RAY-shun",
     "speakAs": null,
     "altPronunciations": [
@@ -1481,6 +1640,7 @@
     "partOfSpeech": "verb",
     "definition": "To look at something closely and carefully.",
     "sentence": "The doctor will examine your ears and throat.",
+    "sentence2": "Let's examine the leaf under the magnifying glass.",
     "pronunciation": "ig-ZAM-in",
     "speakAs": null,
     "altPronunciations": []
@@ -1490,6 +1650,7 @@
     "partOfSpeech": "noun",
     "definition": "Soft, thin papers used for blowing your nose or wiping.",
     "sentence": "Please pass me the box of tissues; I have a runny nose.",
+    "sentence2": "My nose was so stuffy that I used up all the tissues.",
     "pronunciation": "TISH-ooz",
     "speakAs": null,
     "altPronunciations": []
@@ -1499,6 +1660,7 @@
     "partOfSpeech": "noun",
     "definition": "An agreement in which each side gives up part of what it wants.",
     "sentence": "We reached a compromise: I pick the movie and my sister picks the snack.",
+    "sentence2": "Both teams wanted the field, so they agreed to a compromise and shared it.",
     "pronunciation": "KOM-pruh-myz",
     "speakAs": null,
     "altPronunciations": []
@@ -1508,6 +1670,7 @@
     "partOfSpeech": "noun",
     "definition": "Eyeglasses with lenses split into two parts, one for seeing far away and one for reading.",
     "sentence": "Grandpa put on his bifocals to read the newspaper.",
+    "sentence2": "Bifocals help people see things both near and far.",
     "pronunciation": "BY-foh-kulz",
     "speakAs": null,
     "altPronunciations": []
@@ -1517,6 +1680,7 @@
     "partOfSpeech": "noun",
     "definition": "A scientist who studies rocks, soil, and how the earth was formed.",
     "sentence": "The geologist showed us a rock that was millions of years old.",
+    "sentence2": "A geologist studies rocks, volcanoes, and earthquakes.",
     "pronunciation": "jee-OL-uh-jist",
     "speakAs": null,
     "altPronunciations": []
@@ -1526,6 +1690,7 @@
     "partOfSpeech": "noun",
     "definition": "The layer of gases that surrounds a planet, or the feeling of a place.",
     "sentence": "The earth's atmosphere protects us from the sun's harmful rays.",
+    "sentence2": "There is no air to breathe because the moon has almost no atmosphere.",
     "pronunciation": "AT-mus-feer",
     "speakAs": null,
     "altPronunciations": []
@@ -1535,6 +1700,7 @@
     "partOfSpeech": "noun",
     "definition": "A very light gas that makes balloons float.",
     "sentence": "The balloons were filled with helium, so they floated to the ceiling.",
+    "sentence2": "Helium is a gas that is lighter than air.",
     "pronunciation": "HEE-lee-um",
     "speakAs": null,
     "altPronunciations": []
@@ -1544,6 +1710,7 @@
     "partOfSpeech": "noun",
     "definition": "A feeling of being bothered or slightly angry.",
     "sentence": "The buzzing fly was a constant annoyance during dinner.",
+    "sentence2": "To my annoyance, my little brother kept humming the same song.",
     "pronunciation": "uh-NOY-unss",
     "speakAs": null,
     "altPronunciations": []
@@ -1553,6 +1720,7 @@
     "partOfSpeech": "verb",
     "definition": "To hold someone or something close in your arms in a loving way.",
     "sentence": "I like to cuddle with my puppy on the couch.",
+    "sentence2": "The baby likes to cuddle her teddy bear at bedtime.",
     "pronunciation": "KUD-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1562,6 +1730,7 @@
     "partOfSpeech": "noun",
     "definition": "The part of a building that is below the ground floor.",
     "sentence": "We keep our holiday decorations in the basement.",
+    "sentence2": "The washing machine is down in the basement.",
     "pronunciation": "BAYS-ment",
     "speakAs": null,
     "altPronunciations": []
@@ -1571,6 +1740,7 @@
     "partOfSpeech": "noun",
     "definition": "Insects with thin bodies and large, often colorful wings.",
     "sentence": "Butterflies fluttered around the purple flowers in the garden.",
+    "sentence2": "Caterpillars turn into butterflies.",
     "pronunciation": "BUT-er-flyz",
     "speakAs": null,
     "altPronunciations": []
@@ -1580,6 +1750,7 @@
     "partOfSpeech": "verb",
     "definition": "Breathing in noisily through the nose, as when you have a cold or are crying.",
     "sentence": "My little sister was sniffling because she had a cold.",
+    "sentence2": "I heard sniffling from the back row during the sad movie.",
     "pronunciation": "SNIF-ling",
     "speakAs": null,
     "altPronunciations": []
@@ -1589,6 +1760,7 @@
     "partOfSpeech": "noun",
     "definition": "A sheet of cloth or other material stretched over a window or door to give shade.",
     "sentence": "We stood under the store's awning to stay out of the rain.",
+    "sentence2": "The cafe has a striped awning over its outdoor tables.",
     "pronunciation": "AW-ning",
     "speakAs": null,
     "altPronunciations": []
@@ -1598,6 +1770,7 @@
     "partOfSpeech": "verb",
     "definition": "Refusing to buy, use, or take part in something as a way of protesting.",
     "sentence": "The town was boycotting the store until it treated its workers fairly.",
+    "sentence2": "The students were boycotting the cafeteria's cold pizza.",
     "pronunciation": "BOY-kot-ing",
     "speakAs": null,
     "altPronunciations": []
@@ -1607,6 +1780,7 @@
     "partOfSpeech": "verb",
     "definition": "To announce something publicly and proudly.",
     "sentence": "The king will proclaim a holiday for the whole kingdom.",
+    "sentence2": "The town crier would proclaim the news in the square.",
     "pronunciation": "proh-KLAYM",
     "speakAs": null,
     "altPronunciations": []
@@ -1616,6 +1790,7 @@
     "partOfSpeech": "noun",
     "definition": "A brave fighter or soldier, especially in ancient times.",
     "sentence": "The warrior held up her shield and charged into battle.",
+    "sentence2": "The young warrior trained every day with her sword.",
     "pronunciation": "WOR-ee-er",
     "speakAs": null,
     "altPronunciations": []
@@ -1625,6 +1800,7 @@
     "partOfSpeech": "noun",
     "definition": "A fixed amount of money paid to a worker on a regular schedule.",
     "sentence": "The teacher's salary is paid twice a month.",
+    "sentence2": "My cousin earns a salary from her job at the bank.",
     "pronunciation": "SAL-uh-ree",
     "speakAs": null,
     "altPronunciations": [],
@@ -1635,6 +1811,7 @@
     "partOfSpeech": "adjective",
     "definition": "Cheerful, jolly, and friendly.",
     "sentence": "The jovial mail carrier always whistled and waved.",
+    "sentence2": "Santa is often shown as a jovial man with a big laugh.",
     "pronunciation": "JOH-vee-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1644,6 +1821,7 @@
     "partOfSpeech": "noun",
     "definition": "A book or website that lists words in ABC order and explains their meanings.",
     "sentence": "I looked up the meaning of the word in the dictionary.",
+    "sentence2": "A dictionary lists words in alphabetical order.",
     "pronunciation": "DIK-shuh-nair-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1653,6 +1831,7 @@
     "partOfSpeech": "preposition",
     "definition": "Against, especially in a game or contest.",
     "sentence": "Tonight's game is the Tigers versus the Bears.",
+    "sentence2": "The movie is about good versus evil.",
     "pronunciation": "VER-sus",
     "speakAs": null,
     "altPronunciations": [],
@@ -1664,6 +1843,7 @@
     "partOfSpeech": "noun",
     "definition": "A large ocean fish with a long, pointed, spear-like snout.",
     "sentence": "The fisherman caught a blue marlin off the coast of Florida.",
+    "sentence2": "A marlin has a long, pointed bill like a sword.",
     "pronunciation": "MAR-lin",
     "speakAs": null,
     "altPronunciations": []
@@ -1673,6 +1853,7 @@
     "partOfSpeech": "noun",
     "definition": "An event or happening, especially an unusual or unpleasant one.",
     "sentence": "There was an incident at recess when two kids bumped heads.",
+    "sentence2": "The principal wrote a report about the incident in the hallway.",
     "pronunciation": "IN-sih-dent",
     "speakAs": null,
     "altPronunciations": []
@@ -1682,6 +1863,7 @@
     "partOfSpeech": "noun",
     "definition": "Knives, forks, and spoons used for eating or serving food.",
     "sentence": "Please set the table with plates, napkins, and cutlery.",
+    "sentence2": "Forks, knives, and spoons are all kinds of cutlery.",
     "pronunciation": "KUT-ler-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1691,6 +1873,7 @@
     "partOfSpeech": "verb",
     "definition": "Shouted in a deep, loud voice.",
     "sentence": "The coach bellowed instructions from the sideline.",
+    "sentence2": "The giant bellowed so loudly that the windows shook.",
     "pronunciation": "BEL-ohd",
     "speakAs": null,
     "altPronunciations": []
@@ -1700,6 +1883,7 @@
     "partOfSpeech": "noun",
     "definition": "The sad feeling you get when something you hoped for does not happen.",
     "sentence": "It was a disappointment when the picnic was canceled because of rain.",
+    "sentence2": "To her disappointment, the ice cream shop was closed.",
     "pronunciation": "dis-uh-POYNT-ment",
     "speakAs": null,
     "altPronunciations": []
@@ -1709,6 +1893,7 @@
     "partOfSpeech": "verb",
     "definition": "Offered an idea or plan for others to think about.",
     "sentence": "My friend suggested that we build a fort out of blankets.",
+    "sentence2": "The teacher suggested that I read the chapter again.",
     "pronunciation": "sug-JES-tid",
     "speakAs": null,
     "altPronunciations": [
@@ -1720,6 +1905,7 @@
     "partOfSpeech": "noun",
     "definition": "Something that stops an activity or conversation for a short time.",
     "sentence": "The fire drill was an interruption during our math test.",
+    "sentence2": "We watched the show without a single interruption for ads.",
     "pronunciation": "in-tuh-RUP-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -1729,6 +1915,7 @@
     "partOfSpeech": "adjective",
     "definition": "Swollen or soft and rounded, as if filled with air.",
     "sentence": "Big, puffy clouds floated across the blue sky.",
+    "sentence2": "My eyes were puffy after I cried.",
     "pronunciation": "PUF-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -1738,6 +1925,7 @@
     "partOfSpeech": "noun",
     "definition": "A rough, strong cloth used to make sacks and bags.",
     "sentence": "The potatoes came in a large burlap sack.",
+    "sentence2": "We raced in burlap sacks at the field day.",
     "pronunciation": "BUR-lap",
     "speakAs": null,
     "altPronunciations": []
@@ -1747,6 +1935,7 @@
     "partOfSpeech": "noun",
     "definition": "A large, brown seaweed that grows in tall underwater forests.",
     "sentence": "Sea otters wrap themselves in kelp so they do not float away while sleeping.",
+    "sentence2": "Fish swim through tall forests of kelp in the ocean.",
     "pronunciation": "KELP",
     "speakAs": null,
     "altPronunciations": []
@@ -1756,6 +1945,7 @@
     "partOfSpeech": "preposition",
     "definition": "Below or under something.",
     "sentence": "The cat was sleeping beneath the porch.",
+    "sentence2": "We found a frog beneath a big leaf.",
     "pronunciation": "bih-NEETH",
     "speakAs": null,
     "altPronunciations": []
@@ -1765,6 +1955,7 @@
     "partOfSpeech": "adjective",
     "definition": "Changing your mind or feelings often, without good reason.",
     "sentence": "The fickle weather turned from sunny to stormy in an hour.",
+    "sentence2": "My fickle friend changes her favorite color every day.",
     "pronunciation": "FIK-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1774,6 +1965,7 @@
     "partOfSpeech": "adjective",
     "definition": "Melted by great heat, like hot liquid rock or metal.",
     "sentence": "Molten lava flowed down the side of the volcano.",
+    "sentence2": "The blacksmith poured molten metal into the mold.",
     "pronunciation": "MOHL-ten",
     "speakAs": null,
     "altPronunciations": []
@@ -1783,6 +1975,7 @@
     "partOfSpeech": "noun",
     "definition": "A small metal or plastic cap worn on a finger to protect it while sewing.",
     "sentence": "Grandma wears a thimble so the needle does not poke her finger.",
+    "sentence2": "The thimble fits on the tip of your finger like a tiny cup.",
     "pronunciation": "THIM-bul",
     "speakAs": null,
     "altPronunciations": []
@@ -1792,6 +1985,7 @@
     "partOfSpeech": "adjective",
     "definition": "Stiff and hard to bend; not flexible.",
     "sentence": "The board was rigid and would not bend.",
+    "sentence2": "A rigid plastic case protects the tablet.",
     "pronunciation": "RIJ-id",
     "speakAs": null,
     "altPronunciations": []
@@ -1801,6 +1995,7 @@
     "partOfSpeech": "verb",
     "definition": "To go out of sight; to vanish.",
     "sentence": "The magician made the coin disappear.",
+    "sentence2": "Snowmen disappear when the sun comes out.",
     "pronunciation": "dis-uh-PEER",
     "speakAs": null,
     "altPronunciations": []
@@ -1810,6 +2005,7 @@
     "partOfSpeech": "adjective",
     "definition": "Lower in quality or rank; not as good.",
     "sentence": "The cheap umbrella was inferior and broke in the first storm.",
+    "sentence2": "The inferior glue could not hold the pieces together.",
     "pronunciation": "in-FEER-ee-er",
     "speakAs": null,
     "altPronunciations": []
@@ -1819,6 +2015,7 @@
     "partOfSpeech": "noun",
     "definition": "A company or store that sells goods or services, or the work of buying and selling.",
     "sentence": "My aunt runs a small business that bakes birthday cakes.",
+    "sentence2": "The lemonade stand was my first business.",
     "pronunciation": "BIZ-nis",
     "speakAs": null,
     "altPronunciations": []
@@ -1828,6 +2025,7 @@
     "partOfSpeech": "noun",
     "definition": "A soft, gentle song sung to help a baby fall asleep.",
     "sentence": "Mom sang a lullaby to my baby brother.",
+    "sentence2": "The soft lullaby helped the baby fall asleep.",
     "pronunciation": "LUL-uh-by",
     "speakAs": null,
     "altPronunciations": []
@@ -1837,6 +2035,7 @@
     "partOfSpeech": "noun",
     "definition": "The holiday on October 31 when people wear costumes and go trick-or-treating.",
     "sentence": "I am going to dress up as a robot for Halloween.",
+    "sentence2": "On Halloween, kids go trick-or-treating for candy.",
     "pronunciation": "hal-uh-WEEN",
     "speakAs": null,
     "altPronunciations": [
@@ -1848,6 +2047,7 @@
     "partOfSpeech": "adjective",
     "definition": "From or having to do with Japan, its people, or its language.",
     "sentence": "We ate at a Japanese restaurant and tried sushi.",
+    "sentence2": "My friend is learning to write Japanese letters.",
     "pronunciation": "jap-uh-NEEZ",
     "speakAs": null,
     "altPronunciations": []
@@ -1857,6 +2057,7 @@
     "partOfSpeech": "noun",
     "definition": "A tool with a sharp, flat edge used to cut or shape wood or stone.",
     "sentence": "The sculptor used a chisel to carve the marble statue.",
+    "sentence2": "The woodworker tapped the chisel with a hammer.",
     "pronunciation": "CHIZ-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -1866,6 +2067,7 @@
     "partOfSpeech": "noun",
     "definition": "Any living thing, such as a plant, animal, or bacterium.",
     "sentence": "A tiny organism can be seen only with a microscope.",
+    "sentence2": "Every living thing, from a tree to a tiger, is an organism.",
     "pronunciation": "OR-guh-niz-um",
     "speakAs": null,
     "altPronunciations": []
@@ -1875,6 +2077,7 @@
     "partOfSpeech": "noun",
     "definition": "A student who stays away from school without permission.",
     "sentence": "The principal called the parents of the truant who skipped class.",
+    "sentence2": "The truant was found playing video games instead of being at school.",
     "pronunciation": "TROO-unt",
     "speakAs": null,
     "altPronunciations": []
@@ -1884,6 +2087,7 @@
     "partOfSpeech": "noun",
     "definition": "Smart apes from Africa that live in groups and can use simple tools.",
     "sentence": "The chimpanzees used sticks to dig termites out of the mound.",
+    "sentence2": "Chimpanzees are close cousins of gorillas.",
     "pronunciation": "chim-pan-ZEEZ",
     "speakAs": null,
     "altPronunciations": []
@@ -1893,6 +2097,7 @@
     "partOfSpeech": "verb",
     "definition": "To focus all your attention on something.",
     "sentence": "It is hard to concentrate when the TV is on.",
+    "sentence2": "I need to concentrate on my reading.",
     "pronunciation": "KON-sen-trayt",
     "speakAs": null,
     "altPronunciations": []
@@ -1902,6 +2107,7 @@
     "partOfSpeech": "verb",
     "definition": "Walked quietly on the balls of the feet.",
     "sentence": "I tiptoed past my sleeping baby sister.",
+    "sentence2": "The cat tiptoed along the top of the fence.",
     "pronunciation": "TIP-tohd",
     "speakAs": null,
     "altPronunciations": []
@@ -1911,6 +2117,7 @@
     "partOfSpeech": "noun",
     "definition": "Land that is soaked with water, such as marshes and swamps.",
     "sentence": "Many frogs and birds live in the wetlands near the river.",
+    "sentence2": "Ducks build nests in the tall grass of the wetlands.",
     "pronunciation": "WET-landz",
     "speakAs": null,
     "altPronunciations": []
@@ -1920,6 +2127,7 @@
     "partOfSpeech": "noun",
     "definition": "Something that is owned by someone, such as land, a building, or belongings.",
     "sentence": "The sign said the land was private property.",
+    "sentence2": "The lost-and-found box holds school property.",
     "pronunciation": "PROP-er-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -1929,6 +2137,7 @@
     "partOfSpeech": "noun",
     "definition": "A powerful farm vehicle with big wheels, used for pulling heavy equipment.",
     "sentence": "The farmer drove the tractor across the field.",
+    "sentence2": "A big green tractor pulled the hay wagon.",
     "pronunciation": "TRAK-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -1938,6 +2147,7 @@
     "partOfSpeech": "noun",
     "definition": "A good feeling when worry, pain, or stress goes away.",
     "sentence": "It was a relief to find my lost dog.",
+    "sentence2": "The cool water was a relief on such a hot day.",
     "pronunciation": "rih-LEEF",
     "speakAs": null,
     "altPronunciations": []
@@ -1947,10 +2157,11 @@
     "partOfSpeech": "adjective",
     "definition": "Among the very best of a group.",
     "sentence": "Only elite athletes compete in the Olympics.",
+    "sentence2": "The elite soldiers were the best in the army.",
     "pronunciation": "ih-LEET",
     "speakAs": null,
     "altPronunciations": [
-      "ay leet"
+      "A-leet"
     ]
   },
   {
@@ -1958,6 +2169,7 @@
     "partOfSpeech": "noun",
     "definition": "The legal right or duty to take care of someone or something.",
     "sentence": "The police took the suspect into custody.",
+    "sentence2": "The judge gave the mother custody of the children.",
     "pronunciation": "KUS-tuh-dee",
     "speakAs": null,
     "altPronunciations": []
@@ -1967,6 +2179,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very strong, wild, or violent.",
     "sentence": "The fierce lion roared at the hyenas.",
+    "sentence2": "The fierce wind tore the roof off the shed.",
     "pronunciation": "FEERS",
     "speakAs": null,
     "altPronunciations": []
@@ -1976,6 +2189,7 @@
     "partOfSpeech": "noun",
     "definition": "An athlete who runs a race while jumping over a series of barriers.",
     "sentence": "The hurdler leaped over every barrier and won the race.",
+    "sentence2": "The hurdler practiced jumping over the barriers every day.",
     "pronunciation": "HURD-ler",
     "speakAs": null,
     "altPronunciations": []
@@ -1985,6 +2199,7 @@
     "partOfSpeech": "noun",
     "definition": "The twelfth and last month of the year.",
     "sentence": "My birthday is in December, right before winter break.",
+    "sentence2": "It snowed in December, just in time for the holidays.",
     "pronunciation": "dih-SEM-ber",
     "speakAs": null,
     "altPronunciations": []
@@ -1994,6 +2209,7 @@
     "partOfSpeech": "verb",
     "definition": "To put someone or something back into a former position or condition.",
     "sentence": "The school decided to reinstate the old recess schedule.",
+    "sentence2": "The club voted to reinstate her as president.",
     "pronunciation": "ree-in-STAYT",
     "speakAs": null,
     "altPronunciations": []
@@ -2003,6 +2219,7 @@
     "partOfSpeech": "adjective",
     "definition": "Completely different, or on the other side.",
     "sentence": "Hot is the opposite of cold.",
+    "sentence2": "My friend lives on the opposite side of town.",
     "pronunciation": "OP-uh-zit",
     "speakAs": null,
     "altPronunciations": []
@@ -2012,6 +2229,7 @@
     "partOfSpeech": "noun",
     "definition": "Something nice said to praise someone.",
     "sentence": "She gave me a compliment on my drawing.",
+    "sentence2": "Telling someone they did a great job is a nice compliment.",
     "pronunciation": "KOM-pluh-ment",
     "speakAs": null,
     "altPronunciations": [],
@@ -2023,6 +2241,7 @@
     "partOfSpeech": "noun",
     "definition": "Money or time put into something in the hope that it will grow or pay off later.",
     "sentence": "Buying a good pair of boots was a smart investment.",
+    "sentence2": "Planting fruit trees is an investment that pays off for years.",
     "pronunciation": "in-VEST-ment",
     "speakAs": null,
     "altPronunciations": []
@@ -2032,6 +2251,7 @@
     "partOfSpeech": "noun",
     "definition": "An event held to collect money for a cause or group.",
     "sentence": "Our school held a bake sale as a fundraiser for new books.",
+    "sentence2": "The car wash fundraiser raised money for the animal shelter.",
     "pronunciation": "FUND-ray-zer",
     "speakAs": null,
     "altPronunciations": []
@@ -2041,6 +2261,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, plump, brown bird that lives on the ground.",
     "sentence": "A quail and her chicks scurried across the path.",
+    "sentence2": "The quail has a little feather sticking up from its head.",
     "pronunciation": "KWAYL",
     "speakAs": null,
     "altPronunciations": [],
@@ -2051,6 +2272,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, thin booklet with information about one topic.",
     "sentence": "The nurse gave us a pamphlet about healthy eating.",
+    "sentence2": "The museum gave us a pamphlet with a map inside.",
     "pronunciation": "PAM-flit",
     "speakAs": null,
     "altPronunciations": []
@@ -2060,6 +2282,7 @@
     "partOfSpeech": "adjective",
     "definition": "Feeling that you badly need something and will try almost anything to get it.",
     "sentence": "The desperate hikers searched for water in the hot desert.",
+    "sentence2": "The desperate kitten cried until someone rescued it from the tree.",
     "pronunciation": "DES-per-it",
     "speakAs": null,
     "altPronunciations": []
@@ -2069,6 +2292,7 @@
     "partOfSpeech": "noun",
     "definition": "A decorated container filled with candy and toys that people hit with a stick at parties.",
     "sentence": "We took turns swinging at the pinata until candy spilled out.",
+    "sentence2": "The donkey pinata was full of candy and toys.",
     "pronunciation": "peen-YAH-tuh",
     "speakAs": "peen yah tuh",
     "altPronunciations": [],
@@ -2079,6 +2303,7 @@
     "partOfSpeech": "noun",
     "definition": "An area of land that belongs to or is controlled by a person, animal, or government.",
     "sentence": "The wolf marked its territory to warn other wolves away.",
+    "sentence2": "The bear will chase away anyone who enters its territory.",
     "pronunciation": "TAIR-ih-tor-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -2088,6 +2313,7 @@
     "partOfSpeech": "noun",
     "definition": "A train that runs on a single track, usually raised high above the ground.",
     "sentence": "We rode the monorail from the parking lot to the theme park.",
+    "sentence2": "The monorail runs on a single track high above the street.",
     "pronunciation": "MON-uh-rayl",
     "speakAs": null,
     "altPronunciations": []
@@ -2097,6 +2323,7 @@
     "partOfSpeech": "adjective",
     "definition": "Arranged in ABC order.",
     "sentence": "The teacher put our names in alphabetical order.",
+    "sentence2": "The books are on the shelf in alphabetical order by author.",
     "pronunciation": "al-fuh-BET-ih-kul",
     "speakAs": null,
     "altPronunciations": []
@@ -2106,6 +2333,7 @@
     "partOfSpeech": "noun",
     "definition": "An unfair opinion about a person or group formed without knowing the facts.",
     "sentence": "We should judge people by their actions, not by prejudice.",
+    "sentence2": "Prejudice means judging someone before you know them.",
     "pronunciation": "PREJ-uh-dis",
     "speakAs": null,
     "altPronunciations": []
@@ -2115,6 +2343,7 @@
     "partOfSpeech": "noun",
     "definition": "A small case that holds something, such as ink for a printer, and fits into a machine.",
     "sentence": "The printer needs a new ink cartridge.",
+    "sentence2": "My old video game came on a cartridge.",
     "pronunciation": "KAR-trij",
     "speakAs": null,
     "altPronunciations": []
@@ -2124,6 +2353,7 @@
     "partOfSpeech": "noun",
     "definition": "A substance added to soil to help plants grow.",
     "sentence": "We added fertilizer to the garden so the tomatoes would grow bigger.",
+    "sentence2": "The farmer spread fertilizer on the cornfield.",
     "pronunciation": "FUR-tuh-ly-zer",
     "speakAs": null,
     "altPronunciations": []
@@ -2133,6 +2363,7 @@
     "partOfSpeech": "noun",
     "definition": "A woman in stories who has magic powers; a witch or enchantress.",
     "sentence": "The sorceress cast a spell that turned the frog into a prince.",
+    "sentence2": "The evil sorceress lived in a dark tower.",
     "pronunciation": "SOR-ser-is",
     "speakAs": null,
     "altPronunciations": []
@@ -2142,6 +2373,7 @@
     "partOfSpeech": "noun",
     "definition": "The state of being one of a kind; also, a point in space, like the center of a black hole, where gravity is endless.",
     "sentence": "Scientists believe a singularity lies at the center of every black hole.",
+    "sentence2": "The math problem had a singularity where the answer could not be found.",
     "pronunciation": "sing-gyuh-LAIR-ih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -2151,6 +2383,7 @@
     "partOfSpeech": "noun",
     "definition": "A large group of soldiers, usually several hundred, that is part of an army.",
     "sentence": "The battalion marched across the field in neat rows.",
+    "sentence2": "A battalion is a large group of soldiers.",
     "pronunciation": "buh-TAL-yun",
     "speakAs": null,
     "altPronunciations": []
@@ -2160,6 +2393,7 @@
     "partOfSpeech": "noun",
     "definition": "The distance around the outside edge of a shape or area.",
     "sentence": "We measured the perimeter of the garden to know how much fence to buy.",
+    "sentence2": "The perimeter of a square with sides of two inches is eight inches.",
     "pronunciation": "puh-RIM-ih-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -2169,6 +2403,7 @@
     "partOfSpeech": "adjective",
     "definition": "Extremely careful and precise about small details.",
     "sentence": "She was meticulous about lining up every crayon in the box.",
+    "sentence2": "The meticulous painter did not drip a single drop of paint.",
     "pronunciation": "muh-TIK-yuh-lus",
     "speakAs": null,
     "altPronunciations": []
@@ -2178,6 +2413,7 @@
     "partOfSpeech": "noun",
     "definition": "A unit for measuring how often something vibrates or repeats each second, equal to one million cycles per second.",
     "sentence": "The radio station broadcasts at 101 megahertz.",
+    "sentence2": "A megahertz is a measurement used for radio waves and computer speed.",
     "pronunciation": "MEG-uh-hurts",
     "speakAs": null,
     "altPronunciations": []
@@ -2187,6 +2423,7 @@
     "partOfSpeech": "noun",
     "definition": "A violent uprising by people against their government or rulers.",
     "sentence": "The soldiers were sent to stop the insurrection in the capital city.",
+    "sentence2": "The leaders of the insurrection wanted to overthrow the king.",
     "pronunciation": "in-suh-REK-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2196,6 +2433,7 @@
     "partOfSpeech": "noun",
     "definition": "A kind of government led by a dictator that takes away people's freedoms, does not allow anyone to disagree, and puts the nation above individual rights.",
     "sentence": "In history class we learned how fascism took over several countries in Europe before World War II.",
+    "sentence2": "Under fascism, people were not free to speak out against their leaders.",
     "pronunciation": "FASH-iz-um",
     "speakAs": "fash iz um",
     "altPronunciations": []
@@ -2205,6 +2443,7 @@
     "partOfSpeech": "noun",
     "definition": "A natural or man-made lake where water is collected and stored for a town or city.",
     "sentence": "Our drinking water comes from a reservoir in the hills.",
+    "sentence2": "The dam holds back water to form a reservoir.",
     "pronunciation": "REZ-er-vwar",
     "speakAs": null,
     "altPronunciations": [
@@ -2216,6 +2455,7 @@
     "partOfSpeech": "noun",
     "definition": "The rotting flesh of dead animals.",
     "sentence": "Vultures circled overhead, looking for carrion.",
+    "sentence2": "Hyenas will eat carrion left behind by lions.",
     "pronunciation": "KAIR-ee-un",
     "speakAs": null,
     "altPronunciations": []
@@ -2225,6 +2465,7 @@
     "partOfSpeech": "adjective",
     "definition": "Shaped like an oval or a stretched-out circle.",
     "sentence": "The planets travel around the sun in elliptical paths.",
+    "sentence2": "An egg has an elliptical shape.",
     "pronunciation": "ih-LIP-tih-kul",
     "speakAs": null,
     "altPronunciations": []
@@ -2234,6 +2475,7 @@
     "partOfSpeech": "noun",
     "definition": "A place where dead people are buried.",
     "sentence": "We placed flowers on Grandpa's grave at the cemetery.",
+    "sentence2": "Old stone markers stood in rows in the cemetery.",
     "pronunciation": "SEM-ih-tair-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -2243,6 +2485,7 @@
     "partOfSpeech": "noun",
     "definition": "People or animals that fall behind the rest of a group.",
     "sentence": "The teacher waited at the gate for the stragglers to catch up.",
+    "sentence2": "The ducklings that fell behind were stragglers.",
     "pronunciation": "STRAG-lerz",
     "speakAs": null,
     "altPronunciations": []
@@ -2252,6 +2495,7 @@
     "partOfSpeech": "adjective",
     "definition": "Done in order to find out more about something new or unknown.",
     "sentence": "The scientists made an exploratory trip into the deep cave.",
+    "sentence2": "The doctor did an exploratory test to look for the problem.",
     "pronunciation": "ik-SPLOR-uh-tor-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -2261,6 +2505,7 @@
     "partOfSpeech": "noun",
     "definition": "The quality of being honest and doing what is right, even when no one is watching.",
     "sentence": "She showed integrity when she returned the wallet she found.",
+    "sentence2": "A person with integrity tells the truth even when no one is watching.",
     "pronunciation": "in-TEG-rih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -2270,6 +2515,7 @@
     "partOfSpeech": "noun",
     "definition": "Unity and support among people who share the same goals or feelings.",
     "sentence": "The students wore blue shirts in solidarity with their sick classmate.",
+    "sentence2": "The workers stood together in solidarity.",
     "pronunciation": "sol-ih-DAIR-ih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -2279,6 +2525,7 @@
     "partOfSpeech": "noun",
     "definition": "The unfair practice of keeping groups of people apart, especially by race.",
     "sentence": "Dr. Martin Luther King Jr. worked to end segregation in schools and on buses.",
+    "sentence2": "Segregation kept people apart because of the color of their skin.",
     "pronunciation": "seg-rih-GAY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2288,6 +2535,7 @@
     "partOfSpeech": "noun",
     "definition": "A person who learns a trade or skill by working with an expert.",
     "sentence": "The young apprentice helped the blacksmith shape the horseshoes.",
+    "sentence2": "The wizard's apprentice was still learning magic spells.",
     "pronunciation": "uh-PREN-tis",
     "speakAs": null,
     "altPronunciations": []
@@ -2297,6 +2545,7 @@
     "partOfSpeech": "adjective",
     "definition": "Exciting, attractive, and fancy in a way that gets attention.",
     "sentence": "The movie star wore a glamorous gown to the awards show.",
+    "sentence2": "The glamorous party had sparkling lights and fancy dresses.",
     "pronunciation": "GLAM-er-us",
     "speakAs": null,
     "altPronunciations": []
@@ -2306,6 +2555,7 @@
     "partOfSpeech": "adjective",
     "definition": "Made up; not real or true.",
     "sentence": "The author used a fictitious name instead of her real one.",
+    "sentence2": "The story is about a fictitious town that does not really exist.",
     "pronunciation": "fik-TISH-us",
     "speakAs": null,
     "altPronunciations": []
@@ -2315,6 +2565,7 @@
     "partOfSpeech": "noun",
     "definition": "Something valuable promised to a lender to make sure a loan will be paid back.",
     "sentence": "The farmer used his land as collateral for the bank loan.",
+    "sentence2": "She used her car as collateral to borrow money.",
     "pronunciation": "kuh-LAT-er-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -2324,6 +2575,7 @@
     "partOfSpeech": "noun",
     "definition": "An earlier action or decision that is used as an example or rule for later ones.",
     "sentence": "The judge's ruling set a precedent for future cases.",
+    "sentence2": "Letting one student skip homework would set a bad precedent.",
     "pronunciation": "PRESS-ih-dent",
     "speakAs": null,
     "altPronunciations": [],
@@ -2334,6 +2586,7 @@
     "partOfSpeech": "noun",
     "definition": "An ocean fish related to the cod that is often eaten as food.",
     "sentence": "We ordered fried haddock and chips at the seaside restaurant.",
+    "sentence2": "A haddock is a fish that lives in the cold North Atlantic.",
     "pronunciation": "HAD-uk",
     "speakAs": null,
     "altPronunciations": []
@@ -2343,6 +2596,7 @@
     "partOfSpeech": "noun",
     "definition": "A launch site for rockets and spacecraft, especially in Russia or Kazakhstan.",
     "sentence": "The rocket blasted off from the cosmodrome in Kazakhstan.",
+    "sentence2": "Astronauts trained at the cosmodrome before their mission.",
     "pronunciation": "KOZ-muh-drohm",
     "speakAs": null,
     "altPronunciations": []
@@ -2352,6 +2606,7 @@
     "partOfSpeech": "noun",
     "definition": "The layer of loose rock, dust, and soil that covers solid rock on a planet or moon.",
     "sentence": "The astronauts' boots left prints in the gray regolith on the moon.",
+    "sentence2": "The rover scooped up regolith to study the moon's soil.",
     "pronunciation": "REG-uh-lith",
     "speakAs": "regga lith",
     "altPronunciations": [],
@@ -2362,6 +2617,7 @@
     "partOfSpeech": "noun",
     "definition": "Large birds with long tails; the males have bright, colorful feathers.",
     "sentence": "Two pheasants burst out of the tall grass and flew away.",
+    "sentence2": "Pheasants have long tails and colorful feathers.",
     "pronunciation": "FEZ-unts",
     "speakAs": null,
     "altPronunciations": []
@@ -2371,6 +2627,7 @@
     "partOfSpeech": "noun",
     "definition": "A mysterious power to move people deeply through music, dance, or art, especially in Spanish flamenco.",
     "sentence": "The flamenco dancer performed with such duende that the crowd fell silent.",
+    "sentence2": "The singer's voice was full of duende and deep feeling.",
     "pronunciation": "DWEN-day",
     "speakAs": "dwen day",
     "altPronunciations": [],
@@ -2381,6 +2638,7 @@
     "partOfSpeech": "adjective",
     "definition": "Tracing family history and descent through the mother's side of the family.",
     "sentence": "In a matrilineal society, children belong to their mother's clan.",
+    "sentence2": "In a matrilineal family, the family name passes down from the mother.",
     "pronunciation": "mat-ruh-LIN-ee-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -2390,6 +2648,7 @@
     "partOfSpeech": "noun",
     "definition": "An eye disease in which pressure inside the eye builds up and can cause loss of sight.",
     "sentence": "The eye doctor checked Grandma for glaucoma.",
+    "sentence2": "Glaucoma can damage the eyes if it is not treated.",
     "pronunciation": "glaw-KOH-muh",
     "speakAs": null,
     "altPronunciations": [
@@ -2401,6 +2660,7 @@
     "partOfSpeech": "adjective",
     "definition": "Played or spoken in short, sharp, separate bursts.",
     "sentence": "The pianist played the notes in a quick, staccato style.",
+    "sentence2": "The drummer tapped out a staccato beat.",
     "pronunciation": "stuh-KAH-toh",
     "speakAs": null,
     "altPronunciations": []
@@ -2410,6 +2670,7 @@
     "partOfSpeech": "noun",
     "definition": "A small dog breed with a long body and very short legs.",
     "sentence": "Our dachshund looks like a hot dog on legs.",
+    "sentence2": "A dachshund has short legs and a long body.",
     "pronunciation": "DAHKS-hoont",
     "speakAs": "dahks hoont",
     "altPronunciations": [
@@ -2421,6 +2682,7 @@
     "partOfSpeech": "noun",
     "definition": "A person or animal born with very little color in the skin, hair, and eyes.",
     "sentence": "The zoo has a rare albino alligator with white skin and pink eyes.",
+    "sentence2": "An albino animal has no color in its skin or fur.",
     "pronunciation": "al-BY-noh",
     "speakAs": null,
     "altPronunciations": []
@@ -2430,6 +2692,7 @@
     "partOfSpeech": "noun",
     "definition": "A deep blue-purple color, or the plant dye that makes it.",
     "sentence": "The night sky turned a deep indigo after sunset.",
+    "sentence2": "Indigo is the color between blue and violet in the rainbow.",
     "pronunciation": "IN-dih-goh",
     "speakAs": null,
     "altPronunciations": []
@@ -2439,8 +2702,9 @@
     "partOfSpeech": "noun",
     "definition": "A state in the northwestern United States on the Pacific Ocean, with the capital Salem.",
     "sentence": "My cousins live in Oregon near the Pacific coast.",
+    "sentence2": "Oregon is a state with tall forests and rainy weather.",
     "pronunciation": "OR-ih-gun",
-    "speakAs": "or ih gun",
+    "speakAs": null,
     "altPronunciations": [],
     "note": "Locals say OR-ih-gun, not or-ee-GONE."
   },
@@ -2449,6 +2713,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having patches of different colors, especially a cat with white, black, and orange fur.",
     "sentence": "Our calico cat has orange, black, and white patches.",
+    "sentence2": "The calico dress had a pattern of tiny flowers.",
     "pronunciation": "KAL-ih-koh",
     "speakAs": null,
     "altPronunciations": []
@@ -2458,6 +2723,7 @@
     "partOfSpeech": "noun",
     "definition": "Thin, round, flat breads made from corn or wheat flour, used in Mexican cooking.",
     "sentence": "We wrapped beans and cheese in warm tortillas.",
+    "sentence2": "Tortillas can be made from corn or flour.",
     "pronunciation": "tor-TEE-yuhz",
     "speakAs": "tor tee yuz",
     "altPronunciations": []
@@ -2467,6 +2733,7 @@
     "partOfSpeech": "adjective",
     "definition": "Made by people using chemicals instead of coming from nature.",
     "sentence": "Nylon is a synthetic material used to make jackets.",
+    "sentence2": "The synthetic rug is made from plastic, not wool.",
     "pronunciation": "sin-THET-ik",
     "speakAs": null,
     "altPronunciations": []
@@ -2476,6 +2743,7 @@
     "partOfSpeech": "noun",
     "definition": "Small animals that look like lizards but have smooth, moist skin and live near water.",
     "sentence": "We found two salamanders under a wet log by the creek.",
+    "sentence2": "Salamanders have smooth, wet skin and long tails.",
     "pronunciation": "SAL-uh-man-derz",
     "speakAs": null,
     "altPronunciations": []
@@ -2485,6 +2753,7 @@
     "partOfSpeech": "noun",
     "definition": "A car with a roof that can be folded back or taken off.",
     "sentence": "We rode in the convertible with the top down.",
+    "sentence2": "A convertible is a car with a roof that folds back.",
     "pronunciation": "kun-VER-tuh-bul",
     "speakAs": null,
     "altPronunciations": []
@@ -2494,6 +2763,7 @@
     "partOfSpeech": "noun",
     "definition": "A ceremony or process by which someone is welcomed into a group or club.",
     "sentence": "New scouts recite a pledge during their initiation.",
+    "sentence2": "The club held an initiation for its new members.",
     "pronunciation": "ih-nish-ee-AY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2503,6 +2773,7 @@
     "partOfSpeech": "verb",
     "definition": "To suddenly appear or become real.",
     "sentence": "A rainbow seemed to materialize out of nowhere after the rain.",
+    "sentence2": "The ghost seemed to materialize out of the fog.",
     "pronunciation": "muh-TEER-ee-uh-lyz",
     "speakAs": null,
     "altPronunciations": []
@@ -2512,6 +2783,7 @@
     "partOfSpeech": "noun",
     "definition": "A dangerously low body temperature caused by being in the cold too long.",
     "sentence": "The rescuers wrapped the swimmer in blankets to prevent hypothermia.",
+    "sentence2": "Staying in cold water too long can cause hypothermia.",
     "pronunciation": "hy-poh-THUR-mee-uh",
     "speakAs": null,
     "altPronunciations": []
@@ -2521,6 +2793,7 @@
     "partOfSpeech": "noun",
     "definition": "A disease that causes pain, swelling, and stiffness in the joints.",
     "sentence": "Grandpa's arthritis makes his knees ache on cold days.",
+    "sentence2": "Arthritis can make a person's fingers stiff and sore.",
     "pronunciation": "ar-THRY-tis",
     "speakAs": null,
     "altPronunciations": []
@@ -2530,6 +2803,7 @@
     "partOfSpeech": "noun",
     "definition": "Athletes who compete in an event made up of five different sports.",
     "sentence": "The pentathletes fenced, swam, rode horses, ran, and shot targets.",
+    "sentence2": "The pentathletes trained for five different sports.",
     "pronunciation": "pen-TATH-leets",
     "speakAs": null,
     "altPronunciations": []
@@ -2539,6 +2813,7 @@
     "partOfSpeech": "noun",
     "definition": "A person who held a job or position before someone else.",
     "sentence": "The new principal thanked her predecessor for his years of service.",
+    "sentence2": "The flip phone was the predecessor of the smartphone.",
     "pronunciation": "PRED-ih-ses-er",
     "speakAs": null,
     "altPronunciations": [
@@ -2550,6 +2825,7 @@
     "partOfSpeech": "adjective",
     "definition": "Awake and aware of what is happening around you.",
     "sentence": "After fainting, she was conscious again within a minute.",
+    "sentence2": "I was not conscious of how late it was.",
     "pronunciation": "KON-shus",
     "speakAs": null,
     "altPronunciations": [],
@@ -2560,6 +2836,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a sad way that makes others feel sorry.",
     "sentence": "The lost kitten mewed piteously outside the door.",
+    "sentence2": "The puppy whined piteously when we left it alone.",
     "pronunciation": "PIT-ee-us-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -2569,6 +2846,7 @@
     "partOfSpeech": "noun",
     "definition": "A very hard, silvery-white metal that resists rust and is often found in meteorites.",
     "sentence": "Scientists found a layer of iridium in rocks from when the dinosaurs died out.",
+    "sentence2": "Iridium is a very hard, shiny metal.",
     "pronunciation": "ih-RID-ee-um",
     "speakAs": null,
     "altPronunciations": []
@@ -2578,6 +2856,7 @@
     "partOfSpeech": "noun",
     "definition": "A planned meeting at a certain time and place.",
     "sentence": "The two friends set a rendezvous at the park fountain at noon.",
+    "sentence2": "The spies planned a secret rendezvous at midnight.",
     "pronunciation": "RON-day-voo",
     "speakAs": "ron day voo",
     "altPronunciations": [],
@@ -2588,6 +2867,7 @@
     "partOfSpeech": "adjective",
     "definition": "So silly or unreasonable that it makes people laugh.",
     "sentence": "The clown wore a ridiculous hat with a rubber chicken on top.",
+    "sentence2": "It is ridiculous to wear a swimsuit in a snowstorm.",
     "pronunciation": "rih-DIK-yuh-lus",
     "speakAs": null,
     "altPronunciations": []
@@ -2597,6 +2877,7 @@
     "partOfSpeech": "noun",
     "definition": "A thick German sausage made of pork or veal.",
     "sentence": "Dad grilled a bratwurst for each of us at the picnic.",
+    "sentence2": "A bratwurst is a German sausage often served on a bun.",
     "pronunciation": "BRAHT-wurst",
     "speakAs": "braht wurst",
     "altPronunciations": [
@@ -2608,6 +2889,7 @@
     "partOfSpeech": "noun",
     "definition": "A reply that tries to prove that someone else's argument is wrong.",
     "sentence": "In the debate, each team got two minutes for a rebuttal.",
+    "sentence2": "The lawyer gave a strong rebuttal to the other side's argument.",
     "pronunciation": "rih-BUT-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -2617,6 +2899,7 @@
     "partOfSpeech": "noun",
     "definition": "The first man-made satellite, launched into space by the Soviet Union in 1957.",
     "sentence": "The launch of Sputnik started the space race.",
+    "sentence2": "Sputnik was the first satellite to orbit the earth.",
     "pronunciation": "SPUT-nik",
     "speakAs": null,
     "altPronunciations": [
@@ -2628,6 +2911,7 @@
     "partOfSpeech": "noun",
     "definition": "A person who is not a member of the military or police.",
     "sentence": "The soldier changed into civilian clothes after his shift.",
+    "sentence2": "A civilian is a person who is not in the army.",
     "pronunciation": "sih-VIL-yun",
     "speakAs": null,
     "altPronunciations": []
@@ -2637,6 +2921,7 @@
     "partOfSpeech": "noun",
     "definition": "The family name of the famous Roman general Julius, later used as a title for Roman emperors.",
     "sentence": "Julius Caesar was one of the most powerful leaders of ancient Rome.",
+    "sentence2": "Caesar crossed the river with his army.",
     "pronunciation": "SEE-zer",
     "speakAs": null,
     "altPronunciations": [],
@@ -2648,6 +2933,7 @@
     "partOfSpeech": "noun",
     "definition": "The parts of a vehicle that soften bumps, or a time when someone is not allowed to take part in something.",
     "sentence": "The truck's suspension made the bumpy road feel smooth.",
+    "sentence2": "The bridge is a suspension bridge held up by huge cables.",
     "pronunciation": "suh-SPEN-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2657,6 +2943,7 @@
     "partOfSpeech": "noun",
     "definition": "A rude, sarcastic, mocking way of speaking or behaving.",
     "sentence": "His snarkiness got him in trouble with the teacher.",
+    "sentence2": "Her snarkiness made the joke sound mean.",
     "pronunciation": "SNAR-kee-nis",
     "speakAs": null,
     "altPronunciations": []
@@ -2666,6 +2953,7 @@
     "partOfSpeech": "noun",
     "definition": "Makeup that is brushed onto eyelashes to make them look darker and longer.",
     "sentence": "My aunt put on mascara before the wedding.",
+    "sentence2": "Mascara makes eyelashes look darker and longer.",
     "pronunciation": "mas-KAIR-uh",
     "speakAs": null,
     "altPronunciations": []
@@ -2675,6 +2963,7 @@
     "partOfSpeech": "noun",
     "definition": "A light, silvery metal that burns with a very bright white flame and is needed by the body.",
     "sentence": "Spinach and almonds contain magnesium, which helps keep bones healthy.",
+    "sentence2": "Magnesium burns with a very bright white light.",
     "pronunciation": "mag-NEE-zee-um",
     "speakAs": null,
     "altPronunciations": []
@@ -2684,6 +2973,7 @@
     "partOfSpeech": "noun",
     "definition": "A health worker who checks people's eyes and prescribes glasses or contact lenses.",
     "sentence": "The optometrist said I need glasses to see the board.",
+    "sentence2": "An optometrist checks your eyes and fits you for glasses.",
     "pronunciation": "op-TOM-ih-trist",
     "speakAs": null,
     "altPronunciations": []
@@ -2693,6 +2983,7 @@
     "partOfSpeech": "noun",
     "definition": "A German dog breed with a wiry coat, bushy eyebrows, and a beard.",
     "sentence": "The schnauzer's bushy beard made him look like a wise old man.",
+    "sentence2": "A schnauzer is a dog with a beard and bushy eyebrows.",
     "pronunciation": "SHNOW-zer",
     "speakAs": "shnow zer",
     "altPronunciations": []
@@ -2702,6 +2993,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very fussy about small details.",
     "sentence": "My persnickety cat will only eat from her favorite bowl.",
+    "sentence2": "My persnickety uncle cuts his sandwich into perfect squares.",
     "pronunciation": "per-SNIK-ih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -2711,8 +3003,9 @@
     "partOfSpeech": "noun",
     "definition": "A country on the west coast of Africa whose capital is Dakar.",
     "sentence": "We studied the music and food of Senegal in social studies.",
+    "sentence2": "Senegal is a country on the west coast of Africa.",
     "pronunciation": "sen-ih-GAWL",
-    "speakAs": "sen ih gawl",
+    "speakAs": null,
     "altPronunciations": []
   },
   {
@@ -2720,6 +3013,7 @@
     "partOfSpeech": "noun",
     "definition": "A brand of camera that prints a photo right after you take the picture.",
     "sentence": "Grandma showed us an old Polaroid of herself as a girl.",
+    "sentence2": "The Polaroid picture slowly appeared as we waited.",
     "pronunciation": "POH-luh-royd",
     "speakAs": null,
     "altPronunciations": [],
@@ -2730,6 +3024,7 @@
     "partOfSpeech": "noun",
     "definition": "A plant with yellow flowers that is made into creams for bruises and sore muscles.",
     "sentence": "Mom rubbed arnica cream on my bruised knee.",
+    "sentence2": "Arnica is a plant with yellow flowers used in creams for bruises.",
     "pronunciation": "AR-nih-kuh",
     "speakAs": null,
     "altPronunciations": []
@@ -2739,6 +3034,7 @@
     "partOfSpeech": "noun",
     "definition": "A chemical made by the body that gives you a burst of energy when you are scared or excited.",
     "sentence": "The roller coaster gave me a rush of adrenaline.",
+    "sentence2": "When you are scared, adrenaline makes your heart beat fast.",
     "pronunciation": "uh-DREN-uh-lin",
     "speakAs": null,
     "altPronunciations": []
@@ -2748,6 +3044,7 @@
     "partOfSpeech": "noun",
     "definition": "A wild plant with small white-and-yellow daisy-like flowers, used in Cuban folk remedies.",
     "sentence": "Abuela made a tea from romerillo picked near the garden.",
+    "sentence2": "Romerillo is a wild plant with small white flowers.",
     "pronunciation": "roh-meh-REE-yoh",
     "speakAs": "roh meh ree yoh",
     "altPronunciations": [],
@@ -2759,6 +3056,7 @@
     "partOfSpeech": "noun",
     "definition": "In Greek myths, the keeper and ruler of the winds.",
     "sentence": "In the old myth, Aeolus gave Odysseus a bag full of winds.",
+    "sentence2": "The Greeks called Aeolus the keeper of the winds.",
     "pronunciation": "EE-uh-lus",
     "speakAs": "ee uh lus",
     "altPronunciations": []
@@ -2768,6 +3066,7 @@
     "partOfSpeech": "noun",
     "definition": "A small salamander that lives both in water and on land.",
     "sentence": "The newt slipped off the rock and swam away.",
+    "sentence2": "A newt is a small animal that lives both in water and on land.",
     "pronunciation": "NOOT",
     "speakAs": null,
     "altPronunciations": [
@@ -2779,6 +3078,7 @@
     "partOfSpeech": "noun",
     "definition": "The quality of being kind and willing to give or share.",
     "sentence": "We thanked our neighbors for their generosity after the storm.",
+    "sentence2": "Thanks to her generosity, every kid got a cupcake.",
     "pronunciation": "jen-uh-ROS-ih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -2788,6 +3088,7 @@
     "partOfSpeech": "verb",
     "definition": "Rolling around in mud or water, or spending too much time feeling sad about something.",
     "sentence": "The pigs were wallowing happily in the mud.",
+    "sentence2": "The hippo was wallowing in the cool river.",
     "pronunciation": "WOL-oh-ing",
     "speakAs": null,
     "altPronunciations": []
@@ -2797,6 +3098,7 @@
     "partOfSpeech": "verb",
     "definition": "Crying weakly, like a baby or a kitten.",
     "sentence": "We heard tiny kittens mewling in the barn.",
+    "sentence2": "The mewling baby kittens were looking for their mother.",
     "pronunciation": "MYOO-ling",
     "speakAs": null,
     "altPronunciations": []
@@ -2806,6 +3108,7 @@
     "partOfSpeech": "adjective",
     "definition": "Showing a wide, open view of a large area.",
     "sentence": "From the mountaintop we had a panoramic view of the valley.",
+    "sentence2": "The panoramic photo showed the whole beach from end to end.",
     "pronunciation": "pan-uh-RAM-ik",
     "speakAs": null,
     "altPronunciations": []
@@ -2815,6 +3118,7 @@
     "partOfSpeech": "noun",
     "definition": "Heavy gloves with long cuffs that protect the hands and wrists.",
     "sentence": "The knight wore metal gauntlets to protect his hands.",
+    "sentence2": "The racers wore leather gauntlets to protect their arms.",
     "pronunciation": "GAWNT-lits",
     "speakAs": null,
     "altPronunciations": []
@@ -2824,6 +3128,7 @@
     "partOfSpeech": "adjective",
     "definition": "Looking or smelling so good that it makes you hungry.",
     "sentence": "The bakery smelled very appetizing in the morning.",
+    "sentence2": "The pizza looked so appetizing that my mouth watered.",
     "pronunciation": "AP-ih-ty-zing",
     "speakAs": null,
     "altPronunciations": []
@@ -2833,6 +3138,7 @@
     "partOfSpeech": "adjective",
     "definition": "Likely to become something in the future; expected.",
     "sentence": "The prospective students toured the college campus.",
+    "sentence2": "The prospective buyers looked at every room of the house.",
     "pronunciation": "pruh-SPEK-tiv",
     "speakAs": null,
     "altPronunciations": [],
@@ -2843,6 +3149,7 @@
     "partOfSpeech": "noun",
     "definition": "An idea or opinion you have about something before you really know about it.",
     "sentence": "Her preconception that the book would be boring was wrong.",
+    "sentence2": "My preconception that broccoli was gross changed when I tasted it.",
     "pronunciation": "pree-kun-SEP-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2852,6 +3159,7 @@
     "partOfSpeech": "noun",
     "definition": "One half of the earth, such as the northern or southern half.",
     "sentence": "Australia is in the Southern Hemisphere.",
+    "sentence2": "We live in the Northern Hemisphere, the half of the earth above the equator.",
     "pronunciation": "HEM-ih-sfeer",
     "speakAs": null,
     "altPronunciations": []
@@ -2861,6 +3169,7 @@
     "partOfSpeech": "noun",
     "definition": "A feeling of not wanting to do something.",
     "sentence": "He showed reluctance when it was time to leave the party.",
+    "sentence2": "With reluctance, I handed my brother the last cookie.",
     "pronunciation": "rih-LUK-tunss",
     "speakAs": null,
     "altPronunciations": []
@@ -2870,6 +3179,7 @@
     "partOfSpeech": "noun",
     "definition": "A set of spinning blades that moves a boat or airplane forward.",
     "sentence": "The airplane's propeller began to spin before takeoff.",
+    "sentence2": "The boat's propeller churned up the water.",
     "pronunciation": "pruh-PEL-er",
     "speakAs": null,
     "altPronunciations": []
@@ -2879,6 +3189,7 @@
     "partOfSpeech": "noun",
     "definition": "A small sofa with a back and arms, usually big enough for two people.",
     "sentence": "Grandma sat on the settee by the window to knit.",
+    "sentence2": "The settee in the hallway has room for two people.",
     "pronunciation": "seh-TEE",
     "speakAs": "seh tee",
     "altPronunciations": []
@@ -2888,6 +3199,7 @@
     "partOfSpeech": "noun",
     "definition": "Great skill and gracefulness in doing something.",
     "sentence": "The figure skater moved across the ice with finesse.",
+    "sentence2": "The chef decorated the cake with great finesse.",
     "pronunciation": "fih-NESS",
     "speakAs": null,
     "altPronunciations": []
@@ -2897,6 +3209,7 @@
     "partOfSpeech": "noun",
     "definition": "All the subjects and lessons that are taught in a school or course.",
     "sentence": "Our school's curriculum includes art, music, and science.",
+    "sentence2": "Reading and math are part of every school curriculum.",
     "pronunciation": "kuh-RIK-yuh-lum",
     "speakAs": null,
     "altPronunciations": []
@@ -2906,8 +3219,9 @@
     "partOfSpeech": "adjective",
     "definition": "Mysterious and hard to understand.",
     "sentence": "The Mona Lisa is famous for her enigmatic smile.",
+    "sentence2": "The enigmatic stranger never told anyone his name.",
     "pronunciation": "en-ig-MAT-ik",
-    "speakAs": null,
+    "speakAs": "Ennigmatic",
     "altPronunciations": []
   },
   {
@@ -2915,6 +3229,7 @@
     "partOfSpeech": "noun",
     "definition": "An educated guess that a scientist can test with an experiment.",
     "sentence": "My hypothesis is that plants grow faster with more sunlight.",
+    "sentence2": "A scientist tests a hypothesis with an experiment.",
     "pronunciation": "hy-POTH-ih-sis",
     "speakAs": null,
     "altPronunciations": []
@@ -2924,6 +3239,7 @@
     "partOfSpeech": "verb",
     "definition": "Made a low, steady humming or strumming sound.",
     "sentence": "The engine thrummed as the boat crossed the lake.",
+    "sentence2": "The guitar strings thrummed as he strummed them.",
     "pronunciation": "THRUMD",
     "speakAs": null,
     "altPronunciations": []
@@ -2933,6 +3249,7 @@
     "partOfSpeech": "adjective",
     "definition": "Polished until it is smooth and shiny.",
     "sentence": "The burnished brass doorknob gleamed in the sunlight.",
+    "sentence2": "The burnished wood of the old table glowed.",
     "pronunciation": "BUR-nisht",
     "speakAs": null,
     "altPronunciations": []
@@ -2942,6 +3259,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with an empire or an emperor.",
     "sentence": "The imperial palace had gold roofs and huge gardens.",
+    "sentence2": "The imperial army marched for the emperor.",
     "pronunciation": "im-PEER-ee-ul",
     "speakAs": null,
     "altPronunciations": []
@@ -2951,6 +3269,7 @@
     "partOfSpeech": "noun",
     "definition": "A machine that makes electricity.",
     "sentence": "When the power went out, we used a generator to run the fridge.",
+    "sentence2": "The camp used a generator to make electricity.",
     "pronunciation": "JEN-uh-ray-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -2960,6 +3279,7 @@
     "partOfSpeech": "noun",
     "definition": "A large, sleek dog breed with a short black-and-tan coat, often used as a guard dog.",
     "sentence": "The Doberman stood guard at the gate.",
+    "sentence2": "A Doberman is a tall, strong dog with a short, shiny coat.",
     "pronunciation": "DOH-ber-mun",
     "speakAs": null,
     "altPronunciations": [],
@@ -2970,6 +3290,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not alive; not able to move on its own.",
     "sentence": "A rock is an inanimate object.",
+    "sentence2": "A chair is an inanimate object because it is not alive.",
     "pronunciation": "in-AN-ih-mit",
     "speakAs": null,
     "altPronunciations": []
@@ -2979,6 +3300,7 @@
     "partOfSpeech": "noun",
     "definition": "Guards or soldiers who keep watch.",
     "sentence": "The sentinels stood at the castle gate all night.",
+    "sentence2": "Tall trees stood like sentinels around the house.",
     "pronunciation": "SEN-tih-nulz",
     "speakAs": null,
     "altPronunciations": []
@@ -2988,6 +3310,7 @@
     "partOfSpeech": "noun",
     "definition": "An arrangement to pay for something, such as a magazine, that you receive regularly.",
     "sentence": "I got a subscription to a science magazine for my birthday.",
+    "sentence2": "Our newspaper subscription brings the paper to our door every morning.",
     "pronunciation": "sub-SKRIP-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -2997,6 +3320,7 @@
     "partOfSpeech": "noun",
     "definition": "A group of people or vehicles moving forward in an orderly line, often for a ceremony.",
     "sentence": "The wedding procession walked slowly down the aisle.",
+    "sentence2": "The parade procession moved slowly down Main Street.",
     "pronunciation": "pruh-SESH-un",
     "speakAs": null,
     "altPronunciations": []
@@ -3006,6 +3330,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very important and influential, leading to later developments.",
     "sentence": "Her seminal research changed how scientists think about the brain.",
+    "sentence2": "The seminal book inspired many other writers.",
     "pronunciation": "SEM-ih-nul",
     "speakAs": null,
     "altPronunciations": []
@@ -3015,6 +3340,7 @@
     "partOfSpeech": "noun",
     "definition": "The office of a government official who helps citizens and trade in a foreign city.",
     "sentence": "My uncle went to the consulate to get a new passport.",
+    "sentence2": "The consulate helps travelers from its home country.",
     "pronunciation": "KON-suh-lit",
     "speakAs": null,
     "altPronunciations": []
@@ -3024,6 +3350,7 @@
     "partOfSpeech": "adjective",
     "definition": "Fashionable and stylish.",
     "sentence": "She wore a modish hat that everyone admired.",
+    "sentence2": "The store sells modish clothes that are in style right now.",
     "pronunciation": "MOH-dish",
     "speakAs": "moe dish",
     "altPronunciations": []
@@ -3033,6 +3360,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not awake and not able to notice what is happening, as after fainting or a hard hit.",
     "sentence": "The player was knocked unconscious for a moment but quickly woke up.",
+    "sentence2": "The doctor gave him medicine so he was unconscious during the surgery.",
     "pronunciation": "un-KON-shus",
     "speakAs": null,
     "altPronunciations": []
@@ -3042,6 +3370,7 @@
     "partOfSpeech": "noun",
     "definition": "The leaves of plants and trees.",
     "sentence": "People drive to the mountains to see the fall foliage.",
+    "sentence2": "The thick foliage of the jungle hid the monkeys.",
     "pronunciation": "FOH-lee-ij",
     "speakAs": null,
     "altPronunciations": [
@@ -3053,6 +3382,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a puzzled or questioning way.",
     "sentence": "The dog tilted its head quizzically when I whistled.",
+    "sentence2": "My friend looked at me quizzically when I spoke in a funny accent.",
     "pronunciation": "KWIZ-ih-klee",
     "speakAs": null,
     "altPronunciations": []
@@ -3062,6 +3392,7 @@
     "partOfSpeech": "noun",
     "definition": "Small amounts by which something increases or changes.",
     "sentence": "We raised the volume in small increments.",
+    "sentence2": "The ruler is marked in increments of one inch.",
     "pronunciation": "IN-kruh-ments",
     "speakAs": null,
     "altPronunciations": []
@@ -3071,6 +3402,7 @@
     "partOfSpeech": "noun",
     "definition": "Words or actions that help someone feel less worried.",
     "sentence": "The coach's reassurance helped me feel calm before the game.",
+    "sentence2": "The pilot gave the passengers reassurance that the bumps were normal.",
     "pronunciation": "ree-uh-SHUR-unss",
     "speakAs": null,
     "altPronunciations": []
@@ -3080,6 +3412,7 @@
     "partOfSpeech": "noun",
     "definition": "Containers in which incense is burned, often during religious ceremonies.",
     "sentence": "The priests swung censers that filled the hall with sweet smoke.",
+    "sentence2": "The censers were hung on chains and swung back and forth.",
     "pronunciation": "SEN-serz",
     "speakAs": null,
     "altPronunciations": [],
@@ -3091,6 +3424,7 @@
     "partOfSpeech": "noun",
     "definition": "A raised wall of earth or stones built to hold back water or carry a road or railway.",
     "sentence": "The train tracks ran along a high embankment beside the river.",
+    "sentence2": "The car slid down the grassy embankment into the ditch.",
     "pronunciation": "em-BANK-ment",
     "speakAs": null,
     "altPronunciations": []
@@ -3100,6 +3434,7 @@
     "partOfSpeech": "noun",
     "definition": "A mixture of cement, sand, and water used to hold bricks or stones together.",
     "sentence": "The bricklayer spread mortar between each row of bricks.",
+    "sentence2": "The old stone wall was held together with mortar.",
     "pronunciation": "MOR-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -3109,6 +3444,7 @@
     "partOfSpeech": "adjective",
     "definition": "Continuing firmly, or refusing to give up, even when it is difficult.",
     "sentence": "The persistent woodpecker kept tapping on the tree all morning.",
+    "sentence2": "The persistent little boy kept asking until his mom said yes.",
     "pronunciation": "per-SIS-tent",
     "speakAs": null,
     "altPronunciations": []
@@ -3118,6 +3454,7 @@
     "partOfSpeech": "noun",
     "definition": "The power to rule, or the land that a ruler controls.",
     "sentence": "The king had dominion over all the land to the sea.",
+    "sentence2": "The dragon ruled its dominion from a mountain cave.",
     "pronunciation": "duh-MIN-yun",
     "speakAs": null,
     "altPronunciations": []
@@ -3127,6 +3464,7 @@
     "partOfSpeech": "noun",
     "definition": "Small, furry rodents with short tails that live in cold northern areas.",
     "sentence": "Lemmings dig tunnels under the snow to stay warm.",
+    "sentence2": "Lemmings are small, furry animals that live in the Arctic.",
     "pronunciation": "LEM-ingz",
     "speakAs": null,
     "altPronunciations": []
@@ -3136,6 +3474,7 @@
     "partOfSpeech": "noun",
     "definition": "How often something happens, or the number of times a wave repeats each second.",
     "sentence": "The frequency of thunderstorms increases in summer.",
+    "sentence2": "The frequency of my piano lessons is once a week.",
     "pronunciation": "FREE-kwen-see",
     "speakAs": null,
     "altPronunciations": []
@@ -3145,6 +3484,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a happy, carefree way, without worrying.",
     "sentence": "She blithely skipped down the sidewalk, humming a tune.",
+    "sentence2": "He blithely ignored the rain and kept playing.",
     "pronunciation": "BLYTH-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -3154,6 +3494,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very thin, weak, or easily broken.",
     "sentence": "The spider hung from a tenuous thread.",
+    "sentence2": "Our plans for the picnic were tenuous because of the weather.",
     "pronunciation": "TEN-yoo-us",
     "speakAs": null,
     "altPronunciations": []
@@ -3163,6 +3504,7 @@
     "partOfSpeech": "noun",
     "definition": "A curved, brass musical instrument played by blowing into a mouthpiece with a reed.",
     "sentence": "My brother plays the saxophone in the jazz band.",
+    "sentence2": "The saxophone is a curved brass instrument with keys.",
     "pronunciation": "SAK-suh-fohn",
     "speakAs": null,
     "altPronunciations": []
@@ -3172,6 +3514,7 @@
     "partOfSpeech": "verb",
     "definition": "To run at a smooth, easy pace that is faster than a trot but slower than a gallop.",
     "sentence": "The horse began to canter across the meadow.",
+    "sentence2": "A canter is faster than a trot but slower than a gallop.",
     "pronunciation": "KAN-ter",
     "speakAs": null,
     "altPronunciations": [],
@@ -3183,6 +3526,7 @@
     "partOfSpeech": "noun",
     "definition": "A contagious illness caused by a virus, with fever, chills, aches, and coughing.",
     "sentence": "Many students missed school during the influenza season.",
+    "sentence2": "Influenza is often called the flu.",
     "pronunciation": "in-floo-EN-zuh",
     "speakAs": null,
     "altPronunciations": []
@@ -3192,6 +3536,7 @@
     "partOfSpeech": "noun",
     "definition": "A substance that gives off a smell, such as the chemical added to natural gas so leaks can be noticed.",
     "sentence": "An odorant gives natural gas its rotten-egg smell.",
+    "sentence2": "The perfume company added an odorant that smells like roses.",
     "pronunciation": "OH-der-unt",
     "speakAs": null,
     "altPronunciations": []
@@ -3201,6 +3546,7 @@
     "partOfSpeech": "adjective",
     "definition": "Made by looping yarn together with a single hooked needle.",
     "sentence": "Grandma gave me a crocheted blanket with rainbow stripes.",
+    "sentence2": "She wore a crocheted hat with a pom-pom on top.",
     "pronunciation": "kroh-SHAYD",
     "speakAs": "kro shade",
     "altPronunciations": []
@@ -3210,6 +3556,7 @@
     "partOfSpeech": "adjective",
     "definition": "Showing that you are sorry for something you did.",
     "sentence": "He gave an apologetic smile after bumping into me.",
+    "sentence2": "The waiter was apologetic about the long wait.",
     "pronunciation": "uh-pol-uh-JET-ik",
     "speakAs": null,
     "altPronunciations": []
@@ -3219,6 +3566,7 @@
     "partOfSpeech": "noun",
     "definition": "The folded-back parts on the front of a coat or jacket below the collar.",
     "sentence": "He pinned a flower to one of the lapels of his suit.",
+    "sentence2": "The jacket has wide lapels that fold back over the chest.",
     "pronunciation": "luh-PELZ",
     "speakAs": null,
     "altPronunciations": []
@@ -3228,6 +3576,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not stopping or easing up; continuing strongly.",
     "sentence": "The unrelenting rain flooded the streets.",
+    "sentence2": "The unrelenting heat made everyone want to swim.",
     "pronunciation": "un-rih-LEN-ting",
     "speakAs": null,
     "altPronunciations": []
@@ -3237,6 +3586,7 @@
     "partOfSpeech": "noun",
     "definition": "People who set fires on purpose to damage property.",
     "sentence": "Police arrested the arsonists who set fire to the empty barn.",
+    "sentence2": "Arsonists set fires on purpose.",
     "pronunciation": "AR-suh-nists",
     "speakAs": null,
     "altPronunciations": []
@@ -3246,6 +3596,7 @@
     "partOfSpeech": "adverb",
     "definition": "Quickly and firmly, without hesitating.",
     "sentence": "The captain acted decisively and steered the ship away from the rocks.",
+    "sentence2": "She decisively chose the blue paint and started painting.",
     "pronunciation": "dih-SY-siv-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -3255,6 +3606,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with hearing.",
     "sentence": "The ear sends auditory signals to the brain.",
+    "sentence2": "An auditory learner learns best by listening.",
     "pronunciation": "AW-dih-tor-ee",
     "speakAs": null,
     "altPronunciations": []
@@ -3264,6 +3616,7 @@
     "partOfSpeech": "adjective",
     "definition": "Able to take care of your own needs without help from others.",
     "sentence": "The family grew their own food and became self-sufficient on their farm.",
+    "sentence2": "My older brother is self-sufficient and does his own laundry.",
     "pronunciation": "self-suh-FISH-ent",
     "speakAs": null,
     "altPronunciations": []
@@ -3273,6 +3626,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very easy to see or notice; standing out.",
     "sentence": "His bright orange jacket was conspicuous in the crowd.",
+    "sentence2": "The giraffe was conspicuous among the small animals at the petting zoo.",
     "pronunciation": "kun-SPIK-yoo-us",
     "speakAs": null,
     "altPronunciations": []
@@ -3282,6 +3636,7 @@
     "partOfSpeech": "adjective",
     "definition": "Meeting another line or surface at a right angle, like the corner of a square.",
     "sentence": "The street runs perpendicular to the river.",
+    "sentence2": "The two lines cross to make a plus sign, so they are perpendicular.",
     "pronunciation": "per-pen-DIK-yuh-ler",
     "speakAs": null,
     "altPronunciations": []
@@ -3291,6 +3646,7 @@
     "partOfSpeech": "adjective",
     "definition": "Falling or flowing in a heavy, fast, powerful stream.",
     "sentence": "Torrential rain flooded the basement.",
+    "sentence2": "The torrential downpour turned the yard into a pond.",
     "pronunciation": "tor-EN-shul",
     "speakAs": null,
     "altPronunciations": [
@@ -3302,6 +3658,7 @@
     "partOfSpeech": "verb",
     "definition": "Walked in a slow, relaxed way.",
     "sentence": "He sauntered into the room as if he had all the time in the world.",
+    "sentence2": "The cat sauntered past the dog as if it were not scared at all.",
     "pronunciation": "SAWN-terd",
     "speakAs": null,
     "altPronunciations": []
@@ -3311,6 +3668,7 @@
     "partOfSpeech": "noun",
     "definition": "An evergreen shrub or tree with prickly needles and small blue berry-like cones.",
     "sentence": "The juniper bushes in front of the school smell like pine.",
+    "sentence2": "Birds eat the blue berries from the juniper tree.",
     "pronunciation": "JOO-nih-per",
     "speakAs": null,
     "altPronunciations": []
@@ -3320,6 +3678,7 @@
     "partOfSpeech": "noun",
     "definition": "A large, grand building or palace in Italy.",
     "sentence": "We toured a palazzo in Venice with painted ceilings.",
+    "sentence2": "The rich family lived in a grand palazzo in Italy.",
     "pronunciation": "puh-LAHT-soh",
     "speakAs": "puh laht so",
     "altPronunciations": [],
@@ -3330,6 +3689,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not connected to the subject being discussed; not important to it.",
     "sentence": "The color of the pencil is irrelevant to the math problem.",
+    "sentence2": "Whether you like the color green is irrelevant to this science question.",
     "pronunciation": "ih-REL-uh-vunt",
     "speakAs": null,
     "altPronunciations": []
@@ -3339,6 +3699,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a careful, polite way that avoids upsetting people.",
     "sentence": "She diplomatically suggested that we take turns choosing games.",
+    "sentence2": "The teacher diplomatically settled the argument between the two friends.",
     "pronunciation": "dip-luh-MAT-ik-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -3348,6 +3709,7 @@
     "partOfSpeech": "verb",
     "definition": "To adjust a tool or machine so that it measures correctly.",
     "sentence": "The scientist had to calibrate the scale before weighing the samples.",
+    "sentence2": "We had to calibrate the thermometer so it would read the right temperature.",
     "pronunciation": "KAL-ih-brayt",
     "speakAs": null,
     "altPronunciations": []
@@ -3357,6 +3719,7 @@
     "partOfSpeech": "noun",
     "definition": "A long, low cabinet used for storage, often in a dining room or office.",
     "sentence": "The family photos sat on top of the credenza.",
+    "sentence2": "The credenza in the dining room holds Grandma's good dishes.",
     "pronunciation": "krih-DEN-zuh",
     "speakAs": null,
     "altPronunciations": []
@@ -3366,6 +3729,7 @@
     "partOfSpeech": "adjective",
     "definition": "Able to be understood.",
     "sentence": "The teacher's directions were clear and comprehensible.",
+    "sentence2": "The map was simple and comprehensible, so we did not get lost.",
     "pronunciation": "kom-prih-HEN-suh-bul",
     "speakAs": null,
     "altPronunciations": []
@@ -3375,6 +3739,7 @@
     "partOfSpeech": "adjective",
     "definition": "Sharp, clear, and forceful in expressing ideas.",
     "sentence": "The critic's trenchant review pointed out every weakness in the movie.",
+    "sentence2": "Her trenchant comments made everyone think hard about the problem.",
     "pronunciation": "TREN-chunt",
     "speakAs": null,
     "altPronunciations": []
@@ -3384,6 +3749,7 @@
     "partOfSpeech": "adjective",
     "definition": "Very sad and without hope.",
     "sentence": "The team was despondent after losing the championship.",
+    "sentence2": "The despondent puppy lay by the door waiting for its owner.",
     "pronunciation": "dih-SPON-dent",
     "speakAs": null,
     "altPronunciations": []
@@ -3393,6 +3759,7 @@
     "partOfSpeech": "noun",
     "definition": "A way some animals, like bats and dolphins, find things by making sounds and listening for them to bounce back.",
     "sentence": "Bats use echolocation to catch insects in the dark.",
+    "sentence2": "Dolphins use echolocation to find fish in murky water.",
     "pronunciation": "ek-oh-loh-KAY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -3402,6 +3769,7 @@
     "partOfSpeech": "noun",
     "definition": "A large, destructive fire.",
     "sentence": "The conflagration destroyed several blocks of the old city.",
+    "sentence2": "Firefighters battled the conflagration all night.",
     "pronunciation": "kon-fluh-GRAY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -3411,6 +3779,7 @@
     "partOfSpeech": "noun",
     "definition": "The movement of a living thing toward or away from heat.",
     "sentence": "Some worms move by thermotaxis toward warmer soil.",
+    "sentence2": "Thermotaxis is how some tiny creatures sense heat and move toward it or away from it.",
     "pronunciation": "thur-moh-TAK-sis",
     "speakAs": null,
     "altPronunciations": []
@@ -3420,6 +3789,7 @@
     "partOfSpeech": "verb",
     "definition": "To officially swear someone into office, or to start something with a ceremony.",
     "sentence": "The country will inaugurate its new president in January.",
+    "sentence2": "The mayor will inaugurate the new library with a ribbon cutting.",
     "pronunciation": "ih-NAW-gyuh-rayt",
     "speakAs": null,
     "altPronunciations": []
@@ -3429,6 +3799,7 @@
     "partOfSpeech": "noun",
     "definition": "Light given off by living things such as fireflies and some deep-sea fish.",
     "sentence": "The waves glowed blue at night because of bioluminescence.",
+    "sentence2": "Fireflies light up because of bioluminescence.",
     "pronunciation": "by-oh-loo-mih-NES-unss",
     "speakAs": null,
     "altPronunciations": []
@@ -3438,6 +3809,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, friendly songbird with a black cap and throat that sings its own name.",
     "sentence": "A chickadee landed on the bird feeder outside the kitchen.",
+    "sentence2": "The chickadee sang its name, \"chick-a-dee-dee-dee.\"",
     "pronunciation": "CHIK-uh-dee",
     "speakAs": null,
     "altPronunciations": []
@@ -3447,6 +3819,7 @@
     "partOfSpeech": "adjective",
     "definition": "Not the same on both sides; uneven in shape.",
     "sentence": "The artist made an asymmetric sculpture that leaned to one side.",
+    "sentence2": "The butterfly's wings were asymmetric because one was torn.",
     "pronunciation": "ay-sih-MET-rik",
     "speakAs": null,
     "altPronunciations": []
@@ -3456,6 +3829,7 @@
     "partOfSpeech": "noun",
     "definition": "A Chinese dog breed with loose, deeply wrinkled skin and a blue-black tongue.",
     "sentence": "Our sharpei puppy has so many wrinkles that it looks like it is wearing a coat that is too big.",
+    "sentence2": "A sharpei is a dog breed from China with deep wrinkles.",
     "pronunciation": "shar-PAY",
     "speakAs": "shar pay",
     "altPronunciations": [],
@@ -3466,6 +3840,7 @@
     "partOfSpeech": "noun",
     "definition": "The ability of an animal, such as a bird or mammal, to make its own body heat.",
     "sentence": "Thanks to endothermy, mammals can stay active in cold weather.",
+    "sentence2": "Endothermy means an animal makes its own body heat.",
     "pronunciation": "EN-doh-thur-mee",
     "speakAs": null,
     "altPronunciations": []
@@ -3475,8 +3850,9 @@
     "partOfSpeech": "noun",
     "definition": "A long, thin pastry filled with cream and topped with chocolate.",
     "sentence": "I chose a chocolate eclair from the bakery case.",
+    "sentence2": "An eclair is a long pastry filled with cream and topped with chocolate.",
     "pronunciation": "ay-KLAIR",
-    "speakAs": "ay klair",
+    "speakAs": "A-clair",
     "altPronunciations": [
       "ee klair"
     ],
@@ -3487,6 +3863,7 @@
     "partOfSpeech": "noun",
     "definition": "A tendency to get angry very easily; crankiness.",
     "sentence": "The old captain was known for his irascibility.",
+    "sentence2": "His irascibility made the other sailors afraid to talk to him.",
     "pronunciation": "ih-ras-uh-BIL-ih-tee",
     "speakAs": null,
     "altPronunciations": []
@@ -3496,6 +3873,7 @@
     "partOfSpeech": "adverb",
     "definition": "Sung without any musical instruments playing along.",
     "sentence": "The choir sang the song a cappella.",
+    "sentence2": "Singing a cappella means singing with no instruments at all.",
     "pronunciation": "ah kuh-PEL-uh",
     "speakAs": null,
     "altPronunciations": [],
@@ -3506,6 +3884,7 @@
     "partOfSpeech": "noun",
     "definition": "The main official language of Ethiopia.",
     "sentence": "My friend's grandmother speaks Amharic at home.",
+    "sentence2": "Amharic is a language spoken in Ethiopia.",
     "pronunciation": "am-HAIR-ik",
     "speakAs": "am hair ik",
     "altPronunciations": []
@@ -3515,6 +3894,7 @@
     "partOfSpeech": "noun",
     "definition": "A historic city in western England; also a fishing city in Massachusetts.",
     "sentence": "We visited the old cathedral in Gloucester.",
+    "sentence2": "Gloucester is an old city in the west of England.",
     "pronunciation": "GLOSS-ter",
     "speakAs": "gloss ter",
     "altPronunciations": [],
@@ -3525,6 +3905,7 @@
     "partOfSpeech": "noun",
     "definition": "Thinly sliced, dry-cured Italian ham.",
     "sentence": "The pizza was topped with prosciutto and fresh basil.",
+    "sentence2": "Prosciutto is thin, salty ham from Italy.",
     "pronunciation": "proh-SHOO-toh",
     "speakAs": "pro shoo toe",
     "altPronunciations": []
@@ -3534,6 +3915,7 @@
     "partOfSpeech": "adjective",
     "definition": "Made of the tough, light material that forms the outer shells of insects, crabs, and spiders.",
     "sentence": "A beetle's chitinous shell protects its soft body.",
+    "sentence2": "Crabs and lobsters have chitinous shells.",
     "pronunciation": "KY-tin-us",
     "speakAs": "ky tin us",
     "altPronunciations": []
@@ -3543,6 +3925,7 @@
     "partOfSpeech": "noun",
     "definition": "An English-based creole language spoken widely in Sierra Leone.",
     "sentence": "People in Freetown often speak Krio with their friends.",
+    "sentence2": "Krio is the language that many people in Sierra Leone share.",
     "pronunciation": "KREE-oh",
     "speakAs": "kree oh",
     "altPronunciations": []
@@ -3552,6 +3935,7 @@
     "partOfSpeech": "noun",
     "definition": "The capital and largest city of Ethiopia.",
     "sentence": "The runners trained in the high hills around Addis Ababa.",
+    "sentence2": "Addis Ababa is the capital city of Ethiopia.",
     "pronunciation": "AH-dis AH-buh-buh",
     "speakAs": "ah dis ah buh buh",
     "altPronunciations": [],
@@ -3562,6 +3946,7 @@
     "partOfSpeech": "noun",
     "definition": "A country or region that is controlled and defended by a stronger country.",
     "sentence": "The island was once a protectorate of a European nation.",
+    "sentence2": "A protectorate is a land that is protected and partly ruled by a stronger country.",
     "pronunciation": "pruh-TEK-ter-it",
     "speakAs": null,
     "altPronunciations": []
@@ -3571,6 +3956,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with the lungs.",
     "sentence": "A pulmonary doctor helps people who have trouble breathing.",
+    "sentence2": "Pulmonary means having to do with the lungs.",
     "pronunciation": "PUL-muh-nair-ee",
     "speakAs": null,
     "altPronunciations": [
@@ -3582,6 +3968,7 @@
     "partOfSpeech": "noun",
     "definition": "An estimate that is close to the exact amount but not exact.",
     "sentence": "Three is a good approximation of pi.",
+    "sentence2": "My guess of one hundred jelly beans was a close approximation.",
     "pronunciation": "uh-prok-sih-MAY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -3591,6 +3978,7 @@
     "partOfSpeech": "noun",
     "definition": "A thick, sweet, clear liquid used in soaps, lotions, and medicines.",
     "sentence": "The soap was made with glycerin to keep skin soft.",
+    "sentence2": "Glycerin is a clear, sweet, sticky liquid.",
     "pronunciation": "GLIS-er-in",
     "speakAs": null,
     "altPronunciations": []
@@ -3600,6 +3988,7 @@
     "partOfSpeech": "noun",
     "definition": "A smooth, white stone that is easy to carve; also a pure white color.",
     "sentence": "The museum displayed a statue carved from alabaster.",
+    "sentence2": "Alabaster is a smooth, white stone that is soft enough to carve.",
     "pronunciation": "AL-uh-bas-ter",
     "speakAs": null,
     "altPronunciations": []
@@ -3609,6 +3998,7 @@
     "partOfSpeech": "noun",
     "definition": "A leafy green vegetable with a peppery taste, often used in salads.",
     "sentence": "Mom tossed arugula with tomatoes for our salad.",
+    "sentence2": "Arugula is a leafy green with a peppery taste.",
     "pronunciation": "uh-ROO-guh-luh",
     "speakAs": null,
     "altPronunciations": []
@@ -3618,6 +4008,7 @@
     "partOfSpeech": "noun",
     "definition": "An instrument that measures how much something shakes or quivers.",
     "sentence": "The engineer used a vibrometer to test the bridge.",
+    "sentence2": "A vibrometer measures how much something shakes.",
     "pronunciation": "vy-BROM-ih-ter",
     "speakAs": null,
     "altPronunciations": [],
@@ -3629,6 +4020,7 @@
     "partOfSpeech": "noun",
     "definition": "A thick, creamy sauce made from egg yolks, oil, and vinegar or lemon juice.",
     "sentence": "I spread mayonnaise on my turkey sandwich.",
+    "sentence2": "Mayonnaise is made from eggs and oil.",
     "pronunciation": "MAY-uh-nayz",
     "speakAs": null,
     "altPronunciations": [
@@ -3640,6 +4032,7 @@
     "partOfSpeech": "noun",
     "definition": "Mucus that is coughed up from the lungs.",
     "sentence": "The doctor tested a sample of sputum to find out why the patient was coughing.",
+    "sentence2": "Sputum is the thick spit that comes up when you cough.",
     "pronunciation": "SPYOO-tum",
     "speakAs": null,
     "altPronunciations": []
@@ -3649,6 +4042,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having a deep, clear, sky-blue color.",
     "sentence": "The cerulean sea sparkled under the summer sun.",
+    "sentence2": "She painted the sky a bright cerulean blue.",
     "pronunciation": "suh-ROO-lee-un",
     "speakAs": null,
     "altPronunciations": []
@@ -3658,6 +4052,7 @@
     "partOfSpeech": "noun",
     "definition": "A short street that is closed at one end and has a round area for turning around.",
     "sentence": "We play kickball in the cul-de-sac at the end of our street.",
+    "sentence2": "A cul-de-sac is a dead-end street with a circle at the end.",
     "pronunciation": "KUL-duh-sak",
     "speakAs": null,
     "altPronunciations": [
@@ -3670,6 +4065,7 @@
     "partOfSpeech": "noun",
     "definition": "Minerals such as salt and potassium that carry tiny charges in body fluids and help muscles work.",
     "sentence": "Sports drinks help replace electrolytes lost through sweat.",
+    "sentence2": "Bananas have electrolytes that help your muscles work.",
     "pronunciation": "ih-LEK-truh-lyts",
     "speakAs": null,
     "altPronunciations": []
@@ -3679,6 +4075,7 @@
     "partOfSpeech": "adjective",
     "definition": "Harmful to the ears or to hearing.",
     "sentence": "Some strong medicines are ototoxic and can damage hearing.",
+    "sentence2": "The doctor avoided an ototoxic medicine to protect the patient's ears.",
     "pronunciation": "oh-toh-TOK-sik",
     "speakAs": "oh toe tok sik",
     "altPronunciations": []
@@ -3688,6 +4085,7 @@
     "partOfSpeech": "noun",
     "definition": "The Greek goddess of love and beauty.",
     "sentence": "In the myth, Aphrodite was born from the foam of the sea.",
+    "sentence2": "Aphrodite was the Greek goddess of love and beauty.",
     "pronunciation": "af-ruh-DY-tee",
     "speakAs": "af ruh dye tee",
     "altPronunciations": []
@@ -3697,6 +4095,7 @@
     "partOfSpeech": "noun",
     "definition": "A brown Australian insect that flies at night and travels hundreds of miles each spring to cool mountain caves.",
     "sentence": "Every spring, the bogong moth travels to caves in the Australian Alps.",
+    "sentence2": "The bogong moth is an important food for mountain birds in Australia.",
     "pronunciation": "BOH-gong mawth",
     "speakAs": "boh gong moth",
     "altPronunciations": [],
@@ -3707,6 +4106,7 @@
     "partOfSpeech": "noun",
     "definition": "Members of organized crime gangs in Japan.",
     "sentence": "The detective in the movie tried to stop the yakuza in Tokyo.",
+    "sentence2": "The yakuza is a criminal gang in Japan.",
     "pronunciation": "yah-KOO-zuh",
     "speakAs": null,
     "altPronunciations": []
@@ -3716,6 +4116,7 @@
     "partOfSpeech": "noun",
     "definition": "Tiny sense organs, often shaped like hairs, on the bodies of insects and other small animals.",
     "sentence": "A fly tastes food with sensilla on its feet.",
+    "sentence2": "Insects use sensilla, which are tiny hairs, to smell and touch.",
     "pronunciation": "sen-SIL-uh",
     "speakAs": null,
     "altPronunciations": [],
@@ -3726,6 +4127,7 @@
     "partOfSpeech": "adjective",
     "definition": "Named after a particular person, or giving its own name to something.",
     "sentence": "The singer's eponymous first album was simply called by her own name.",
+    "sentence2": "The eponymous hero of \"Peter Pan\" is Peter Pan himself.",
     "pronunciation": "ih-PON-ih-mus",
     "speakAs": null,
     "altPronunciations": []
@@ -3735,6 +4137,7 @@
     "partOfSpeech": "noun",
     "definition": "A member of a Protestant Christian church that is governed by elected leaders called elders.",
     "sentence": "My grandparents are Presbyterian and attend the church on Main Street.",
+    "sentence2": "The Presbyterian church has a tall white steeple.",
     "pronunciation": "prez-bih-TEER-ee-un",
     "speakAs": null,
     "altPronunciations": []
@@ -3744,6 +4147,7 @@
     "partOfSpeech": "noun",
     "definition": "A kind of helpful bacteria found in yogurt and in the human gut.",
     "sentence": "Yogurt is made when lactobacillus turns milk thick and tangy.",
+    "sentence2": "Lactobacillus is a good kind of bacteria that lives in your stomach.",
     "pronunciation": "lak-toh-buh-SIL-us",
     "speakAs": null,
     "altPronunciations": []
@@ -3753,10 +4157,11 @@
     "partOfSpeech": "noun",
     "definition": "A feeling of strong hope and cheerfulness that some people very sick with tuberculosis had, even near the end of their illness.",
     "sentence": "The doctor described the patient's surprising cheerfulness as spes phthisica.",
+    "sentence2": "In old stories, spes phthisica was the false hope that some very sick people felt.",
     "pronunciation": "SPAYS TIZ-ih-kuh",
-    "speakAs": "spays tiz ih kuh",
+    "speakAs": "spays tizza-kuh",
     "altPronunciations": [
-      "speez thiz ih kuh"
+      "speez thizza-kuh"
     ],
     "needsReview": true,
     "note": "A Latin phrase meaning \"the hope of the consumptive\". Pronunciation of Latin terms varies; please double-check."
@@ -3766,6 +4171,7 @@
     "partOfSpeech": "noun",
     "definition": "A small state on the east coast of the United States; the first state to approve the Constitution.",
     "sentence": "Delaware is called the First State.",
+    "sentence2": "Delaware is a small state on the East Coast.",
     "pronunciation": "DEL-uh-wair",
     "speakAs": null,
     "altPronunciations": []
@@ -3775,6 +4181,7 @@
     "partOfSpeech": "adjective",
     "definition": "Moving or shaped in smooth waves that rise and fall.",
     "sentence": "We drove through undulating hills covered in wheat.",
+    "sentence2": "The snake moved in an undulating motion across the sand.",
     "pronunciation": "UN-juh-lay-ting",
     "speakAs": null,
     "altPronunciations": [
@@ -3786,6 +4193,7 @@
     "partOfSpeech": "adjective",
     "definition": "Ghostly or dreamlike; seeming real but not real.",
     "sentence": "A phantasmal shape drifted across the foggy graveyard.",
+    "sentence2": "The phantasmal glow in the swamp made us shiver.",
     "pronunciation": "fan-TAZ-mul",
     "speakAs": null,
     "altPronunciations": []
@@ -3795,6 +4203,7 @@
     "partOfSpeech": "noun",
     "definition": "A metal container that holds burning coals or charcoal for heat or cooking.",
     "sentence": "The guards warmed their hands over a brazier on the castle wall.",
+    "sentence2": "The brazier held hot coals to keep the room warm.",
     "pronunciation": "BRAY-zher",
     "speakAs": null,
     "altPronunciations": []
@@ -3804,6 +4213,7 @@
     "partOfSpeech": "noun",
     "definition": "A creature with eight legs and two body parts, such as a spider, scorpion, or tick.",
     "sentence": "A scorpion is an arachnid, not an insect.",
+    "sentence2": "A spider is an arachnid because it has eight legs.",
     "pronunciation": "uh-RAK-nid",
     "speakAs": null,
     "altPronunciations": []
@@ -3813,6 +4223,7 @@
     "partOfSpeech": "adverb",
     "definition": "In a way that is extreme and unhealthy, as if caused by an illness.",
     "sentence": "The villain in the story was pathologically greedy and never had enough gold.",
+    "sentence2": "The doctor said the man was pathologically afraid of germs.",
     "pronunciation": "path-uh-LOJ-ik-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -3822,6 +4233,7 @@
     "partOfSpeech": "noun",
     "definition": "A person or thing that is a perfect example of an idea or quality.",
     "sentence": "The firefighter was the embodiment of courage.",
+    "sentence2": "The kind old woman was the embodiment of kindness.",
     "pronunciation": "em-BOD-ee-ment",
     "speakAs": null,
     "altPronunciations": []
@@ -3831,6 +4243,7 @@
     "partOfSpeech": "noun",
     "definition": "Small ocean mammals related to dolphins, with rounded snouts.",
     "sentence": "We watched porpoises leap beside the ferry.",
+    "sentence2": "Porpoises are smaller cousins of dolphins.",
     "pronunciation": "POR-puh-siz",
     "speakAs": null,
     "altPronunciations": []
@@ -3840,6 +4253,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with the mind and emotions.",
     "sentence": "Getting enough sleep is important for psychological health.",
+    "sentence2": "A psychological test can show how a person thinks and feels.",
     "pronunciation": "sy-kuh-LOJ-ih-kul",
     "speakAs": null,
     "altPronunciations": [],
@@ -3850,6 +4264,7 @@
     "partOfSpeech": "noun",
     "definition": "A collection or group of things or people gathered together.",
     "sentence": "An assemblage of shells, rocks, and feathers decorated the shelf.",
+    "sentence2": "An assemblage of birds gathered at the feeder.",
     "pronunciation": "uh-SEM-blij",
     "speakAs": null,
     "altPronunciations": []
@@ -3859,6 +4274,7 @@
     "partOfSpeech": "noun",
     "definition": "A long-lasting disease that damages the skin and nerves; today it can be cured with medicine.",
     "sentence": "Doctors can now cure leprosy with medicine.",
+    "sentence2": "Long ago, people with leprosy were sent away from their towns.",
     "pronunciation": "LEP-ruh-see",
     "speakAs": null,
     "altPronunciations": []
@@ -3868,6 +4284,7 @@
     "partOfSpeech": "interjection",
     "definition": "A cry of joy when you suddenly find or figure out something.",
     "sentence": "\"Eureka!\" shouted the scientist when the experiment worked.",
+    "sentence2": "When I finally found my lost shoe, I shouted, \"Eureka!\"",
     "pronunciation": "yoo-REE-kuh",
     "speakAs": null,
     "altPronunciations": []
@@ -3877,6 +4294,7 @@
     "partOfSpeech": "noun",
     "definition": "Worms whose bodies are made of many ring-shaped segments, such as earthworms and leeches.",
     "sentence": "Earthworms and leeches are both annelids.",
+    "sentence2": "Annelids are worms with bodies made of many rings.",
     "pronunciation": "AN-uh-lidz",
     "speakAs": null,
     "altPronunciations": []
@@ -3886,6 +4304,7 @@
     "partOfSpeech": "noun",
     "definition": "A thin oil that is burned as fuel in lamps, heaters, and jet engines.",
     "sentence": "The old lantern burned kerosene.",
+    "sentence2": "Kerosene is a fuel that can light lamps and heat homes.",
     "pronunciation": "KAIR-uh-seen",
     "speakAs": null,
     "altPronunciations": []
@@ -3895,6 +4314,7 @@
     "partOfSpeech": "noun",
     "definition": "A state in the northeastern United States, home of Philadelphia and the Liberty Bell.",
     "sentence": "We saw the Liberty Bell on our trip to Pennsylvania.",
+    "sentence2": "Pennsylvania is the state where the city of Philadelphia is.",
     "pronunciation": "pen-sul-VAYN-yuh",
     "speakAs": null,
     "altPronunciations": []
@@ -3904,6 +4324,7 @@
     "partOfSpeech": "noun",
     "definition": "A small, round bottle used in ancient times; also a widened part of a tube in the body, such as in the inner ear.",
     "sentence": "The museum displayed a clay ampulla that once held holy oil.",
+    "sentence2": "An ampulla is a small round bottle with two handles.",
     "pronunciation": "am-PUUL-uh",
     "speakAs": "am pull uh",
     "altPronunciations": []
@@ -3913,6 +4334,7 @@
     "partOfSpeech": "noun",
     "definition": "A rare, shrew-like mammal from Cuba and Hispaniola that has a venomous bite.",
     "sentence": "The solenodon came out at night to hunt for insects.",
+    "sentence2": "The solenodon has a long snout and a poisonous bite.",
     "pronunciation": "soh-LEN-uh-don",
     "speakAs": "so len uh don",
     "altPronunciations": []
@@ -3922,6 +4344,7 @@
     "partOfSpeech": "noun",
     "definition": "A country on the west coast of Africa whose capital is Freetown.",
     "sentence": "Sierra Leone has beautiful beaches along the Atlantic Ocean.",
+    "sentence2": "Sierra Leone is a country in West Africa.",
     "pronunciation": "see-AIR-uh lee-OHN",
     "speakAs": "see air uh lee ohn",
     "altPronunciations": [],
@@ -3932,6 +4355,7 @@
     "partOfSpeech": "noun",
     "definition": "A novel that follows a young person as they grow up and learn about life.",
     "sentence": "The book is a Bildungsroman about a girl growing up on a farm.",
+    "sentence2": "A Bildungsroman tells the story of a young person growing up.",
     "pronunciation": "BIL-duungz-roh-mahn",
     "speakAs": "bill doongs roh mahn",
     "altPronunciations": [],
@@ -3942,6 +4366,7 @@
     "partOfSpeech": "noun",
     "definition": "The long, stiff whiskers on the faces of animals such as cats and seals.",
     "sentence": "A cat uses its vibrissae to feel its way in the dark.",
+    "sentence2": "Vibrissae is another word for an animal's whiskers.",
     "pronunciation": "vy-BRIS-ee",
     "speakAs": "vye briss ee",
     "altPronunciations": [],
@@ -3952,6 +4377,7 @@
     "partOfSpeech": "noun",
     "definition": "An unusual or remarkable event or fact that can be observed.",
     "sentence": "The northern lights are an amazing natural phenomenon.",
+    "sentence2": "A rainbow is a phenomenon caused by sunlight shining through raindrops.",
     "pronunciation": "fih-NOM-uh-non",
     "speakAs": null,
     "altPronunciations": []
@@ -3961,6 +4387,7 @@
     "partOfSpeech": "verb",
     "definition": "To make pain or a problem less severe.",
     "sentence": "The medicine helped alleviate my headache.",
+    "sentence2": "Ice can alleviate the swelling of a sprained ankle.",
     "pronunciation": "uh-LEE-vee-ayt",
     "speakAs": null,
     "altPronunciations": []
@@ -3970,6 +4397,7 @@
     "partOfSpeech": "noun",
     "definition": "A group of diplomats, or their office, representing their government in a foreign country, one rank below an embassy.",
     "sentence": "The American legation was in a small building near the palace.",
+    "sentence2": "The legation was a small office that worked like an embassy.",
     "pronunciation": "lih-GAY-shun",
     "speakAs": null,
     "altPronunciations": []
@@ -3979,6 +4407,7 @@
     "partOfSpeech": "noun",
     "definition": "Shyness that comes from a lack of confidence.",
     "sentence": "Her diffidence kept her from raising her hand in class.",
+    "sentence2": "He spoke with diffidence because he was not sure of himself.",
     "pronunciation": "DIF-ih-dunss",
     "speakAs": null,
     "altPronunciations": []
@@ -3988,6 +4417,7 @@
     "partOfSpeech": "noun",
     "definition": "A gas that burns easily and is used as fuel in lighters and camping stoves.",
     "sentence": "The camping stove runs on butane.",
+    "sentence2": "Butane is the fuel inside a lighter.",
     "pronunciation": "BYOO-tayn",
     "speakAs": null,
     "altPronunciations": []
@@ -3997,6 +4427,7 @@
     "partOfSpeech": "noun",
     "definition": "A cloudy area in the lens of the eye that blurs vision; also a large waterfall.",
     "sentence": "Grandpa had surgery to remove a cataract so he could see clearly.",
+    "sentence2": "A cataract makes the lens of the eye cloudy.",
     "pronunciation": "KAT-uh-rakt",
     "speakAs": null,
     "altPronunciations": []
@@ -4006,6 +4437,7 @@
     "partOfSpeech": "noun",
     "definition": "A baked pie with a filling of eggs, cream, cheese, and often vegetables or meat.",
     "sentence": "We had spinach quiche for brunch.",
+    "sentence2": "Quiche is a pie filled with eggs, cheese, and vegetables.",
     "pronunciation": "KEESH",
     "speakAs": "keesh",
     "altPronunciations": []
@@ -4015,6 +4447,7 @@
     "partOfSpeech": "noun",
     "definition": "A gentle or polite word used in place of one that might sound harsh or unpleasant.",
     "sentence": "\"Passed away\" is a euphemism for \"died.\"",
+    "sentence2": "Saying someone is \"big-boned\" is a euphemism for saying they are large.",
     "pronunciation": "YOO-fuh-miz-um",
     "speakAs": null,
     "altPronunciations": []
@@ -4024,6 +4457,7 @@
     "partOfSpeech": "noun",
     "definition": "A helper or follower, especially one who assists a priest during a church service.",
     "sentence": "The acolyte lit the candles before the service began.",
+    "sentence2": "The acolyte carried the cross at the front of the church procession.",
     "pronunciation": "AK-uh-lyt",
     "speakAs": null,
     "altPronunciations": []
@@ -4033,6 +4467,7 @@
     "partOfSpeech": "adjective",
     "definition": "Harmless; not likely to hurt or upset anyone.",
     "sentence": "The snake looked scary, but it was completely innocuous.",
+    "sentence2": "The question seemed innocuous, but it started a big argument.",
     "pronunciation": "ih-NOK-yoo-us",
     "speakAs": null,
     "altPronunciations": []
@@ -4042,6 +4477,7 @@
     "partOfSpeech": "noun",
     "definition": "The capital city of Libya, on the Mediterranean Sea.",
     "sentence": "Tripoli is a busy port city in North Africa.",
+    "sentence2": "Tripoli is the capital city of Libya.",
     "pronunciation": "TRIP-uh-lee",
     "speakAs": null,
     "altPronunciations": []
@@ -4051,6 +4487,7 @@
     "partOfSpeech": "adjective",
     "definition": "Having to do with the nerves and the brain.",
     "sentence": "The doctor ran neurological tests to check her reflexes.",
+    "sentence2": "Neurological doctors treat problems with the brain and nerves.",
     "pronunciation": "noor-uh-LOJ-ih-kul",
     "speakAs": null,
     "altPronunciations": []
@@ -4060,6 +4497,7 @@
     "partOfSpeech": "noun",
     "definition": "Whales that have baleen plates instead of teeth, such as blue whales and humpbacks.",
     "sentence": "Mysticetes filter tiny krill from the water through their baleen.",
+    "sentence2": "Mysticetes, like humpback whales, have baleen instead of teeth.",
     "pronunciation": "MIS-tih-seets",
     "speakAs": "miss tih seets",
     "altPronunciations": []
@@ -4069,10 +4507,11 @@
     "partOfSpeech": "noun",
     "definition": "A country in northeastern Africa along the Red Sea.",
     "sentence": "Eritrea borders Ethiopia and Sudan.",
+    "sentence2": "Eritrea is a small country on the Red Sea in East Africa.",
     "pronunciation": "air-ih-TRAY-uh",
-    "speakAs": "air ih tray uh",
+    "speakAs": "Erra-traya",
     "altPronunciations": [
-      "air ih tree uh"
+      "Erra-treeya"
     ]
   },
   {
@@ -4080,8 +4519,9 @@
     "partOfSpeech": "noun",
     "definition": "A shrub covered with bright yellow flowers in early spring.",
     "sentence": "The forsythia bloomed bright yellow before any leaves appeared.",
+    "sentence2": "The forsythia bush by the porch turns yellow every spring.",
     "pronunciation": "for-SITH-ee-uh",
-    "speakAs": null,
+    "speakAs": "forsithia",
     "altPronunciations": []
   },
   {
@@ -4089,6 +4529,7 @@
     "partOfSpeech": "noun",
     "definition": "A chemical that comes from willow bark, is related to aspirin, and is used to treat acne and warts.",
     "sentence": "The face wash contains salicylic acid to help clear up pimples.",
+    "sentence2": "Salicylic acid comes from the bark of willow trees.",
     "pronunciation": "sal-ih-SIL-ik AS-id",
     "speakAs": null,
     "altPronunciations": [],
@@ -4099,6 +4540,7 @@
     "partOfSpeech": "noun",
     "definition": "Mantis shrimp; ocean animals that strike prey with incredibly fast, powerful claws.",
     "sentence": "Stomatopods can punch hard enough to crack a snail's shell.",
+    "sentence2": "Stomatopods are also called mantis shrimp.",
     "pronunciation": "stoh-MAT-uh-podz",
     "speakAs": "stoh mat uh podz",
     "altPronunciations": []
@@ -4108,6 +4550,7 @@
     "partOfSpeech": "noun",
     "definition": "A sweet-smelling tree sap that is burned as incense.",
     "sentence": "In the story, the wise men brought gold, frankincense, and myrrh.",
+    "sentence2": "Frankincense is a sweet-smelling tree sap that people burn as incense.",
     "pronunciation": "FRANK-in-sens",
     "speakAs": null,
     "altPronunciations": []
@@ -4117,6 +4560,7 @@
     "partOfSpeech": "noun",
     "definition": "Very fine hairs on spiders and some insects that sense tiny movements in the air.",
     "sentence": "A spider's trichobothria can sense a fly buzzing nearby.",
+    "sentence2": "Trichobothria are tiny hairs on a spider's legs that feel air moving.",
     "pronunciation": "try-koh-BOTH-ree-uh",
     "speakAs": "try koh both ree uh",
     "altPronunciations": [],
@@ -4127,6 +4571,7 @@
     "partOfSpeech": "noun",
     "definition": "A region in central Turkey known for its tall rock towers and hot-air balloon rides.",
     "sentence": "We floated over Cappadocia in a hot-air balloon at sunrise.",
+    "sentence2": "Cappadocia is a region in Turkey famous for its rock houses and fairy chimneys.",
     "pronunciation": "kap-uh-DOH-shuh",
     "speakAs": "kap uh doe shuh",
     "altPronunciations": [
