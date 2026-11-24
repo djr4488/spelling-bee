@@ -1,0 +1,94 @@
+# word | partOfSpeech | definition | sentence | pronunciation | speakAs | alts | flags | note
+self-sufficient | adjective | Able to take care of your own needs without help from others. | The family grew their own food and became self-sufficient on their farm. | self-suh-FISH-ent |  |  |  |
+conspicuous | adjective | Very easy to see or notice; standing out. | His bright orange jacket was conspicuous in the crowd. | kun-SPIK-yoo-us |  |  |  |
+perpendicular | adjective | Meeting another line or surface at a right angle, like the corner of a square. | The street runs perpendicular to the river. | per-pen-DIK-yuh-ler |  |  |  |
+torrential | adjective | Falling or flowing in a heavy, fast, powerful stream. | Torrential rain flooded the basement. | tor-EN-shul |  | tuh ren shul |  |
+sauntered | verb | Walked in a slow, relaxed way. | He sauntered into the room as if he had all the time in the world. | SAWN-terd |  |  |  |
+juniper | noun | An evergreen shrub or tree with prickly needles and small blue berry-like cones. | The juniper bushes in front of the school smell like pine. | JOO-nih-per |  |  |  |
+palazzo | noun | A large, grand building or palace in Italy. | We toured a palazzo in Venice with painted ceilings. | puh-LAHT-soh | puh laht so |  |  | Also used for wide-legged "palazzo pants".
+irrelevant | adjective | Not connected to the subject being discussed; not important to it. | The color of the pencil is irrelevant to the math problem. | ih-REL-uh-vunt |  |  |  |
+diplomatically | adverb | In a careful, polite way that avoids upsetting people. | She diplomatically suggested that we take turns choosing games. | dip-luh-MAT-ik-lee |  |  |  |
+calibrate | verb | To adjust a tool or machine so that it measures correctly. | The scientist had to calibrate the scale before weighing the samples. | KAL-ih-brayt |  |  |  |
+credenza | noun | A long, low cabinet used for storage, often in a dining room or office. | The family photos sat on top of the credenza. | krih-DEN-zuh |  |  |  |
+comprehensible | adjective | Able to be understood. | The teacher's directions were clear and comprehensible. | kom-prih-HEN-suh-bul |  |  |  |
+trenchant | adjective | Sharp, clear, and forceful in expressing ideas. | The critic's trenchant review pointed out every weakness in the movie. | TREN-chunt |  |  |  |
+despondent | adjective | Very sad and without hope. | The team was despondent after losing the championship. | dih-SPON-dent |  |  |  |
+echolocation | noun | A way some animals, like bats and dolphins, find things by making sounds and listening for them to bounce back. | Bats use echolocation to catch insects in the dark. | ek-oh-loh-KAY-shun |  |  |  |
+conflagration | noun | A large, destructive fire. | The conflagration destroyed several blocks of the old city. | kon-fluh-GRAY-shun |  |  |  |
+thermotaxis | noun | The movement of a living thing toward or away from heat. | Some worms move by thermotaxis toward warmer soil. | thur-moh-TAK-sis |  |  |  |
+inaugurate | verb | To officially swear someone into office, or to start something with a ceremony. | The country will inaugurate its new president in January. | ih-NAW-gyuh-rayt |  |  |  |
+bioluminescence | noun | Light given off by living things such as fireflies and some deep-sea fish. | The waves glowed blue at night because of bioluminescence. | by-oh-loo-mih-NES-unss |  |  |  |
+chickadee | noun | A small, friendly songbird with a black cap and throat that sings its own name. | A chickadee landed on the bird feeder outside the kitchen. | CHIK-uh-dee |  |  |  |
+asymmetric | adjective | Not the same on both sides; uneven in shape. | The artist made an asymmetric sculpture that leaned to one side. | ay-sih-MET-rik |  |  |  |
+sharpei | noun | A Chinese dog breed with loose, deeply wrinkled skin and a blue-black tongue. | Our sharpei puppy has so many wrinkles that it looks like it is wearing a coat that is too big. | shar-PAY | shar pay |  |  | Usually written Shar-Pei.
+endothermy | noun | The ability of an animal, such as a bird or mammal, to make its own body heat. | Thanks to endothermy, mammals can stay active in cold weather. | EN-doh-thur-mee |  |  |  |
+eclair | noun | A long, thin pastry filled with cream and topped with chocolate. | I chose a chocolate eclair from the bakery case. | ay-KLAIR | ay klair | ee klair |  | Also spelled with an accent, éclair.
+irascibility | noun | A tendency to get angry very easily; crankiness. | The old captain was known for his irascibility. | ih-ras-uh-BIL-ih-tee |  |  |  |
+a cappella | adverb | Sung without any musical instruments playing along. | The choir sang the song a cappella. | ah kuh-PEL-uh |  |  |  | Two words.
+Amharic | noun | The main official language of Ethiopia. | My friend's grandmother speaks Amharic at home. | am-HAIR-ik | am hair ik |  |  |
+Gloucester | noun | A historic city in western England; also a fishing city in Massachusetts. | We visited the old cathedral in Gloucester. | GLOSS-ter | gloss ter |  |  | The "ce" in the middle is silent.
+prosciutto | noun | Thinly sliced, dry-cured Italian ham. | The pizza was topped with prosciutto and fresh basil. | proh-SHOO-toh | pro shoo toe |  |  |
+chitinous | adjective | Made of the tough, light material that forms the outer shells of insects, crabs, and spiders. | A beetle's chitinous shell protects its soft body. | KY-tin-us | ky tin us |  |  |
+Krio | noun | An English-based creole language spoken widely in Sierra Leone. | People in Freetown often speak Krio with their friends. | KREE-oh | kree oh |  |  |
+Addis Ababa | noun | The capital and largest city of Ethiopia. | The runners trained in the high hills around Addis Ababa. | AH-dis AH-buh-buh | ah dis ah buh buh |  |  | Two words.
+protectorate | noun | A country or region that is controlled and defended by a stronger country. | The island was once a protectorate of a European nation. | pruh-TEK-ter-it |  |  |  |
+pulmonary | adjective | Having to do with the lungs. | A pulmonary doctor helps people who have trouble breathing. | PUL-muh-nair-ee |  | puul muh nair ee |  |
+approximation | noun | An estimate that is close to the exact amount but not exact. | Three is a good approximation of pi. | uh-prok-sih-MAY-shun |  |  |  |
+glycerin | noun | A thick, sweet, clear liquid used in soaps, lotions, and medicines. | The soap was made with glycerin to keep skin soft. | GLIS-er-in |  |  |  |
+alabaster | noun | A smooth, white stone that is easy to carve; also a pure white color. | The museum displayed a statue carved from alabaster. | AL-uh-bas-ter |  |  |  |
+arugula | noun | A leafy green vegetable with a peppery taste, often used in salads. | Mom tossed arugula with tomatoes for our salad. | uh-ROO-guh-luh |  |  |  |
+vibrometer | noun | An instrument that measures how much something shakes or quivers. | The engineer used a vibrometer to test the bridge. | vy-BROM-ih-ter |  |  | R | A technical word; please double-check the pronunciation.
+mayonnaise | noun | A thick, creamy sauce made from egg yolks, oil, and vinegar or lemon juice. | I spread mayonnaise on my turkey sandwich. | MAY-uh-nayz |  | man ayz |  |
+sputum | noun | Mucus that is coughed up from the lungs. | The doctor tested a sample of sputum to find out why the patient was coughing. | SPYOO-tum |  |  |  |
+cerulean | adjective | Having a deep, clear, sky-blue color. | The cerulean sea sparkled under the summer sun. | suh-ROO-lee-un |  |  |  |
+cul-de-sac | noun | A short street that is closed at one end and has a round area for turning around. | We play kickball in the cul-de-sac at the end of our street. | KUL-duh-sak |  | kuul duh sak |  | Hyphenated.
+electrolytes | noun | Minerals such as salt and potassium that carry tiny charges in body fluids and help muscles work. | Sports drinks help replace electrolytes lost through sweat. | ih-LEK-truh-lyts |  |  |  |
+ototoxic | adjective | Harmful to the ears or to hearing. | Some strong medicines are ototoxic and can damage hearing. | oh-toh-TOK-sik | oh toe tok sik |  |  |
+Aphrodite | noun | The Greek goddess of love and beauty. | In the myth, Aphrodite was born from the foam of the sea. | af-ruh-DY-tee | af ruh dye tee |  |  |
+bogong moth | noun | A brown Australian insect that flies at night and travels hundreds of miles each spring to cool mountain caves. | Every spring, the bogong moth travels to caves in the Australian Alps. | BOH-gong mawth | boh gong moth |  |  | Two words.
+yakuza | noun | Members of organized crime gangs in Japan. | The detective in the movie tried to stop the yakuza in Tokyo. | yah-KOO-zuh |  |  |  |
+sensilla | noun | Tiny sense organs, often shaped like hairs, on the bodies of insects and other small animals. | A fly tastes food with sensilla on its feet. | sen-SIL-uh |  |  |  | Plural of sensillum.
+eponymous | adjective | Named after a particular person, or giving its own name to something. | The singer's eponymous first album was simply called by her own name. | ih-PON-ih-mus |  |  |  |
+Presbyterian | noun | A member of a Protestant Christian church that is governed by elected leaders called elders. | My grandparents are Presbyterian and attend the church on Main Street. | prez-bih-TEER-ee-un |  |  |  |
+lactobacillus | noun | A kind of helpful bacteria found in yogurt and in the human gut. | Yogurt is made when lactobacillus turns milk thick and tangy. | lak-toh-buh-SIL-us |  |  |  |
+spes phthisica | noun | A feeling of strong hope and cheerfulness that some people very sick with tuberculosis had, even near the end of their illness. | The doctor described the patient's surprising cheerfulness as spes phthisica. | SPAYS TIZ-ih-kuh | spays tiz ih kuh | speez thiz ih kuh | R | A Latin phrase meaning "the hope of the consumptive". Pronunciation of Latin terms varies; please double-check.
+Delaware | noun | A small state on the east coast of the United States; the first state to approve the Constitution. | Delaware is called the First State. | DEL-uh-wair |  |  |  |
+undulating | adjective | Moving or shaped in smooth waves that rise and fall. | We drove through undulating hills covered in wheat. | UN-juh-lay-ting |  | un dyoo lay ting |  |
+phantasmal | adjective | Ghostly or dreamlike; seeming real but not real. | A phantasmal shape drifted across the foggy graveyard. | fan-TAZ-mul |  |  |  |
+brazier | noun | A metal container that holds burning coals or charcoal for heat or cooking. | The guards warmed their hands over a brazier on the castle wall. | BRAY-zher |  |  |  |
+arachnid | noun | A creature with eight legs and two body parts, such as a spider, scorpion, or tick. | A scorpion is an arachnid, not an insect. | uh-RAK-nid |  |  |  |
+pathologically | adverb | In a way that is extreme and unhealthy, as if caused by an illness. | The villain in the story was pathologically greedy and never had enough gold. | path-uh-LOJ-ik-lee |  |  |  |
+embodiment | noun | A person or thing that is a perfect example of an idea or quality. | The firefighter was the embodiment of courage. | em-BOD-ee-ment |  |  |  |
+porpoises | noun | Small ocean mammals related to dolphins, with rounded snouts. | We watched porpoises leap beside the ferry. | POR-puh-siz |  |  |  |
+psychological | adjective | Having to do with the mind and emotions. | Getting enough sleep is important for psychological health. | sy-kuh-LOJ-ih-kul |  |  |  | The p is silent.
+assemblage | noun | A collection or group of things or people gathered together. | An assemblage of shells, rocks, and feathers decorated the shelf. | uh-SEM-blij |  |  |  |
+leprosy | noun | A long-lasting disease that damages the skin and nerves; today it can be cured with medicine. | Doctors can now cure leprosy with medicine. | LEP-ruh-see |  |  |  |
+eureka | interjection | A cry of joy when you suddenly find or figure out something. | "Eureka!" shouted the scientist when the experiment worked. | yoo-REE-kuh |  |  |  |
+annelids | noun | Worms whose bodies are made of many ring-shaped segments, such as earthworms and leeches. | Earthworms and leeches are both annelids. | AN-uh-lidz |  |  |  |
+kerosene | noun | A thin oil that is burned as fuel in lamps, heaters, and jet engines. | The old lantern burned kerosene. | KAIR-uh-seen |  |  |  |
+Pennsylvania | noun | A state in the northeastern United States, home of Philadelphia and the Liberty Bell. | We saw the Liberty Bell on our trip to Pennsylvania. | pen-sul-VAYN-yuh |  |  |  |
+ampulla | noun | A small, round bottle used in ancient times; also a widened part of a tube in the body, such as in the inner ear. | The museum displayed a clay ampulla that once held holy oil. | am-PUUL-uh | am pull uh |  |  |
+solenodon | noun | A rare, shrew-like mammal from Cuba and Hispaniola that has a venomous bite. | The solenodon came out at night to hunt for insects. | soh-LEN-uh-don | so len uh don |  |  |
+Sierra Leone | noun | A country on the west coast of Africa whose capital is Freetown. | Sierra Leone has beautiful beaches along the Atlantic Ocean. | see-AIR-uh lee-OHN | see air uh lee ohn |  |  | Two words.
+Bildungsroman | noun | A novel that follows a young person as they grow up and learn about life. | The book is a Bildungsroman about a girl growing up on a farm. | BIL-duungz-roh-mahn | bill doongs roh mahn |  |  | A German word; capitalized like all German nouns.
+vibrissae | noun | The long, stiff whiskers on the faces of animals such as cats and seals. | A cat uses its vibrissae to feel its way in the dark. | vy-BRIS-ee | vye briss ee |  |  | Plural of vibrissa.
+phenomenon | noun | An unusual or remarkable event or fact that can be observed. | The northern lights are an amazing natural phenomenon. | fih-NOM-uh-non |  |  |  |
+alleviate | verb | To make pain or a problem less severe. | The medicine helped alleviate my headache. | uh-LEE-vee-ayt |  |  |  |
+legation | noun | A group of diplomats, or their office, representing their government in a foreign country, one rank below an embassy. | The American legation was in a small building near the palace. | lih-GAY-shun |  |  |  |
+diffidence | noun | Shyness that comes from a lack of confidence. | Her diffidence kept her from raising her hand in class. | DIF-ih-dunss |  |  |  |
+butane | noun | A gas that burns easily and is used as fuel in lighters and camping stoves. | The camping stove runs on butane. | BYOO-tayn |  |  |  |
+cataract | noun | A cloudy area in the lens of the eye that blurs vision; also a large waterfall. | Grandpa had surgery to remove a cataract so he could see clearly. | KAT-uh-rakt |  |  |  |
+quiche | noun | A baked pie with a filling of eggs, cream, cheese, and often vegetables or meat. | We had spinach quiche for brunch. | KEESH | keesh |  |  |
+euphemism | noun | A gentle or polite word used in place of one that might sound harsh or unpleasant. | "Passed away" is a euphemism for "died." | YOO-fuh-miz-um |  |  |  |
+acolyte | noun | A helper or follower, especially one who assists a priest during a church service. | The acolyte lit the candles before the service began. | AK-uh-lyt |  |  |  |
+innocuous | adjective | Harmless; not likely to hurt or upset anyone. | The snake looked scary, but it was completely innocuous. | ih-NOK-yoo-us |  |  |  |
+Tripoli | noun | The capital city of Libya, on the Mediterranean Sea. | Tripoli is a busy port city in North Africa. | TRIP-uh-lee |  |  |  |
+neurological | adjective | Having to do with the nerves and the brain. | The doctor ran neurological tests to check her reflexes. | noor-uh-LOJ-ih-kul |  |  |  |
+mysticetes | noun | Whales that have baleen plates instead of teeth, such as blue whales and humpbacks. | Mysticetes filter tiny krill from the water through their baleen. | MIS-tih-seets | miss tih seets |  |  |
+Eritrea | noun | A country in northeastern Africa along the Red Sea. | Eritrea borders Ethiopia and Sudan. | air-ih-TRAY-uh | air ih tray uh | air ih tree uh |  |
+forsythia | noun | A shrub covered with bright yellow flowers in early spring. | The forsythia bloomed bright yellow before any leaves appeared. | for-SITH-ee-uh |  |  |  |
+salicylic acid | noun | A chemical that comes from willow bark, is related to aspirin, and is used to treat acne and warts. | The face wash contains salicylic acid to help clear up pimples. | sal-ih-SIL-ik AS-id |  |  |  | Two words.
+stomatopods | noun | Mantis shrimp; ocean animals that strike prey with incredibly fast, powerful claws. | Stomatopods can punch hard enough to crack a snail's shell. | stoh-MAT-uh-podz | stoh mat uh podz |  |  |
+frankincense | noun | A sweet-smelling tree sap that is burned as incense. | In the story, the wise men brought gold, frankincense, and myrrh. | FRANK-in-sens |  |  |  |
+trichobothria | noun | Very fine hairs on spiders and some insects that sense tiny movements in the air. | A spider's trichobothria can sense a fly buzzing nearby. | try-koh-BOTH-ree-uh | try koh both ree uh |  |  | Plural of trichobothrium.
+Cappadocia | noun | A region in central Turkey known for its tall rock towers and hot-air balloon rides. | We floated over Cappadocia in a hot-air balloon at sunrise. | kap-uh-DOH-shuh | kap uh doe shuh | kap uh doe kee uh |  |

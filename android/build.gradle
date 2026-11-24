@@ -1,0 +1,127 @@
+// Android target (Amazon Fire HD tablets run Fire OS, an Android fork; a plain
+// sideloaded APK works, no Google Play Services needed).
+plugins {
+    id 'com.android.application' version '9.3.1'
+}
+
+// Release signing. The key and its passwords never go in the repo: they come from
+// keystore.properties in the project root (git-ignored), or from environment
+// variables (for a CI build). See "Making a release" in the README.
+def keystoreProps = new Properties()
+def keystorePropsFile = rootProject.file('keystore.properties')
+if (keystorePropsFile.exists()) keystorePropsFile.withInputStream { keystoreProps.load(it) }
+def signing = { String key, String env -> keystoreProps.getProperty(key) ?: System.getenv(env) }
+def releaseStoreFile = signing('storeFile', 'SPELLINGBEE_KEYSTORE')
+def hasReleaseKey = releaseStoreFile != null && rootProject.file(releaseStoreFile).isFile()
+
+android {
+    namespace 'com.spellingbee.android'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.spellingbee'
+        minSdk 24
+        targetSdk 36
+        versionCode Integer.parseInt(appVersionCode)
+        versionName appVersionName
+    }
+
+    signingConfigs {
+        release {
+            if (hasReleaseKey) {
+                storeFile rootProject.file(releaseStoreFile)
+                storePassword signing('storePassword', 'SPELLINGBEE_KEYSTORE_PASSWORD')
+                keyAlias signing('keyAlias', 'SPELLINGBEE_KEY_ALIAS')
+                keyPassword signing('keyPassword', 'SPELLINGBEE_KEY_PASSWORD')
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    sourceSets {
+        main {
+            assets.srcDirs = [rootProject.file('assets').path]
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (hasReleaseKey) signingConfig signingConfigs.release
+        }
+    }
+
+    lint {
+        abortOnError false
+    }
+}
+
+configurations { natives }
+
+dependencies {
+    implementation project(':core')
+    implementation "com.badlogicgames.gdx:gdx-backend-android:$gdxVersion"
+
+    natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a"
+    natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a"
+    natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86"
+    natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86_64"
+    natives "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-armeabi-v7a"
+    natives "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-arm64-v8a"
+    natives "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-x86"
+    natives "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-x86_64"
+}
+
+/** Unpacks libGDX's native .so files from their jars into libs/<abi>/. */
+abstract class CopyAndroidNatives extends DefaultTask {
+    @InputFiles
+    abstract ConfigurableFileCollection getNativeJars()
+
+    @OutputDirectory
+    abstract DirectoryProperty getOutputDir()
+
+    @Inject
+    abstract FileSystemOperations getFs()
+
+    @Inject
+    abstract ArchiveOperations getArchives()
+
+    @TaskAction
+    void unpack() {
+        fs.delete { delete outputDir }
+        nativeJars.files.each { jar ->
+            def matcher = jar.name =~ /natives-(.+)\.jar$/
+            if (!matcher.find()) return
+            def abi = matcher.group(1)
+            fs.copy {
+                from archives.zipTree(jar)
+                into outputDir.dir(abi)
+                include '**/*.so'
+                eachFile { it.relativePath = new RelativePath(true, it.name) }
+                includeEmptyDirs = false
+            }
+        }
+    }
+}
+
+tasks.register('copyAndroidNatives', CopyAndroidNatives) {
+    nativeJars.from(configurations.natives)
+    outputDir.set(layout.projectDirectory.dir('libs'))
+}
+
+tasks.named('preBuild') { dependsOn 'copyAndroidNatives' }
+
+// Without a release key, assembleRelease makes an unsigned APK that won't install.
+tasks.matching { it.name == 'assembleRelease' }.configureEach {
+    doFirst {
+        if (!hasReleaseKey) {
+            throw new GradleException('No release key: create keystore.properties ' +
+                '(see "Making a release" in the README), or use assembleDebug.')
+        }
+    }
+}

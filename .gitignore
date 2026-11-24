@@ -1,0 +1,62 @@
+# ---- Gradle ----
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.kotlin/
+
+# Machine-specific paths (Android SDK location). Each developer creates their own.
+local.properties
+
+# ---- Android ----
+# Native .so files unpacked by the copyAndroidNatives task
+/android/libs/
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+# Signing keys: never commit these
+*.jks
+*.keystore
+keystore.properties
+!debug.keystore
+google-services.json
+
+# ---- IntelliJ IDEA / Android Studio ----
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+.fleet/
+
+# ---- Other editors ----
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+*.swp
+*~
+.nb-gradle/
+nbproject/private/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Python (tools/) ----
+__pycache__/
+*.pyc
+.venv/
+
+# ---- Logs and crash dumps ----
+*.log
+hs_err_pid*.log
+replay_pid*.log

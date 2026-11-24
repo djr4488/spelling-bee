@@ -1,0 +1,50 @@
+allprojects {
+    group = 'com.spellingbee'
+    version = appVersionName
+
+    ext {
+        appName = 'Spelling Bee'
+        gdxVersion = '1.14.2'
+        junitVersion = '6.0.0'
+    }
+
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+// Plain Java modules (core, desktop) target Java 17.
+configure(subprojects.findAll { it.name != 'android' }) {
+    apply plugin: 'java'
+
+    java {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    tasks.withType(JavaCompile).configureEach {
+        options.encoding = 'UTF-8'
+        options.release = 17
+    }
+}
+
+// `./gradlew dist` builds the signed release APK and the desktop jar and copies
+// them to build/dist/ with the version in their names, ready to attach to a
+// GitHub release.
+tasks.register('dist', Copy) {
+    group = 'distribution'
+    description = 'Builds release files into build/dist/.'
+    into layout.buildDirectory.dir('dist')
+    from(project(':lwjgl3').tasks.named('jar')) {
+        rename { "SpellingBee-${appVersionName}.jar" }
+    }
+    if (findProject(':android') != null) {
+        dependsOn ':android:assembleRelease'
+        from(project(':android').layout.buildDirectory.dir('outputs/apk/release')) {
+            include '*.apk'
+            rename { "SpellingBee-${appVersionName}.apk" }
+        }
+    }
+    doFirst { delete layout.buildDirectory.dir('dist') }
+}

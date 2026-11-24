@@ -1,0 +1,33 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'spelling-bee'
+
+include ':core'
+include ':lwjgl3'
+
+// The Android module needs the Android SDK. When it is missing, the desktop
+// build still works and Gradle prints how to fix it instead of failing.
+def sdkFromProps = { ->
+    def f = file('local.properties')
+    if (!f.exists()) return null
+    def p = new Properties()
+    f.withInputStream { p.load(it) }
+    return p.getProperty('sdk.dir')
+}
+def sdkDir = sdkFromProps() ?: System.getenv('ANDROID_HOME') ?: System.getenv('ANDROID_SDK_ROOT')
+if (sdkDir != null && new File(sdkDir).isDirectory()) {
+    include ':android'
+} else {
+    println '''
+    *** Android SDK not found: the :android module is skipped. ***
+    Install the Android SDK (e.g. via Android Studio) and either set ANDROID_HOME
+    or create local.properties in the project root containing:
+        sdk.dir=/path/to/Android/Sdk
+    '''.stripIndent()
+}

@@ -1,0 +1,37 @@
+// Desktop launcher (Linux, Windows, macOS).
+plugins {
+    id 'application'
+}
+
+sourceSets.main.resources.srcDirs += [rootProject.file('assets').path]
+
+dependencies {
+    implementation project(':core')
+    implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+    implementation "com.badlogicgames.gdx:gdx-freetype-platform:$gdxVersion:natives-desktop"
+}
+
+application {
+    mainClass = 'com.spellingbee.lwjgl3.Lwjgl3Launcher'
+}
+
+run {
+    workingDir = rootProject.file('assets')
+    if (System.getProperty('os.name').toLowerCase().contains('mac')) {
+        jvmArgs '-XstartOnFirstThread'
+    }
+    ignoreExitValue = true
+}
+
+// `./gradlew lwjgl3:jar` produces a runnable fat jar: lwjgl3/build/libs/SpellingBee.jar
+jar {
+    archiveFileName = 'SpellingBee.jar'
+    dependsOn configurations.runtimeClasspath
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from { configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
+    exclude 'META-INF/INDEX.LIST', 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA', 'META-INF/versions/**'
+    manifest {
+        attributes 'Main-Class': application.mainClass
+    }
+}
